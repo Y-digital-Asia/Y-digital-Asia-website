@@ -29,9 +29,9 @@ features:
 
     A highly motivated and engaged workforce drives your business growth. Our digital AI assistants support your employees, by providing relevant information and knowledge, suggesting decisions, processing documents or automating repetitive work. Key results: more satisfied employees, higher quality, less workload, less repetitive work and increased flexibility.
 quote_slide:
-- quote_text: '"A common frustration with virtual assistants is that they do not understand
-    enough or lead you through dialogues that are irrelevant. Now technology is available
-    to not only be scalable but also customer friendly." '
+- quote_text: "\"A common frustration with virtual assistants is that they do not
+    understand enough or lead you through dialogues that are irrelevant. Now technology
+    is available to not only be scalable but also customer friendly.\"\n "
   author: Ian FitzPatrick
   from: Y.digital
   photo: "/img/upload/ian.JPG"
