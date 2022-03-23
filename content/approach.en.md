@@ -33,11 +33,10 @@ numbered_features:
     cases and concrete projects. We invite you to our Y.design lab, where we generate
     ideas and develop prototypes together. The most valuable ideas are elaborated,
     tested with the target audience and further optimized. Ready to be built.
-- text: Our experts will build, configure and test the AI solution, using the modules
-    of our own Y.platform. Core technologies we use are machine learning, natural
-    language processing and knowledge graphs. Your AI solution will be elaborated
-    in the agreed number of sprints. Progress will be shared with you during bi-weekly
-    demos.
+- text: Our experts then build, configure and test the AI solution, using the modules
+    of our own Y.ally platform. Core technologies we use are machine learning, natural
+    language processing and knowledge graphs. Your AI solution is developed in the
+    agreed number of sprints. Progress is shared with you during bi-weekly demos.
 - text: We will implement the AI solution in your business processes and provide training
     and assistance to your employees. As our AI solutions are container-based, they
     can be implemented in your own on-premise data-centre or cloud environment, or
