@@ -21,8 +21,8 @@ two_round_buttons:
   right_button_link: "/contact/"
 numbered_features:
 - text: During the first meeting we get to know each other and like to hear from you
-    what challenge you are facing. We see this as a key to success for a longterm
-    relationships, based on mutual trust. Together we will explore our AI solutions,
+    what challenge you are facing. We see this as a key to success for a long-term
+    relationship, based on mutual trust. Together we will explore our AI solutions,
     discuss showcase references and define AI-opportunities that add value to your
     business.
 - text: We start with why. Our digital transformation experts will acquire a deep
