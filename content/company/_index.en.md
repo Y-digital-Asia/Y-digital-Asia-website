@@ -13,7 +13,7 @@ intro_text: We believe great products and services can only thrive if you unders
   humans. Our reason **whY**.
 features:
 - text: |-
-    ## About Us
+    ## About us
 
     Y.digital is an experienced and specialized A.I. company founded by accomplished professionals. Our focus and ambition is to design, build, and deliver intelligent solutions that empower humans. We use our own unique approach and cutting-edge AI platform Ally to create conversational AI solutions that help customers to engage with companies in a more pleasant and intelligent way, as well as Intelligent Document Processing solutions to support organisations in making knowledge-intensive processes more consistent, scalable, and efficient.
 - text: |-
@@ -27,7 +27,7 @@ dna_circles:
 - text: Passion
 feature:
 - text: |-
-    ## Our Team
+    ## Our team
 
     We have built a team of experienced, highly motivated, skilled experts in various disciplines: strategy, business transformation, AI technology. We translate a fundamental scientific knowledge of AI concepts into day-to-day AI solutions. All have a shared passion: helping organizations to deliver concrete business value, with AI solutions that empower humans. The team is made up of 7 nationalities, with mixed cultural backgrounds and is based in the Netherlands (headquarters) and Vietnam.
 team:
@@ -52,7 +52,7 @@ team:
   name: Przemek Lenkiewicz
   job: Chief of Operations
 experience: |-
-  ## Our Experience
+  ## Our experience
 
   We are a leading company in AI, with a senior team and years of experience in digital transformation and AI. We work for A-brands in various sectors, such as Financial Services, Health and (semi) Public. We have a proven track record in strategy, designing, building and growing AI solutions in various sectors: Financial Services, Industry, Health and (semi) Public.
 academy: Developments in the field of AI are moving at an incredible speed. So, we
@@ -70,6 +70,7 @@ we_are_hiring: |-
 round_button:
   button_text: Careers
   button_link: "/company/careers/"
+ally_platform: ''
 menu:
   main:
     name: company
