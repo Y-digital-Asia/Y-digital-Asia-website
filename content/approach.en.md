@@ -45,8 +45,8 @@ numbered_features:
 - text: Based on user experiences and idea generation from you and us, we work on
     new features based on a prioritized backlog. To achieve an even better result.
     The AI-solution will be evolving and needs supervising learning mechanisms. We
-    will prioritize the backlog together with you and thus ensure continuous business
-    value and growth.
+    prioritize the backlog together with you and thus ensure continuous business value
+    and growth.
 menu:
   main:
     name: approach
