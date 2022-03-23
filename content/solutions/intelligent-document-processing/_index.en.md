@@ -54,8 +54,8 @@ esg_scan:
 compliance_reviewer:
   box_title: Compliance Reviewer
   box_text: Step into the world of Google Assistant and introduce your first AI-powered
-    voice-assistant. We offer a of the shelve solution with Voicedomain. Or your own
-    customized solution for sales or service.
+    voice assistant. We offer an off-the-shelf solution with Voicedomain. Or your
+    own customized solution for sales or service.
   link: "/contact/"
 page_heading_2: Y. solutions
 
