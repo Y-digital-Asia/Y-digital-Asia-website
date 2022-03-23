@@ -8,6 +8,7 @@
 .cs-content {
 	width: 50em;
 	max-width: 100%;
+	padding-bottom: 0;
 
 	p {
 		font-size: 1.25rem;
@@ -17,7 +18,8 @@
 
 	h2 {
 		font-size: 2rem;
-		text-align: left;
+		align-self: flex-start;
+		padding-bottom: 0.5em;
 	}
 
 	blockquote p {
