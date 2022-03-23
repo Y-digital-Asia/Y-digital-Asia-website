@@ -54,11 +54,11 @@ voice_assistant:
     own customized solution for sales or service.
   link: "/contact/"
 heroimage: hero-conversational-ai.jpg
-introtext: Users can communicate with a chatbot or voice-assistant in different languages,
+introtext: Users can communicate with a chatbot or voice assistant in different languages,
   using either voice, typing or a combination of both. Choosing the right conversational
-  platform is essential to create positive customer experiences. Chatbots and voice-assistants
-  have to overcome the through of disillusion. Too often users are not properly understood
-  or can only answer a question without supporting a following transactions.
+  platform is essential to create positive customer experiences. Chatbots and voice
+  assistants have to overcome the trough of disillusion. Too often users are not properly
+  understood or can only answer a question without supporting follow-up transactions.
 page_heading_2: Y. solutions
 
 ---
