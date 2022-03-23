@@ -888,14 +888,16 @@ dl.faq button[aria-expanded="true"] {
 
 .cs-content {
   width: 50em;
-  max-width: 100%; }
+  max-width: 100%;
+  padding-bottom: 0; }
   .cs-content p {
     font-size: 1.25rem;
     line-height: 1.5;
     margin-bottom: 2em; }
   .cs-content h2 {
     font-size: 2rem;
-    text-align: left; }
+    align-self: flex-start;
+    padding-bottom: 0.5em; }
   .cs-content blockquote p {
     font-size: 2rem;
     color: #4CACC6;
