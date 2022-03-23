@@ -9,7 +9,7 @@ hero_circles:
   right_circle: Start humanizing
 page_title: Ontdek het potentieel van artificial intelligence voor jouw organisatie
 intro_text: |-
-  Veel organisaties staan onder druk om te digitaliseren. Maar waarom? Digitale transformatie is geen doel op zich, het is een middel om een doel te bereiken. De reden waarom we als Y.digital in digitalisering investeren is om mensen te empoweren. Empowerment betekent dat je saai en repetitief werk overlaat aan een vertrouwde digitale collega. Empowerment betekent echt schaalbare self-service voor je klanten, zonder afbreuk te doen aan de human touch. Empowerment betekent geen barrières, black-boxes of lock-in maar open en controleerbare oplossingen.
+  Veel organisaties staan onder druk om te digitaliseren. Maar waarom? Digitale transformatie is geen doel op zich, het is een middel om een doel te bereiken. De reden waarom we als Y.digital in digitalisering investeren is om mensen te empoweren. Empowerment betekent dat je saai en repetitief werk overlaat aan een vertrouwde digitale collega. Empowerment betekent echt schaalbare self-service voor je klanten, zonder afbreuk te doen aan de human touch. Empowerment betekent geen barrières, black boxes of lock-in maar open en controleerbare oplossingen.
 
   Achter de buzzwords A.I., Machine Learning, Natural Language Processing en Knowledge Graphs schuilen de fundamenten voor empowerment. Maar de echte kracht komt niet van technologie maar door de mens als blauwdruk te gebruiken.
 blue_button:
