@@ -37,10 +37,10 @@ conversational_ai:
 intelligent_document_processing:
   box_title: Intelligent Document Processing
   box_text: We help you to capture lasting AI value at scale. This takes deeply internalizing
-    the long-term competitive benefits of augmenting human decision making and processing
-    data from many sources. At a massive scale and enormous speed. It will help you
-    to increase efficiency, quality and employee satisfaction. And substantially reduce
-    costs.
+    the long-term competitive benefits of augmenting human decision making and data
+    processing from many sources. At a massive scale and at lightening-fast speed.
+    It will help you to increase efficiency, quality and employee satisfaction. And
+    substantially reduce costs.
   link: "/solutions/intelligent-document-processing/"
 menu:
   main:
