@@ -27,7 +27,7 @@ features:
 - text: |-
     ## Employee driven
 
-    A highly motivated and engaged workforce drives your business growth. Our digital AI assistants support your employees, by providing relevant information and know- ledge, suggesting decisions, processing documents or automating repetitive work. Key results: more satisfied employees, higher quality, less workload, less repetitive work and increased flexibility.
+    A highly motivated and engaged workforce drives your business growth. Our digital AI assistants support your employees, by providing relevant information and knowledge, suggesting decisions, processing documents or automating repetitive work. Key results: more satisfied employees, higher quality, less workload, less repetitive work and increased flexibility.
 quote_slide:
 - quote_text: Om de dienstverlening aan onze klanten te verbeteren gaan we ook buiten
     kantoortijden AI-powered dienstverlening aanbieden.
