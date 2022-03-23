@@ -5,7 +5,7 @@ date = 2020-04-04T07:02:00Z
 featured_image = "/img/upload/humans-supercharged.jpg"
 image = ""
 layout = "blog"
-summary = ""
+summary = "Building and attaining knowledge takes dedication, learning and many hours of practice. This is why human experts and knowledge workers are by definition rare and hard to scale. What might be a solution to this complex issue? "
 title = "Humans Supercharged"
 
 +++
