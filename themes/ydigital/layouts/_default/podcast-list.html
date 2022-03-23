@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+{{ partial "hero.html" . }}
+
+<section class="wide blue">
+		
+		<!-- <img class="logo-image" src="/img/podcast.svg" alt="Podcast"> -->
+		<h1 class="white-text">Podcast Overview</h1>
+	
+	<section class="intro">
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+	</section>
+</section>
+
+<section class="wide second">
+
+	<section class="wide blog-list">
+
+	    {{ range .Pages.ByDate.Reverse }}
+	    <a href="{{ .Permalink }}">
+	    <section class="blogcard">
+	    	<div class="card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
+	    	<p class="date">{{ .Date.Format "02 January, 2006" }}</p>
+	    	<h1>{{ .Title }}</h1>
+	    	<p class="card-content">{{ .Params.summary }}</p>
+	    	<p class="card-read-more">read more</p>
+	    </section>
+	    </a>
+	    {{ end }}
+
+	    <section class="filling-empty-space"></section>
+	    <section class="filling-empty-space"></section>
+	    <section class="filling-empty-space"></section>
+
+	</section>
+
+</section>
+
+{{ end }}

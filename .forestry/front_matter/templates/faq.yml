@@ -1,0 +1,52 @@
+---
+label: FAQ
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: hero_image
+  label: Hero image
+- type: text
+  name: lang
+  label: lang
+  hidden: true
+- type: text
+  name: translationKey
+  label: translationKey
+  hidden: true
+- type: text
+  name: page_title
+  label: page_title
+- type: textarea
+  name: intro_text
+  label: intro_text
+- name: q_and_a
+  type: field_group_list
+  fields:
+  - name: question
+    type: text
+    config:
+      required: false
+    label: Question
+  - name: answer
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Answer
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Q and A
+pages:
+- content/company/faq.en.md
+- content/company/faq.nl.md

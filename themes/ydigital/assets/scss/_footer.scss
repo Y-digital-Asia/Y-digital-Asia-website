@@ -1,0 +1,191 @@
+
+/****** Footer ******/
+
+footer {
+    margin-top: 1em;
+    padding-top: 1em;
+    background-color: #EBECEC;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer-content {
+    display: grid;
+    grid-gap: 1rem;
+    padding: 3em;
+    width: 70em;
+    max-width: 90%;
+
+  grid-template-areas: 
+    'newsletter newsletter newsletter newsletter newsletter' 
+    'links address01 address02 social social' ;
+} 
+
+@media (max-width: 1140px) {
+  .footer-content  {
+    grid-template-areas: 
+      'newsletter newsletter newsletter newsletter' 
+      'links links address01 social' 
+      'links links address02 social' 
+  }
+}
+
+@media (max-width: 960px) {
+  .footer-content  {
+    grid-template-areas: 
+      'newsletter newsletter newsletter newsletter newsletter newsletter' 
+      'links links links links links links' 
+      'address01 address01 address01 address01 address01 address01' 
+      'address02 address02 address02 address02 address02 address02' 
+      'social social social social social social';
+  }
+}
+
+.footer-newsletter {
+  grid-area: newsletter;
+  padding: 1em 0;
+  margin-bottom: 2em;
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2em;
+  flex-wrap: wrap;
+}
+
+.newsletter-text {
+    h1 {
+        font-size: 1.5rem;
+        font-weight: 700;
+        text-align: left;
+        padding-bottom: 0.625em;
+    }
+    p {
+        max-width: 37ch;
+    }
+}
+
+.footer-newsletter form {
+
+    overflow: hidden;
+    
+    input {
+      float: left;
+      text-align: left;
+      @media (max-width: 767px) {
+          text-align: center;
+          width: 100%;
+        }
+      font-size: 0.875rem;
+      letter-spacing: 0.05rem;
+      outline: 0;
+      
+      &[type=email] {
+        margin-bottom: 15px;
+        border: 1px solid lighten($light-gray, 50%);
+        background-color: #fff;
+        
+        @media (min-width: 768px) {
+          margin-bottom: 0px;
+          width: 360px;
+          border-right-width: 0px;
+        }
+        
+        &:focus {
+          border-color: $light-gray;
+        }
+      }
+      
+      &[type=submit] {
+        background-color: $orange;
+        color: #fff;
+        border: 1px solid $orange;
+        
+        @media (min-width: 768px) {
+            width: 96px;
+        }
+        
+        &:hover {
+          cursor: pointer;
+          background-color: darken($orange, 10%);
+          border-color: darken($orange, 10%);
+        }
+      }
+    }
+}
+
+.footer-links {
+    grid-area: links;
+    width: 17.52em;
+    max-width: 96%;
+}
+
+#address01 {
+    grid-area: address01;
+}
+
+#address02 {
+    grid-area: address02;
+}
+
+.social-copyright {
+    text-align: right;
+    grid-area: social;
+}
+
+.horizontal {
+    background-image: url("/img/line-h.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    padding-top: 1em;
+    margin-bottom: 3.75em;
+}
+
+footer ul li, .division {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+.footer-submenu li {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+    padding-left: 2em;
+}
+
+address {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.social-copyright p {
+    font-size: 1em;
+    color: #49443c;
+    padding-bottom: 3px;
+}
+
+.social {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-bottom: 5px;
+    
+    li {
+        padding-left: 6px;
+    }
+}
+
+p.name a {
+    font-size: 1.125rem;
+    font-weight: 700;
+}
+
+.social-icon {
+    width: 2em;
+    height: 2em;
+}
+

@@ -1,0 +1,88 @@
+
+<div class="header-menu">
+	<nav class="nav" role="navigation">
+    <ul class="menu">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            {{ if .HasChildren }}
+                <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                  <a href="{{ .URL }}" aria-haspopup="true">
+                      {{ .Pre }}
+                      <span>{{ .Name }}</span>
+                  </a>
+                  <ul class="submenu dropdown" aria-label="submenu">
+                      {{ range .Children }}
+                          <a href="{{ .URL }}"><li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ else }}inactive{{ end }}">
+                              {{ .Name }}
+                            </li>
+                          </a>
+                      {{ end }}
+                  </ul>
+                </li>
+            {{ else }}
+                <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                    <a href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+            {{ end }}
+        {{ end }}
+
+
+       {{ if .IsTranslated }}
+          {{ range .Translations }}
+            {{ if eq .Site.Language.Lang "en" }}
+          <li><a class="lang-switcher" title="English" href="{{ .RelPermalink }}"><img src="/img/gb.svg" width="17px" alt="EN"> EN</a></li>
+            {{ else }}
+          <li><a class="lang-switcher" title="Dutch" href="{{ .RelPermalink }}"><img src="/img/nl.svg" width="17px" alt="NL"> NL</a></li>
+            {{ end }}
+          {{ end }}
+        {{ else }}
+          {{ if eq .Site.Language.Lang "nl" }}
+          <li><a class="lang-switcher" title="English" href="{{ .RelPermalink }}"><img src="/img/gb.svg" width="17px" alt="EN"> EN</a></li>
+          {{ else }}
+          <li><a class="lang-switcher" title="Dutch" href="{{ .RelPermalink }}"><img src="/img/nl.svg" width="17px" alt="NL"> NL</a></li>
+          {{ end }}
+        {{ end }}
+    </ul>
+	</nav>
+
+	<nav class='hamburger'>
+		<div id="menuToggle">
+			<input type="checkbox" />
+			<span></span>
+			<span></span>
+			<span></span>
+			<ul id="menu">
+
+
+    {{- $currentPage := . -}}
+    {{ range .Site.Menus.main -}}
+      {{ $isMenuCurrent := eq (.URL | relLangURL) $currentPage.RelPermalink }}
+    <li class="{{ if $isMenuCurrent }}active{{ end }}">
+        <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+    </li>
+    {{- end }}
+
+
+    {{ if .IsTranslated }}
+        {{ range .Translations }}
+          {{ if eq .Site.Language.Lang "en" }}
+        <li><a title="English" href="{{ .RelPermalink }}"><img src="/img/gb.svg" alt="EN"> EN</a></li>
+          {{ else }}
+        <li><a title="Dutch" href="{{ .RelPermalink }}"><img src="/img/nl.svg" alt="NL"> NL</a></li>
+          {{ end }}
+        {{ end }}
+      {{ else }}
+        {{ if eq .Site.Language.Lang "nl" }}
+        <li><a title="English" href="{{ .RelPermalink }}"><img src="/img/gb.svg" alt="EN"> EN</a></li>
+        {{ else }}
+        <li><a title="Dutch" href="{{ .RelPermalink }}"><img src="/img/nl.svg" alt="NL"> NL</a></li>
+        {{ end }}
+      {{ end }}
+
+			</ul>
+		</div>
+	</nav>
+</div>

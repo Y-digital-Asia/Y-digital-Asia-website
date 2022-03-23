@@ -1,0 +1,17 @@
+{{ with .Params.two_round_buttons }}  
+<div class="circles contact-circles">
+  <a href="{{ .left_button_link }}">
+    <div class="circle small dark-gray">
+      <p>{{ .left_button }}</p>
+    </div>
+  </a>
+    <div class="arrow">
+      <a href="{{ .right_button_link }}"><img src="/img/arrow-dark-gray.svg" alt=""></a>
+    </div>
+  <a href="{{ .right_button_link }}">
+    <div class="circle small orange">
+      <p>{{ .right_button }}</p>
+    </div>
+  </a>
+</div>
+{{ end }}

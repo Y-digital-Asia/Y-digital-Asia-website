@@ -1,0 +1,61 @@
+{{ define "main" }}
+{{ partial "hero.html" . }}
+
+<section class="wide light-gray">
+	<section class="intro">
+		<h1>{{ .Params.page_title }}</h1>
+		<p>{{ .Params.intro_text | markdownify }}</p>
+	</section>
+</section>
+
+<section class="wide second white">
+
+	{{ partial "features.html" . }}
+
+	<section class="our-dna">
+	{{ range .Params.dna_circles }}
+		<div class="circle dna"><p>{{ .text }}</p></div>
+	{{ end }}
+	</section>
+
+	{{ partial "feature.html" . }}
+
+	<section class="cards">
+		{{ range .Params.team }}
+		<section class="card team orange">
+			<img src="{{ .photo }}" alt="">
+			<p class="card-text">{{ .text }}</p>
+			<div class="person">
+				<p class="name">{{ .name }}</p>
+				<p class="job">{{ .job }}</p>
+			</div>
+		</section>
+		{{ end }}
+	</section>
+
+	<section class="feature">
+		<p>{{ markdownify .Params.experience }}</p>
+	</section>
+
+<section class="wide orange academy">
+	<div class="circle small dark-gray">
+	</div>
+	<section class="feature-dark-line">
+		<p>{{ markdownify .Params.academy }}</p>
+	</section>
+
+</section>
+
+
+
+	<section class="feature">
+		{{ markdownify .Params.we_are_hiring }}
+	</section>
+
+
+{{ partial "round-button.html" . }}
+
+</section>
+
+
+{{ end }}

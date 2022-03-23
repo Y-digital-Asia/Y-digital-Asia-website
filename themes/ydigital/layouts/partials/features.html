@@ -1,0 +1,5 @@
+{{ range .Params.features }}
+  <section class="feature">
+    <p>{{ markdownify .text }}</p>
+  </section>
+{{ end }}

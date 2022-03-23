@@ -1,0 +1,11 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Site.Title }} - {{ .Title }}{{- end }}</title>
+    <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+    {{ $scss := resources.Get "scss/main.scss" }}{{ $style := $scss | resources.ToCSS }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
+    <script type="text/javascript" src="/js/main.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+

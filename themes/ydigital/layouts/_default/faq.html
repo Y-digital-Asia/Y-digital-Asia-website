@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<section class="wide light-gray">
+	<section class="intro">
+		<h1 class="left">{{ .Params.page_title }}</h1>
+		<p>{{ .Params.intro_text }}</p>
+	</section>
+</section>
+
+<section class="wide second">
+
+<dl class="faq">
+
+{{ if .Params.q_and_a }}
+  {{ $counter := 0 }}
+  {{ range .Params.q_and_a }}
+    {{ $counter = add $counter 1 }}
+  <dt>
+    <button type="button" aria-expanded="false" aria-controls="qa{{ $counter }}">{{ .question }}</button>
+  </dt>
+  <dd>
+    <div id="qa{{ $counter }}" class="desc">
+    <p>{{ markdownify .answer }}</p>
+    </div>
+  </dd>
+    {{ end }}
+{{ end }}
+
+</dl>	
+
+</section>
+
+{{ end }}

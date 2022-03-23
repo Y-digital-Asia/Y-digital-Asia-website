@@ -1,0 +1,100 @@
+a {
+  text-decoration: none;
+}
+
+
+ul.menu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-right: 1em;
+
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+
+
+li {
+    font-size: 1.25rem;
+    padding: 0 0.75rem;
+
+    position: relative;
+    background-color:   rgba(255, 255, 255, 0.6);
+    }
+
+li:hover {
+  background: #fff;
+  cursor: pointer;
+  }
+
+li a:hover {
+    color: $orange;
+}
+
+li.active a { 
+    text-decoration: none; 
+    color: #f08900;
+    }
+
+}
+
+
+
+ul.submenu li {
+  line-height: 2;
+}
+
+ul.submenu a:hover li {
+  color: $orange;
+}
+
+ul.submenu {
+padding-top: 7px;
+// background: orange;
+// background: blue;
+visibility: hidden;
+opacity: 0;
+// min-width: 10rem;
+// width: 100%;
+position: absolute;
+transition: all 0.5s ease;
+// margin-top: 1.5rem;
+// padding-top: 1rem;
+left: 0;
+display: none;
+}
+
+
+
+
+
+ul.menu li:hover > ul,
+ul.menu li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  // display: inline;
+  display: block;
+  background-color: #fff;
+  // background-color: rgba(255, 255, 255, 0.3);
+}
+
+ul.submenu li:hover {
+  background-color: #fafafa;
+}
+
+ul.menu li ul li {
+clear: both;
+  width: 100%;
+  white-space: nowrap;
+}
+
+
+
+.active {
+  color: $orange;
+}
+
+.inactive {
+  color: $dark-gray;
+}

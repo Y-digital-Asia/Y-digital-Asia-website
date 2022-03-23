@@ -1,0 +1,211 @@
+
+
+/******** Circles *********/
+
+.circles {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2.7em;
+    max-width: 100%;
+    padding-bottom: 2.5em;
+}
+
+.circle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: none;   
+    
+    p { 
+    color: #fff; 
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-align: center;
+    // max-width: 10ch;
+    }
+}
+
+.big {
+    width: 16.75em;
+    height: 16.75em;
+    
+    p {
+    font-size: 2.4em;
+    max-width: 10ch;
+    }
+}
+
+.small {
+    width: 11em;
+    height: 11em;
+
+    p {
+    font-size: 1.375em;
+    padding: 0 1em 0.25em 1em;
+    }
+
+    img {
+    height: 1.875em;
+    width: 1.875em;
+    }
+}
+
+
+.arrow img {
+    height: 3em;
+    width: 3em;
+}
+
+
+
+
+.download {
+    position: absolute;
+    top: 0;
+    right: 14%;
+    transform: translateY(-50%);
+    background-color: $blue;
+
+    p {
+    color: $dark-gray;
+    font-size: 1.125rem;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 1em;
+    }
+}
+
+.our-dna {
+    width: 50em;
+    max-width: 90%;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 5em;
+    gap: 3em;
+    @media screen and (max-width: 600px) {
+        gap: 1em;
+        margin-bottom: 3em;
+    }
+}
+
+.dna {
+    background-color: $orange;
+    width: 10em;
+    height: 10em;
+
+    p { 
+        font-size: 1.25rem;
+    }
+    @media screen and (max-width: 600px) {
+
+        width: 4.375em;
+        height: 4.375em;
+
+        p { 
+            font-size: 0.5rem;
+        }
+    }
+}
+
+.contact-circles {
+    margin-top: 3em;
+}
+
+ .top {
+    margin-top: -5em;
+ }
+
+
+
+
+/******** Arrows *********/
+
+
+
+.arrow-small {
+    height: 1.875em;
+    width: 1.875em;
+    // padding-top: 0.25em;
+}
+
+.arrow-medium {
+    height: 2.5em;
+    width: 2.5em;
+    // padding-top: 0.25em;
+}
+
+.arrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/******** Circle media queries *********/
+
+@media screen and (max-width: 52em) {
+    .big {
+        width: 11em;
+        height: 11em;
+        
+        p {
+        font-size: 1.5em;
+        }
+    }
+
+    .circles {
+        gap: 2.5em;
+    }
+
+    .arrow img {
+        height: 2em;
+        width: 2em;
+    }
+
+}
+
+
+
+@media screen and (max-width: 41em) {
+    .circles {
+        gap: 1.5em;
+    }
+
+    .big {
+        width: 8em;
+        height: 8em;
+
+        p {
+        font-size: 1.2em;
+        }
+    }
+
+    .small {
+        width: 7em;
+        height: 7em;
+
+        p {
+        font-size: 1em;
+        }
+    }
+
+    .top {
+        margin-top: -2em;
+    }
+
+    .download {
+        p {
+            font-size: 0.75rem;
+        }
+    }
+
+    .arrow img {
+        height: 1.5em;
+        width: 1.5em;
+    }
+}

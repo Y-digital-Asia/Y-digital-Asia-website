@@ -1,0 +1,60 @@
+html {
+    font-family: $font-family;
+    scroll-behavior: smooth;
+}
+
+#container {
+	overflow-x:hidden;
+	position: relative;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: $gray-text;
+}
+
+h1 { 
+    text-align: center; 
+    max-width: 90%;
+    line-height: 1.4;
+}
+
+h1.left {
+    text-align: left;
+}
+
+h1, h2, strong { 
+    font-weight: 700; 
+}
+
+.heading-orange-text {
+    font-size: 2.5rem;
+    color: $orange;
+    margin-bottom: 1em;
+}
+
+a:hover { 
+	opacity: 0.8; 
+}
+
+ .dark-gray {
+    background-color: $dark-gray;
+ }
+
+ .orange {
+    background-color: $orange;
+ }
+
+ .blue {
+    background-color: $blue;
+ }
+
+.orange-text {
+    color: $orange;
+}
+
+.white-text { 
+    color: #fff; 
+}

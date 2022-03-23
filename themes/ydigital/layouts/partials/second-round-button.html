@@ -1,0 +1,10 @@
+{{ with .Params.second_round_button }}  
+ <a href="{{ .button_link | relLangURL }}">
+      <div class="circle small orange">
+          <p>{{ .button_text }}</p>
+          <img class="arrow-medium" src="/img/arrow-dark-gray.svg">
+      </div>
+    </a>
+{{ end }}
+
+   

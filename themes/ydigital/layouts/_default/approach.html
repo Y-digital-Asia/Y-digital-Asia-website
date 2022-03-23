@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+{{ partial "hero.html" . }}
+
+<section class="wide light-gray">
+
+	{{ partial "hero-circles.html" . }}
+
+	<section class="intro">
+		<p>{{ markdownify .Params.intro_text }}</p>
+	</section>
+</section>
+
+<section class="wide second">
+
+	<h1 class="orange-text approach">{{ .Params.page_title }}</h1>
+
+	{{ if .Params.numbered_features }}
+	  {{ $counter := -1 }}
+	  {{ range .Params.numbered_features }}
+	    {{ $counter = add $counter 1 }}
+	    <section id="f0{{ $counter }}" class="ftr">
+		    <p>{{ markdownify .text }}</p>
+		 </section>
+	  {{ end }}
+	{{ end }}
+
+	{{ partial "two-round-buttons.html" . }}
+
+</section>
+
+{{ end }}

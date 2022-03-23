@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+
+<section class="wide light-gray">
+
+	<h1>{{ .Page.Title }}</h1>
+	<h2>{{ .Params.subtitle }}</h2>
+	<img src="{{ .Params.image }}" alt="">
+
+</section>
+
+<section class="wide second">
+	
+{{ .Content }}
+
+</section>
+
+
+{{ end }}

@@ -1,0 +1,52 @@
+{{ define "main" }}
+{{ partial "hero.html" . }}
+
+<section class="wide light-gray">
+		
+		<h1>{{ .Params.page_title }}</h1>
+	
+	<section class="intro">
+		<p>{{ .Params.intro_text }}</p>
+	</section>
+</section>
+
+<section class="wide second">
+
+<dl class="career">
+
+{{ if .Params.vacancy }}
+  {{ $counter := 0 }}
+  {{ range .Params.vacancy }}
+    {{ $counter = add $counter 1 }}
+  <dt>
+    <button type="button" aria-expanded="false" aria-controls="role{{ $counter }}">{{ .title }}</button>
+  </dt>
+  <dd>
+	  <div id="role{{ $counter }}" class="desc">
+	    <h1 class="job-title-heading">{{ .title }}</h1>
+		<section class="feature">
+			{{ markdownify .role }}
+		</section>
+	  <section class="feature">
+			{{ markdownify .profile }}
+		</section>
+		<section class="card rect light-gray">
+			<h3 class="rect-heading">{{ .skills_heading }}</h3>
+			<p>{{ markdownify .skills }}</p>
+		</section>
+		<section class="card rect orange">
+			 <h3 class="rect-heading white-text">{{ .what_we_offer_heading }}</h3>
+			 {{ markdownify .what_we_offer }}
+		</section>
+		<section class="feature">
+			{{ markdownify .send_cv }}
+		</section>
+		</div>
+	 </dd>
+    {{ end }}
+{{ end }}
+</dl>
+
+</section>
+
+{{ end }}

@@ -1,0 +1,148 @@
+---
+label: Conversational AI
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: lang
+  label: lang
+  hidden: true
+- type: text
+  name: translationKey
+  label: translationKey
+  hidden: true
+- type: file
+  name: hero_image
+  label: hero_image
+- type: field_group
+  name: hero_circles
+  label: hero_circles
+  fields:
+  - type: text
+    name: left_circle
+    label: left_circle
+  - type: text
+    name: right_circle
+    label: right_circle
+- type: text
+  name: page_title
+  label: page_title
+- type: textarea
+  name: intro_text
+  label: intro_text
+- type: field_group_list
+  name: features
+  label: features
+  fields:
+  - type: textarea
+    name: text
+    label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+- name: page_heading_2
+  type: text
+  config:
+    required: false
+  label: Page heading 2
+- type: field_group
+  name: chatbots
+  label: chatbots
+  fields:
+  - type: text
+    name: box_title
+    label: box_title
+  - type: textarea
+    name: box_text
+    label: box_text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: text
+    name: link
+    label: link
+- type: field_group
+  name: smart_call_assistance
+  label: smart_call_assistance
+  fields:
+  - type: text
+    name: box_title
+    label: box_title
+  - type: textarea
+    name: box_text
+    label: box_text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: text
+    name: link
+    label: link
+- type: field_group
+  name: employee_assistants
+  label: employee_assistants
+  fields:
+  - type: text
+    name: box_title
+    label: box_title
+  - type: textarea
+    name: box_text
+    label: box_text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+- type: field_group
+  name: voice_assistant
+  label: voice_assistant
+  fields:
+  - type: text
+    name: box_title
+    label: box_title
+  - type: textarea
+    name: box_text
+    label: box_text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+- type: field_group
+  name: two_round_buttons
+  label: two_round_buttons
+  fields:
+  - type: text
+    name: left_button
+    label: left_button
+  - type: text
+    name: right_button
+    label: right_button
+  - type: text
+    name: left_button_link
+    label: left_button_link
+  - type: text
+    name: right_button_link
+    label: right_button_link
+pages:
+- content/solutions/conversational-ai.en.md
+- content/solutions/conversational-ai.nl.md

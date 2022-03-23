@@ -1,0 +1,55 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: "/admin/"
+webhook_url: 
+sections:
+- type: directory
+  path: content
+  label: Pages EN
+  create: none
+  match: "**/*.en.md"
+- type: directory
+  path: content
+  label: Pages NL
+  create: none
+  match: "**/*.nl.md"
+- type: document
+  path: content/company/careers.en.md
+  label: Vacancies
+- type: directory
+  path: content/company/shared-knowledge/blog
+  label: Blog
+  create: documents
+  match: "**/*"
+  templates:
+  - blog
+- type: directory
+  path: content/company/shared-knowledge/podcast
+  label: Podcast
+  create: documents
+  match: "**/*"
+  templates:
+  - podcast
+- type: directory
+  path: content/company/shared-knowledge/updates
+  label: Updates
+  create: documents
+  match: "**/*"
+  templates:
+  - update
+upload_dir: static/img/upload
+public_path: "/img/upload"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.81.0
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+version: 0.81.0

@@ -1,0 +1,29 @@
+---
+label: update
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: file
+  name: featured_image
+  label: featured_image
+- type: datetime
+  name: date
+  label: date
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: summary

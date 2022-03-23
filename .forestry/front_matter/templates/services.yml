@@ -1,0 +1,85 @@
+---
+label: Services
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: lang
+  label: lang
+  hidden: true
+- type: text
+  name: translationKey
+  label: translationKey
+  hidden: true
+- type: file
+  name: hero_image
+  label: hero_image
+- type: textarea
+  name: intro_text
+  label: intro_text
+- type: field_group_list
+  name: features
+  label: features
+  fields:
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Text
+- name: round_button
+  type: field_group
+  config: {}
+  fields:
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button text
+  - name: button_link
+    type: text
+    config:
+      required: false
+    label: Button link
+  label: Round button
+- type: text
+  name: page_title
+  label: page_title
+- type: field_group_list
+  name: cards
+  label: cards
+  fields:
+  - type: text
+    name: card_heading
+    label: card_heading
+  - type: text
+    name: list_heading
+    label: list_heading
+  - type: textarea
+    name: list
+    label: list
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+- type: text
+  name: h2heading
+  label: h2heading
+- type: text
+  name: h3heading
+  label: h3heading
+pages:
+- content/services.en.md
+- content/services.nl.md

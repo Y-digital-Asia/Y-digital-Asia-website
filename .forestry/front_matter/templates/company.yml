@@ -1,0 +1,148 @@
+---
+label: Company
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: lang
+  label: lang
+  hidden: true
+- type: text
+  name: translationKey
+  label: translationKey
+  hidden: true
+- type: file
+  name: hero_image
+  label: hero_image
+- type: text
+  name: page_title
+  label: page_title
+- type: textarea
+  name: intro_text
+  label: intro_text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: field_group_list
+  name: features
+  label: features
+  fields:
+  - type: textarea
+    name: text
+    label: text
+- name: dna_circles
+  type: field_group_list
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: DNA circles
+- name: feature
+  type: field_group_list
+  fields:
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Feature
+- name: team
+  type: field_group_list
+  fields:
+  - name: photo
+    type: file
+    config:
+      maxSize: 64
+    label: Photo
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Text
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: job
+    type: text
+    config:
+      required: false
+    label: Job
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Team
+- name: experience
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Experience
+- name: academy
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Academy
+- name: we_are_hiring
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: We are hiring
+- name: round_button
+  type: field_group
+  config: {}
+  fields:
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button text
+  - name: button_link
+    type: text
+    config:
+      required: false
+    label: Button link
+  label: Round button
+pages:
+- content/company/_index.en.md

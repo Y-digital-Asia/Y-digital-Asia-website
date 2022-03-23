@@ -1,0 +1,12 @@
+
+{{ with .Params.hero_circles }}	
+<div class="circles top">
+	<div class="circle big dark-gray">
+		<p>{{ .left_circle }}</p>
+	</div>
+	<div class="arrow"><img src="/img/arrow-dark-gray.svg" alt=""></div>
+	<div class="circle big orange">
+		<p>{{ .right_circle }}</p>
+	</div>
+</div>
+{{ end }}

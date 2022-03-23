@@ -1,0 +1,274 @@
+/****** Components ******/
+
+.blog {
+	// background-color: $orange;
+	width: 50em;
+	max-width: 100%;
+
+
+	h1 {
+		font-size: 2.5rem;
+		padding: 2em 0 1em 0;
+		// color: #fff;
+	}
+
+	h2 {
+			// font-size: 2.25rem;
+			// color: #fff;
+		}
+
+	h3 {
+		font-size: 1.5rem;
+		font-weight: 700;
+		padding-bottom: 0.75em;
+	}	
+
+
+	p {
+		width: 50em;
+		max-width: 100%;
+		font-size: 1.25rem;
+		// padding: 2em 10%;
+		padding-bottom: 2em;
+	}
+
+	p.middle {
+		text-align: center;
+	}
+
+	li {
+		font-size: 1.25rem;
+	}
+
+	a {
+		color: $orange;
+	}
+
+	// .blog p:first-of-type {
+	//   background-color: $orange;
+
+	// }
+
+	.blog h1 {
+		color: #fff;
+	}
+
+}
+
+.blog4, .podcast4, .updates4 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	// gap: 2em;
+	padding: 2em 4em;
+	margin: 1em 0;
+	height: 35em;
+}
+
+.blog4 { 
+	margin-top: 2em;
+}
+
+.all {
+	padding: 0.1875em 1em;
+	background-color: #fff;
+	font-size: 1.5em;
+	font-weight: 700;
+}
+
+.section-name {
+	display: flex;
+	width: 100%;
+	flex-direction: row;
+	justify-content: space-between;
+	gap: 2em;
+	margin-bottom: 2em;
+}
+
+.section-logo {
+	// width: 200px;
+
+	img {
+		max-width: 4em;
+		max-height: 4em;
+		margin-bottom: 1em;
+	}
+
+	h2 {
+		font-size: 2.5rem;
+		color: $dark-gray;
+	}
+}
+
+.section-link {
+	align-self: center;
+}
+
+.list {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 2em;
+	justify-content: center;
+}
+
+.list-card {
+	display: flex;
+	flex-direction: column;
+	width: 14em;
+	background-color: #fff;
+	height: 330px;
+}
+
+.list-card h1 {
+	font-size: 0.875rem;
+	padding: 0.5em 1em;
+	text-align: left;
+}
+
+.list-card p {
+	font-size: 0.75rem;
+	padding: 1em;
+	line-height: 1.5;
+}
+
+.list-card-img {
+	height: 130px;
+	overflow: hidden;
+	// margin-bottom: 0.5em;
+}
+
+
+.logo-image {
+	max-width: 6em;
+	margin-top: 4em;
+	margin-bottom: -2em;
+}
+
+
+
+.blog-list {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	gap: 1em;
+	margin-top: 4em;
+
+	// display: grid;
+ //    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+ //    gap: 20px;
+ //    padding: 0;
+ //    margin: 0;
+}
+
+.blogcard {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    // align-items: center;
+	width: 268px;
+    // max-width: 90%;
+	background-color: $light-gray;
+	padding: 1em;
+	min-height: 380px;
+	border-radius: 5px;
+
+
+
+	.card-img {
+		// width: 267px;
+		// width: 100%;
+		height: 150px;
+		overflow: hidden;
+		margin-bottom: 0.5em;
+	}
+
+	.date {
+		font-size: 0.8125rem;
+		color: #adadad;
+		text-align: left;
+	}
+
+	h1 {
+		font-size: 1rem;
+		text-align: left;
+	}
+
+	p.card-content {
+		flex: 1;
+		font-size: 0.75rem;
+		line-height: 1.5;
+	}
+
+	.card-read-more {
+		text-transform: uppercase;
+		font-size: 0.8125rem;
+		align-self: flex-end;
+    	color: $dark-gray;
+	}
+}
+
+
+
+
+// .list-card {
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: flex-start;
+//     // align-items: center;
+// 	width: 268px;
+//     // max-width: 90%;
+// 	background-color: $light-gray;
+// 	padding: 1em;
+// 	min-height: 380px;
+// 	border-radius: 5px;
+
+
+
+// 	.card-img {
+// 		// width: 267px;
+// 		// width: 100%;
+// 		height: 150px;
+// 		overflow: hidden;
+// 		margin-bottom: 0.5em;
+// 	}
+
+// 	.date {
+// 		font-size: 0.8125rem;
+// 		color: #adadad;
+// 		text-align: left;
+// 	}
+
+// 	h1 {
+// 		font-size: 1rem;
+// 		text-align: left;
+// 	}
+
+// 	p.card-content {
+// 		flex: 1;
+// 		font-size: 0.75rem;
+// 		line-height: 1.5;
+// 	}
+
+// 	.card-read-more {
+// 		text-transform: uppercase;
+// 		font-size: 0.8125rem;
+// 		align-self: flex-end;
+//     	color: $dark-gray;
+// 	}
+// }
+
+
+
+
+
+
+
+
+
+.filling-empty-space {
+    width:268px; /*the width of the card */
+    height:0; /* for these empty cards to collapse should they fall in a new row*/
+}

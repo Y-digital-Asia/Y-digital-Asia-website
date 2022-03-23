@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{ partial "hero.html" . }}
+
+<section class="wide light-gray">
+
+	{{ partial "hero-circles.html" . }}
+
+	<section class="intro">
+		<p>{{ .Params.intro_text }}</p>
+	</section>
+</section>
+
+<section class="wide second">
+
+	{{ partial "features.html" . }}
+
+{{ range .Params.boxes }}
+  <section class="feature">
+    {{ markdownify .text }}
+  </section>
+{{ end }}
+
+
+<div class="cards">
+	{{ with .Params.conversational_ai }}	
+	<section class="card solutions orange ca">
+		<h3 class="list-heading">{{ .box_title }}</h3>
+		<p class="card-text">{{ markdownify .box_text }}</p>
+		<p class="read-more"><a href="{{ .link | relLangURL }}">Read more</a></p>
+	</section>
+	{{ end }}
+
+	{{ with .Params.intelligent_document_processing }}
+	<section class="card solutions orange idp">
+		<h3 class="list-heading">{{ .box_title }}</h3>
+		<p class="card-text">{{ markdownify .box_text }}</p>
+		<p class="read-more"><a href="{{ .link | relLangURL }}">Read more</a></p>
+	</section>
+	{{ end }}
+</div>
+
+{{ partial "two-round-buttons.html" . }}
+
+</section>
+
+
+{{ end }}

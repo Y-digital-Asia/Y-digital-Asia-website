@@ -1,0 +1,16 @@
+baseURL = "/"
+defaultContentLanguage = "en"
+languageCode = "en-us"
+theme = "ydigital"
+title = "y.digital"
+
+[languages.en]
+languageName = "English"
+title = "y.digital"
+weight = 1
+	
+[languages.nl]
+languageName = "Dutch"
+title = "y.digital"
+weight = 2
+	

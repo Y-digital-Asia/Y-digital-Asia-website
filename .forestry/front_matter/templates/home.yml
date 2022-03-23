@@ -1,0 +1,170 @@
+---
+label: Home
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: hero_image
+  label: Hero image
+- type: text
+  name: lang
+  label: lang
+  hidden: true
+- type: text
+  name: translationKey
+  label: translationKey
+  hidden: true
+- name: hero_slide
+  type: field_group_list
+  fields:
+  - name: slide_image
+    type: file
+    config:
+      maxSize: 64
+    label: Slide image
+  - name: slide_left_circle
+    type: text
+    config:
+      required: false
+    label: Slide left circle
+  - name: slide_right_circle
+    type: text
+    config:
+      required: false
+    label: Slide right circle
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Hero slide
+- type: field_group
+  name: hero_circles
+  label: hero_circles
+  fields:
+  - type: text
+    name: left_circle
+    label: left_circle
+  - type: text
+    name: right_circle
+    label: right_circle
+- type: text
+  name: page_title
+  label: page_title
+- type: textarea
+  name: intro_text
+  label: intro_text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: field_group
+  name: blue_button
+  label: blue_button
+  fields:
+  - type: text
+    name: dark_text
+    label: dark_text
+  - type: text
+    name: link
+    label: link
+- type: field_group_list
+  name: features
+  label: features
+  fields:
+  - type: textarea
+    name: text
+    label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+- type: field_group
+  name: round_button
+  label: round_button
+  fields:
+  - type: text
+    name: button_text
+    label: button_text
+  - type: text
+    name: button_link
+    label: button_link
+- type: field_group_list
+  name: quote_slide
+  label: quote_slide
+  fields:
+  - type: textarea
+    name: quote_text
+    label: quote_text
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: from
+    label: from
+  - type: file
+    name: photo
+    label: photo
+- name: media
+  type: field_group
+  config: {}
+  fields:
+  - name: first_item
+    type: text
+    config:
+      required: false
+    label: First item
+  - name: first_item_link
+    type: text
+    config:
+      required: false
+    label: First item link
+  - name: second_item
+    type: text
+    config:
+      required: false
+    label: Second item
+  - name: second_item_link
+    type: text
+    config:
+      required: false
+    label: Second item link
+  - name: third_item
+    type: text
+    config:
+      required: false
+    label: Third item
+  - name: third_item_link
+    type: text
+    config:
+      required: false
+    label: Third item link
+  label: Media
+- type: field_group_list
+  name: feature
+  label: feature
+  fields:
+  - type: textarea
+    name: text
+    label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+- type: field_group
+  name: second_round_button
+  label: second_round_button
+  fields:
+  - type: text
+    name: button_text
+    label: button_text
+  - type: text
+    name: button_link
+    label: button_link
+pages:
+- content/_index.en.md
+- content/_index.nl.md

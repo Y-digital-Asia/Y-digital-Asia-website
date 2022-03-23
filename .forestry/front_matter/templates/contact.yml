@@ -1,0 +1,35 @@
+---
+label: Contact
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: lang
+  label: lang
+  hidden: true
+- type: text
+  name: translationKey
+  label: translationKey
+  hidden: true
+- type: text
+  name: page_title
+  label: Page title
+- type: textarea
+  name: intro_text
+  label: Intro text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+pages:
+- content/contact.en.md
+- content/contact.nl.md

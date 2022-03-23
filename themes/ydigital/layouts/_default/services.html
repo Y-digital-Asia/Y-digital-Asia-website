@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+{{ partial "hero.html" . }}
+
+<section class="wide light-gray">
+
+<h1>{{ .Params.page_title }}</h1>
+
+	<section class="intro">
+		<p>{{ .Params.intro_text }}</p>
+	</section>
+</section>
+
+<section class="wide second">
+
+<div class="cards">
+{{ range .Params.cards }}
+<section class="card light-gray">
+		<h2 class="card-heading">{{ .card_heading }}</h2>
+		<h3 class="list-heading">{{ .list_heading }}</h3>
+		<ul>
+			{{ markdownify .list }}
+		</ul>
+	</section>
+{{ end }}
+</div>
+
+<section class="shelf">
+	<h2>{{ .Params.h2heading }}</h2>
+	<h3>{{ .Params.h3heading }}</h3>
+</section>
+
+<div class="box light-gray pd">
+	<img src="/img/off-the-shelf.svg" alt="Off-the-shelf">
+</div>
+
+
+{{ partial "features.html" . }}
+
+{{ partial "round-button.html" . }}
+
+</section>
+
+{{ end }}
