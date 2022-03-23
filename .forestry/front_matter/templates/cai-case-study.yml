@@ -15,6 +15,7 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
+  default: "/img/upload/hero-conversational-ai.jpg"
 - type: datetime
   name: date
   label: date
@@ -27,3 +28,5 @@ fields:
     schema:
       format: markdown
   label: Intro text
+pages:
+- content/solutions/conversational-ai/vivamus-elementum-semper-nisi.md
