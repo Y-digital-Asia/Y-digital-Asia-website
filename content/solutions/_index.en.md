@@ -42,6 +42,8 @@ intelligent_document_processing:
     It will help you to increase efficiency, quality and employee satisfaction. And
     substantially reduce costs.
   link: "/solutions/intelligent-document-processing/"
+h2heading: Start humanizing
+h3heading: Off-the-shelf
 menu:
   main:
     name: solutions

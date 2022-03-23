@@ -47,8 +47,6 @@ cards:
     * Machine learning engineers
     * Data scientists
     * DevOps engineers
-h2heading: Start humanizing
-h3heading: Off-the-shelf
 round_button:
   button_text: Get in touch
   button_link: "/contact/"
