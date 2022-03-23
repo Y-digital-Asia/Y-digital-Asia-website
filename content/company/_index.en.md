@@ -45,10 +45,10 @@ team:
   name: Lea Baudner
   job: Digital Business Lead
 - photo: "/img/upload/przemek-lenkiewicz.jpg"
-  text: "“I joined Y.digital as one of the first employees, very enthusiastic about
-    the ideas this company was built on. I love the informal work environment in which
-    you can be sure the best ideas will respected, and everyone is within reach for
-    a face-to-face contact.”"
+  text: "“I joined Y.digital as one of the first employees, and am very enthusiastic
+    about the ideas this company was built on. I love the informal work environment
+    in which you can be sure the best ideas will respected, and everyone is within
+    reach for a face-to-face contact.”"
   name: Przemek Lenkiewicz
   job: Chief of Operations
 experience: |-
