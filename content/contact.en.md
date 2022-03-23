@@ -4,7 +4,7 @@ description: contact
 layout: contact
 lang: en
 translationKey: contact
-page_title: Get in Touch
+page_title: Get in touch
 intro_text: |-
   Ready to grow your business with our state-of-the-art AI infusion?
 
