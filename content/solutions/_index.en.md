@@ -9,19 +9,19 @@ hero_circles:
   left_circle: Stop wasting time
   right_circle: Start empowering
 intro_text: 'You wish to increase efficiency, improve customer experience or assist
-  your employees in their daily work. Whatever the AI-objective, digital platforms
+  your employees in their daily work. Whatever the AI objective, digital platforms
   allow faster innovation, higher quality, increased reliability and cost reduction.
-  With this in mind we created the modular AI Y.platform. Using open standards and
+  With this in mind, we created the modular AI Y.platform. Using open standards and
   an open-source-first strategy, we build modules for all necessary AI-platform functions.
   Key elements: machine learning, natural language processing, image recognition,
   speech and knowledge graphs.'
 features:
 - text: |-
-    ## You can profit from our Y. platform
+    ## You benefit from our Y. platform
 
-    Ally is our AI platform that provides the basis for our state-of-the-art technology. Ally's goal is to provide human-like assistance and support in order to create value to the organization and its customers while empowering humans. Empowerment means truly scalable automated service for your customers, without compromising on the human touch. Empowerment means no barriers, black-boxes, or lock-in, but open and auditable solutions.
+    Ally is our AI platform that provides the basis for our state-of-the-art technology. Ally's goal is to provide human-like assistance and support in order to create value for the organization and its customers while empowering humans. Empowerment means truly scalable automated service for your customers, without compromising on the human touch. Empowerment means no barriers, black boxes, or lock-in, but open and auditable solutions.
 
-    Derived from our platform, we offer off-the-shelf as well as customized AI-solutions like chatbots, voice assistants and intelligent document processing. Whatever the specific need of your organization requires, our experts will assist you by designing, building and continuously training the AI solution that brings the most value to your company.
+    Derived from our platform, we offer off-the-shelf as well as customized AI solutions such as chatbots, voice assistants and intelligent document processing. Whatever the specific need of your organization requires, our experts will assist you by designing, building and continuously training the AI solution that brings the most value to your company.
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
