@@ -31,8 +31,8 @@ numbered_features:
     strategy and develop a strategic roadmap with ambitious, high-potential AI initiatives.
 - text: At this stage we convert high potential AI initiatives into solid business
     cases and concrete projects. We invite you to our Y.design lab, where we generate
-    ideas and develop prototypes together. The most valuable ideas will be elaborated,
-    tested with the target audience and further optimized. Ready to be build.
+    ideas and develop prototypes together. The most valuable ideas are elaborated,
+    tested with the target audience and further optimized. Ready to be built.
 - text: Our experts will build, configure and test the AI solution, using the modules
     of our own Y.platform. Core technologies we use are machine learning, natural
     language processing and knowledge graphs. Your AI solution will be elaborated
