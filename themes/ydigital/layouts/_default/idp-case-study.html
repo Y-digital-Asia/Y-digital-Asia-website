@@ -1,19 +1,22 @@
 {{ define "main" }}
 
+<div class="hero"><img src="{{ .Params.featured_image }}" width="1120" height="375"></div>
 
-<section class="wide light-gray">
+<section class="wide blue">
 
-	<h1>{{ .Page.Title }}</h1>
-	<h2>{{ .Params.subtitle }}</h2>
-	<img src="{{ .Params.image }}" alt="">
+	<section class="intro case-study">
+		<h1>{{ .Page.Title }}</h1>
+		<p>{{ markdownify .Params.intro_text }}</p>
+	</section>
 
 </section>
 
-<section class="wide second">
+<section class="wide second cs-content">
 	
 {{ .Content }}
 
 </section>
 
+{{ partial "stop-reading-start-connecting.html" . }}
 
 {{ end }}
