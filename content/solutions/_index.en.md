@@ -21,7 +21,7 @@ features:
 
     Ally is our AI platform that provides the basis for our state-of-the-art technology. Ally's goal is to provide human-like assistance and support in order to create value for the organization and its customers while empowering humans. Empowerment means truly scalable automated service for your customers, without compromising on the human touch. Empowerment means no barriers, black boxes, or lock-in, but open and auditable solutions.
 
-    Derived from our platform, we offer off-the-shelf as well as customized AI solutions such as chatbots, voice assistants and intelligent document processing. Whatever the specific need of your organization requires, our experts will assist you by designing, building and continuously training the AI solution that brings the most value to your company.
+    Derived from our platform, we offer off-the-shelf as well as customized AI solutions such as chatbots, voice assistants and intelligent document processing. Whatever the specific need of your organization, our experts will assist you by designing, building and continuously training the AI solution that brings the most value to your company.
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
