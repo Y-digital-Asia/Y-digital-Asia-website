@@ -57,9 +57,9 @@ q_and_a:
     data points. IDP is the solution if your company has seasons with a higher need
     for document processing. It grows in conjunction with your business.
 - question: What is a Voice App?
-  answer: A voice app is a voice-activated software that makes an organization accessible
+  answer: A voice app is voice-activated software that makes an organization accessible
     via, for example, the Google Assistant or Amazon Alexa. The official term at Google
-    is a Google Action, Amazon calls it a skill. Through a Voice App, an organization
+    is a Google Action, Amazon calls it a skill. Through a voice app, an organization
     gives the user the ability to communicate with the organization through the platforms
     of Google or Amazon.
 - question: What is a Google Action?
@@ -96,6 +96,7 @@ q_and_a:
     can do three things: First, create a Google My Business page. Then, make your
     website more findable by Voice Search and develop a Google Action. Lastly, you
     can, for instance, promote your company''s products or services in an Action.'
+hero_image: ''
 menu:
   main:
     name: faq
