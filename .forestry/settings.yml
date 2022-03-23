@@ -45,6 +45,11 @@ sections:
   match: "**/*"
   templates:
   - cai-case-study
+- type: directory
+  path: content/solutions/intelligent-document-processing
+  label: IDP Case Study
+  create: documents
+  match: "**/*"
 upload_dir: static/img/upload
 public_path: "/img/upload"
 front_matter_path: ''
