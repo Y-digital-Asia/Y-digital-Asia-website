@@ -12,6 +12,7 @@ fields:
   name: layout
   label: layout
   hidden: true
+  default: cai-case-study
 - type: file
   name: featured_image
   label: featured_image
@@ -28,5 +29,3 @@ fields:
     schema:
       format: markdown
   label: Intro text
-pages:
-- content/solutions/conversational-ai/vivamus-elementum-semper-nisi.md
