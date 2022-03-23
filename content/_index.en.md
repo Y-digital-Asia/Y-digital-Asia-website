@@ -19,7 +19,7 @@ features:
 - text: |-
     ## Efficiency driven
 
-    The efficiency of your business processes depends on three key assets of your organization: employees, knowledge en systems. We capture human intelligence in our solutions for Intelligent Document Processing. Applying this in your business will significantly increase efficiency and quality. Key results: scalability, improved accuracy, increased productivity and significant cost reduction.
+    The efficiency of your business processes depends on three key assets of your organization: employees, knowledge and systems. We capture human intelligence in our solutions for Intelligent Document Processing. Applying this in your business will significantly increase efficiency and quality. Key results: scalability, improved accuracy, increased productivity and a significant cost reduction.
 - text: |-
     ## Customer driven
 
