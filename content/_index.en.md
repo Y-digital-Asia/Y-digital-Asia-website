@@ -44,7 +44,7 @@ feature:
 - text: |-
     ## Ready for the next step?
 
-    We are specialized in AI technology and start with your reason Y. Do you like to know what value this can add to your organization? [Please contact us](/contact/ "Please contact us")
+    We are specialized in AI technology and start with your reason Y. Would you like to know what value this can add to your organization? [Please contact us](/contact/ "Please contact us")
 cards: []
 hero_slide:
 - slide_left_circle: ''
