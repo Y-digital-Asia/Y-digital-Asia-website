@@ -49,6 +49,9 @@ other = "Your Email"
 [message]
 other = "Message"
 
+[newsletter]
+other = "Sign up for newsletter"
+
 [emailRequiredNote]
 other = "An email address is required."
 
