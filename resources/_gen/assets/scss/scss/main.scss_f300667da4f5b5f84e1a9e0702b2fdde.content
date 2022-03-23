@@ -899,7 +899,8 @@ dl.faq button[aria-expanded="true"] {
   .cs-content blockquote p {
     font-size: 2rem;
     color: #4CACC6;
-    font-weight: 700; }
+    font-weight: 700;
+    margin-bottom: 2rem; }
 
 a {
   text-decoration: none; }
