@@ -29,7 +29,7 @@ numbered_features:
     understanding of your ambition, business, customers, and way of working. They
     will assist you in adding the potential of AI to your medium-term and longer-term
     strategy and develop a strategic roadmap with ambitious, high-potential AI initiatives.
-- text: This stage we will convert high potential AI-initiatives into solid business
+- text: At this stage we convert high potential AI initiatives into solid business
     cases and concrete projects. We invite you to our Y.design lab, where we generate
     ideas and develop prototypes together. The most valuable ideas will be elaborated,
     tested with the target audience and further optimized. Ready to be build.
