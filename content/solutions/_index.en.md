@@ -31,7 +31,7 @@ conversational_ai:
   box_title: Conversational AI
   box_text: We want to make human-computer interaction with chatbots and voice assistants
     a great experience. To solve existing issues in language processing, scalability
-    and intent modeling we developed a next level conversational AI solution. One
+    and intent modeling we developed a next-level conversational AI solution. One
     that’s based on a deep understanding of human interaction.
   link: "/solutions/conversational-ai/"
 intelligent_document_processing:
