@@ -12,8 +12,8 @@ page_title: Conversational AI
 intro_text: Users can communicate with a chatbot or voice assistant in different languages,
   using either voice, typing or a combination of both. Choosing the right conversational
   platform is essential to create positive customer experiences. Chatbots and voice-assistants
-  have to overcome the through of disillusion. Too often users are not properly understood
-  or can only answer a question without supporting a following transactions.
+  have to overcome the trough of disillusion. Too often users are not properly understood
+  or can only answer a question without supporting follow-up transaction.
 features:
 - text: We believe human-computer interaction can be more personal, intelligent and
     satisfactory. This takes a next step in maturity, one that’s more intelligent
