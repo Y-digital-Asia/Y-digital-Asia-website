@@ -8,10 +8,16 @@ hero_circles:
   left_circle: Stop robotising
   right_circle: Start humanising
 page_title: Ontdek het potentieel van artificial intelligence voor jouw organisatie
-intro_text: |-
-  Wij helpen je waarde te creëren met de inzet van schaalbare oplossingen op het gebied van artificial intelligence (AI). Gebaseerd op de nieuwste technologische mogelijkheden op het gebied van conversational AI en Intelligent Document Processing. Om klantervaringen te verbeteren, operationele kosten te verlagen en de beste AI-ondersteuning voor je medewerkers te realiseren. Samen met jou halen we het maximale uit geautomatiseerde 'human-like' besluitvorming en het snel verwerken van grote hoeveelheden data uit verschillende bronnen.
-
-  Het resultaat is simpel - digitale transformatie die mensen empowered.
+intro_text: "Veel organisaties staan onder druk om te digitaliseren. Maar waarom?
+  Digitale transformatie is zeker niet het doel, het is een middel om een doel te
+  bereiken. De reden waarom we als Y.digital in technologie investeren is om mensen
+  te empoweren. Empowerment betekent dat je saai en repetitief werk overlaat aan een
+  vertrouwde digitale collega. Empowerment betekent echt schaalbare self-service voor
+  je klanten, zonder afbreuk te doen aan de human touch. Empowerment betekent geen
+  barrières, black-boxes of lock-in maar open en controleerbare oplossingen. \n\nAchter
+  de buzzwords A.I., Machine Learning, Natural Language Processing en Knowledge Graphs
+  schuilen de fundamenten voor empowerment. Maar de echte kracht komt niet van technologie
+  maar door de mens als blauwdruk te gebruiken. "
 blue_button:
   dark_text: Get in touch
   link: "/contact/"
