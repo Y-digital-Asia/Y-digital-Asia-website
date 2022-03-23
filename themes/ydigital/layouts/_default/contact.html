@@ -13,26 +13,26 @@
 	  <form id="contact" action="https://formspree.io/f/myyoprqr" method="post">
 	    <h3>Contact Form</h3>
 	    <fieldset>
-	      <input placeholder='{{ T "firstName" }}*' type="text" tabindex="1" required>
+	      <input placeholder='{{ T "firstName" }}*' type="text"  name="name" tabindex="1" required>
 	    </fieldset>    
 	    <fieldset>
-	      <input placeholder='{{ T "lastName" }}*' type="text" tabindex="2" required>
+	      <input placeholder='{{ T "lastName" }}*' type="text"  name="lastname" tabindex="2" required>
 	    </fieldset>
 	    <fieldset>
-	      <input placeholder='{{ T "emailAddress" }}*' type="email" tabindex="3" required>
+	      <input placeholder='{{ T "emailAddress" }}*' type="email" name="_replyto" tabindex="3" required>
 	    </fieldset>
 	    <fieldset>
-	      <input placeholder='{{ T "phoneNumber" }}' type="tel" tabindex="4">
+	      <input placeholder='{{ T "phoneNumber" }}' type="tel" name="telephone"tabindex="4">
 	    </fieldset>
 	    <fieldset>
-	      <input placeholder='{{ T "companyName" }}' type="text" tabindex="5">
+	      <input placeholder='{{ T "companyName" }}' type="text" name="company" tabindex="5">
 	    </fieldset>
 	    <fieldset>
-	      <textarea placeholder='{{ T "message" }}' tabindex="6"></textarea>
+	      <textarea placeholder='{{ T "message" }}' name="message" tabindex="6"></textarea>
 	    </fieldset>
 	    <p class="obligated">{{ T "requiredField"}}</p>
 	    <fieldset>
-	      <button name="submit" class="circle small orange" type="submit" id="contact-submit" data-submit="...Sending"><p><span class="white-text">{{ T "send" }}<br> {{ T "message" }}<br></span></p><img class="arrow-dark-gray" src="/img/arrow-dark-gray.svg">
+	      <button name="submit" class="circle small orange" type="submit" value="Send" id="contact-submit" data-submit="...Sending"><p><span class="white-text">{{ T "send" }}<br> {{ T "message" }}<br></span></p><img class="arrow-dark-gray" src="/img/arrow-dark-gray.svg">
 	      </button>
 	    </fieldset>  
 	  </form>
