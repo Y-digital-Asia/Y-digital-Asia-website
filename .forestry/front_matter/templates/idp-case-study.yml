@@ -21,5 +21,3 @@ fields:
 - type: textarea
   name: intro_text
   label: intro_text
-pages:
-- content/solutions/intelligent-document-processing/vivamus-elementum-semper-nisi.md

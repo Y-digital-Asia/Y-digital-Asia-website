@@ -5,8 +5,8 @@ hero_image: "/img/hero-home.jpg"
 lang: nl
 translationKey: home
 hero_circles:
-  left_circle: Stop robotising
-  right_circle: Start humanising
+  left_circle: Stop robotizing
+  right_circle: Start humanizing
 page_title: Ontdek het potentieel van artificial intelligence voor jouw organisatie
 intro_text: "Veel organisaties staan onder druk om te digitaliseren. Maar waarom?
   Digitale transformatie is zeker niet het doel, het is een middel om een doel te
@@ -34,7 +34,13 @@ features:
     ## Medewerker support
 
     Zeer gemotiveerde en betrokken werknemers stimuleren de groei van je bedrijf. Onze digitale AI-assistenten ondersteunen jouw medewerkers met relevante informatie en kennis, suggesties voor next best actions, het verwerken van documenten en automatiseren van repetitief werk. De belangrijkste resultaten: hogere medewerkerstevredenheid, betere kwaliteit, een lagere werkdruk, minder repetitief werk en meer flexibiliteit.
-quote_slide: []
+quote_slide:
+- quote_text: Een veel gehoorde frustratie bij virtuele assistenten is dat ze niet
+    genoeg begrijpen of je door dialogen leiden die niet relevant zijn. We hebben
+    nu nieuwe technologie beschikbaar die niet alleen schaalbaar is, maar ook klantvriendelijk.
+  author: Ian FitzPatrick
+  from: Y.digital
+  photo: "/img/upload/ian.JPG"
 round_button:
   button_text: Ga naar oplossingen
   button_link: "/solutions/"
