@@ -143,6 +143,3 @@ fields:
   - type: text
     name: right_button_link
     label: right_button_link
-pages:
-- content/solutions/conversational-ai.en.md
-- content/solutions/conversational-ai.nl.md

@@ -38,6 +38,11 @@ sections:
   match: "**/*"
   templates:
   - update
+- type: directory
+  path: content/solutions/conversational-ai
+  label: CAI Case Studies
+  create: documents
+  match: "**/*"
 upload_dir: static/img/upload
 public_path: "/img/upload"
 front_matter_path: ''
