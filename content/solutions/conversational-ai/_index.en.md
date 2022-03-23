@@ -9,15 +9,15 @@ hero_circles:
   left_circle: Stop wasting time
   right_circle: Start delighting employees
 page_title: Conversational AI
-intro_text: Users can communicate with a chatbot or voice-assistant in different languages,
+intro_text: Users can communicate with a chatbot or voice assistant in different languages,
   using either voice, typing or a combination of both. Choosing the right conversational
   platform is essential to create positive customer experiences. Chatbots and voice-assistants
   have to overcome the through of disillusion. Too often users are not properly understood
   or can only answer a question without supporting a following transactions.
 features:
-- text: We believe human-computer-interaction can be more personal, intelligent and
+- text: We believe human-computer interaction can be more personal, intelligent and
     satisfactory. This takes a next step in maturity, one that’s more intelligent
-    end human-like. With our team of experts in AI and neuro linguistics we founded
+    and human-like. With our team of experts in AI and neuro linguistics we introduced
     a unique and scientific approach, based on the way the human brain works. This
     leads to a more intelligent, dynamic and scalable solution. The result? Higher
     customer satisfaction, an improved customer journey and efficient and intelligent
@@ -60,11 +60,5 @@ introtext: Users can communicate with a chatbot or voice-assistant in different 
   have to overcome the through of disillusion. Too often users are not properly understood
   or can only answer a question without supporting a following transactions.
 page_heading_2: Y. solutions
-menu:
-  main:
-    name: conversational ai
-    parent: solutions
-    identifier: conversational-ai
-    weight: 22
 
 ---
