@@ -19,7 +19,7 @@ features:
 - text: |-
     ## Our DNA
 
-    We merge Imagination, Creativity, Strategy and Technology. To be successful in reaching ambitious goals, we work very closely with our customers and partners. We do this to remain the specialist firm we are, while including specific domain knowledge if required. To this end, we focus on a few critical things that are central to our success and are in our DNA:
+    We merge imagination, creativity, strategy and technology. To be successful in reaching ambitious goals, we work very closely with our customers and partners. We do this to remain the specialist firm we are, while including specific domain knowledge if required. To this end, we focus on a few critical things that are central to our success and are in our DNA:
 dna_circles:
 - text: Human Centered
 - text: Creativity
