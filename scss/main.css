@@ -883,6 +883,25 @@ dl.faq button[aria-expanded="true"] {
   display: flex;
   gap: 2em; }
 
+.case-study h1, .case-study p {
+  color: #fff; }
+
+.cs-content {
+  width: 50em;
+  max-width: 100%; }
+  .cs-content p {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    margin-bottom: 2em; }
+  .cs-content h2 {
+    font-size: 2rem;
+    text-align: left; }
+  .cs-content blockquote p {
+    font-size: 2rem;
+    color: #4CACC6;
+    font-weight: 700;
+    margin-bottom: 2rem; }
+
 a {
   text-decoration: none; }
 
