@@ -50,6 +50,8 @@ sections:
   label: IDP Case Study
   create: documents
   match: "**/*"
+  templates:
+  - idp-case-study
 upload_dir: static/img/upload
 public_path: "/img/upload"
 front_matter_path: ''
