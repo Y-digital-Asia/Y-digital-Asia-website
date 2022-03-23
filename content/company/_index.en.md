@@ -54,15 +54,15 @@ team:
 experience: |-
   ## Our Experience
 
-  We are a leading company in AI, with a senior team and years of experience in digital transformation and AI. We work for A-brands in various sectors, such as Financial Services, Health and (semi) Public. We have a proven track record in strategy, design, building and growing AI solutions in various sectors: Financial Services, Industry, Health and (semi) Public.
+  We are a leading company in AI, with a senior team and years of experience in digital transformation and AI. We work for A-brands in various sectors, such as Financial Services, Health and (semi) Public. We have a proven track record in strategy, designing, building and growing AI solutions in various sectors: Financial Services, Industry, Health and (semi) Public.
 academy: Developments in the field of AI are moving at an incredible speed. So, we
-  have established our own Y.academy to keep our team and customers up to date with
-  new AI concepts, technologies and innovations. The Y.academy is also used to train
-  our new talents on AI and business skills; during the first two years of their career
+  established our own Y.academy to keep our team and customers up to date with new
+  AI concepts, technologies and innovations. The Y.academy is also used to train our
+  new talents on AI and business skills; during the first two years of their career
   they will mix theory with practice, under supervision of our senior team members.
   Furthermore, the Y. academy is open to our customers, as we want to transfer knowledge
   on their AI-solution. We provide Inspirations sessions as well as Masterclasses
-  on CXO-level.
+  at CXO level.
 we_are_hiring: |-
   ## We are hiring: got the Y. factor?
 

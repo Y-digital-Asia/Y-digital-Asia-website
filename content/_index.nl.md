@@ -34,12 +34,7 @@ features:
     ## Medewerker support
 
     Zeer gemotiveerde en betrokken werknemers stimuleren de groei van je bedrijf. Onze digitale AI-assistenten ondersteunen jouw medewerkers met relevante informatie en kennis, suggesties voor next best actions, het verwerken van documenten en automatiseren van repetitief werk. De belangrijkste resultaten: hogere medewerkerstevredenheid, betere kwaliteit, een lagere werkdruk, minder repetitief werk en meer flexibiliteit.
-quote_slide:
-- quote_text: Om de dienstverlening aan onze klanten te verbeteren gaan we ook buiten
-    kantoortijden AI-powered dienstverlening aanbieden.
-  author: Bert Bannink
-  from: Vitens
-  photo: "/img/bert-bannink.jpg"
+quote_slide: []
 round_button:
   button_text: Ga naar oplossingen
   button_link: "/solutions/"

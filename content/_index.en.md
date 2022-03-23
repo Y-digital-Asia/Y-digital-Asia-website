@@ -5,8 +5,8 @@ hero_image: "/img/hero-home.jpg"
 lang: en
 translationKey: home
 hero_circles:
-  left_circle: Stop robotising
-  right_circle: Start humanising
+  left_circle: Stop robotizing
+  right_circle: Start humanizing
 page_title: AI makes you reimagine your business
 intro_text: |-
   Many organisations are under pressure to become more digital, but why? Digital transformation is surely not the objective, it is a means to an end. The reason why we invest in technology is the empowerment of humans. Empowerment means leaving the tedious and repetitive work to your trusted digital colleague. Empowerment means truly scalable self-service for your customers without compromising on the human touch. Empowerment means no barriers, black-boxes, or lock-in but open and auditable solutions.
@@ -28,12 +28,7 @@ features:
     ## Employee driven
 
     A highly motivated and engaged workforce drives your business growth. Our digital AI assistants support your employees, by providing relevant information and knowledge, suggesting decisions, processing documents or automating repetitive work. Key results: more satisfied employees, higher quality, less workload, less repetitive work and increased flexibility.
-quote_slide:
-- quote_text: Om de dienstverlening aan onze klanten te verbeteren gaan we ook buiten
-    kantoortijden AI-powered dienstverlening aanbieden.
-  author: Bert Bannink
-  from: Vitens
-  photo: "/img/bert-bannink.jpg"
+quote_slide: []
 round_button:
   button_text: Go to solutions
   button_link: "/solutions/"
