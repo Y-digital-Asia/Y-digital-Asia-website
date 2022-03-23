@@ -413,7 +413,7 @@ h1.approach {
   color: #fff; }
 
 .author-image {
-  flex: 0 0 232px; }
+  flex: 0 0 277px; }
 
 .media {
   display: flex;
@@ -1142,8 +1142,8 @@ ul.menu li ul li {
     font-size: 1.375em;
     padding: 0 1em 0.25em 1em; }
   .small img {
-    height: 1.875em;
-    width: 1.875em; }
+    height: 2.5em;
+    width: 2.5em; }
 
 .arrow img {
   height: 3em;
