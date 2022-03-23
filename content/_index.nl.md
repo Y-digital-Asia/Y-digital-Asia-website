@@ -35,7 +35,9 @@ features:
 
     Zeer gemotiveerde en betrokken werknemers stimuleren de groei van je bedrijf. Onze digitale AI-assistenten ondersteunen jouw medewerkers met relevante informatie en kennis, suggesties voor next best actions, het verwerken van documenten en automatiseren van repetitief werk. De belangrijkste resultaten: hogere medewerkerstevredenheid, betere kwaliteit, een lagere werkdruk, minder repetitief werk en meer flexibiliteit.
 quote_slide:
-- quote_text: ''
+- quote_text: Een veel gehoorde frustratie bij virtuele assistenten is dat ze niet
+    genoeg begrijpen of je door dialogen leiden die niet relevant zijn. We hebben
+    nu nieuwe technologie beschikbaar die niet alleen schaalbaar is, maar ook klantvriendelijk.
   author: Ian FitzPatrick
   from: Y.digital
   photo: "/img/upload/ian.JPG"
