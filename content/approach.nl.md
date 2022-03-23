@@ -58,6 +58,6 @@ menu:
   main:
     name: aanpak
     identifier: aanpak
-    weight: 10
+    weight: 1
 
 ---

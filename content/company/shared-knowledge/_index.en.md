@@ -14,6 +14,6 @@ menu:
     name: shared knowledge
     parent: company
     identifier: shared-knowledge
-    weight: 44
+    weight: 2
 
 ---

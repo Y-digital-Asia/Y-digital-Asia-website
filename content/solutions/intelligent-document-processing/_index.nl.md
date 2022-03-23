@@ -63,6 +63,6 @@ menu:
     name: intelligent document processing
     parent: oplossingen
     identifier: intelligent-document-processing
-    weight: 24
+    weight: 2
 
 ---

@@ -49,6 +49,6 @@ menu:
   main:
     name: oplossingen
     identifier: oplossingen
-    weight: 20
+    weight: 3
 
 ---

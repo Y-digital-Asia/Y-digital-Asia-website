@@ -51,6 +51,6 @@ menu:
   main:
     name: approach
     identifier: approach
-    weight: 10
+    weight: 2
 
 ---

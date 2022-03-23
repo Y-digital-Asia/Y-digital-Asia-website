@@ -75,6 +75,6 @@ menu:
   main:
     name: company
     identifier: company
-    weight: 40
+    weight: 8
 
 ---

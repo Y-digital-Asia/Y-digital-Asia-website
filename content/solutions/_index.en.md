@@ -49,6 +49,6 @@ menu:
   main:
     name: solutions
     identifier: solutions
-    weight: 20
+    weight: 4
 
 ---

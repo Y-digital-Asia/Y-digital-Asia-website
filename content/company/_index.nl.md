@@ -77,6 +77,6 @@ menu:
   main:
     name: bedrijf
     identifier: bedrijf
-    weight: 40
+    weight: 7
 
 ---

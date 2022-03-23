@@ -13,6 +13,6 @@ menu:
   main:
     name: contact
     identifier: contact
-    weight: 50
+    weight: 9
 
 ---
