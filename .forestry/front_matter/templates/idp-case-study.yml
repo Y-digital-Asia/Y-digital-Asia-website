@@ -9,13 +9,6 @@ fields:
   name: layout
   label: layout
   hidden: true
-- name: draft
-  type: text
-  config:
-    required: false
-  label: draft
-  default: 'false'
-  hidden: true
 - type: file
   name: featured_image
   label: featured_image
