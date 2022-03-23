@@ -5,8 +5,8 @@ hero_image: "/img/hero-home.jpg"
 lang: nl
 translationKey: home
 hero_circles:
-  left_circle: Stop robotising
-  right_circle: Start humanising
+  left_circle: Stop robotizing
+  right_circle: Start humanizing
 page_title: Ontdek het potentieel van artificial intelligence voor jouw organisatie
 intro_text: "Veel organisaties staan onder druk om te digitaliseren. Maar waarom?
   Digitale transformatie is zeker niet het doel, het is een middel om een doel te
