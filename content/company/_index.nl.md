@@ -69,7 +69,7 @@ academy: De ontwikkelingen op het gebied van AI gaan razendsnel. Daarom hebben w
 we_are_hiring: |-
   ## Heb jij de Y.factor?
 
-  Een sterke teamgeest, gemeenschappelijke doelen en een groot enthousiasme voor klanten en technologie: dat is waar Y.digital voor staat. Talent drijft ons vermogen om de beste oplossingen en diensten voor onze klanten te leveren. Ga met ons mee op deze spannende reis en ons team, we staan altijd open voor een ontmoeting!
+  Een sterke teamgeest, gemeenschappelijke doelen en een groot enthousiasme voor klanten en technologie: dat is waar Y.digital voor staat. Talent drijft ons vermogen om de beste oplossingen en diensten voor onze klanten te leveren. Ga met ons mee op deze mooie reis!
 round_button:
   button_text: Carrière
   button_link: "/company/careers/"
