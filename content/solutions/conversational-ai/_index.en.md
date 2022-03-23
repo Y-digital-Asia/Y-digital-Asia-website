@@ -35,10 +35,10 @@ chatbots:
   link: "/contact/"
 smart_call_assistance:
   box_title: Smart Call Assistance
-  box_text: Reduce your cost to serve and in the same time improve customer experience.
+  box_text: Reduce your cost to serve and at the same time improve customer experience.
     AI-powered voice assistants that support the agents in your call centre. By performing
-    intakes, routing incoming calls and actually handle calls. And a easy to use whispering
-    function to help our agents in their daily work.
+    intakes, routing incoming calls and actually handling calls. And an easy-to-use
+    whispering function to help our agents in their daily work.
   link: "/contact/"
 employee_assistants:
   box_title: Employee Assistants
