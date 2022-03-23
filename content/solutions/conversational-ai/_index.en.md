@@ -6,8 +6,8 @@ lang: en
 translationKey: conversational-ai
 hero_image: "/img/hero-conversational-ai.jpg"
 hero_circles:
-  left_circle: Stop wasting time
-  right_circle: Start delighting employees
+  left_circle: Stop inefficiency
+  right_circle: Start scaling
 page_title: Conversational AI
 intro_text: Users can communicate with a chatbot or voice assistant in different languages,
   using either voice, typing or a combination of both. Choosing the right conversational
