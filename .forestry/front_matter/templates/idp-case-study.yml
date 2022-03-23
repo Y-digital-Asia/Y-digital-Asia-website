@@ -1,0 +1,22 @@
+---
+label: idp case study
+hide_body: false
+fields:
+- type: text
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: featured_image
+  label: featured_image
+- type: textarea
+  name: intro_text
+  label: intro_text
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
