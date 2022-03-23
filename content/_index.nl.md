@@ -34,7 +34,11 @@ features:
     ## Medewerker support
 
     Zeer gemotiveerde en betrokken werknemers stimuleren de groei van je bedrijf. Onze digitale AI-assistenten ondersteunen jouw medewerkers met relevante informatie en kennis, suggesties voor next best actions, het verwerken van documenten en automatiseren van repetitief werk. De belangrijkste resultaten: hogere medewerkerstevredenheid, betere kwaliteit, een lagere werkdruk, minder repetitief werk en meer flexibiliteit.
-quote_slide: []
+quote_slide:
+- quote_text: ''
+  author: Ian FitzPatrick
+  from: Y.digital
+  photo: "/img/upload/ian.JPG"
 round_button:
   button_text: Ga naar oplossingen
   button_link: "/solutions/"
