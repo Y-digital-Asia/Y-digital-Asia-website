@@ -1,6 +1,8 @@
 ---
 title: Smartvoices becomes part of y.digital
-summary: Joining forces Conversational AI & Voice AI.
+summary: With the ambition to remain a leader in this market, AI specialist Y.digital
+  is joining forces with voice agency Smartvoices. The strategic combination focuses
+  on the development and implementation of hyper-intelligent conversational agents.
 description: 
 layout: blog
 featured_image: "/img/upload/smartvoices-becomes-part-of-y-digital.jpg"
@@ -12,7 +14,7 @@ Customers have high expectations when it comes to holding automated dialogues vi
 
 ### Valuable proposition
 
-“Y.Digital specializes in AI for making knowledge-intensive processes accessible: digitalising and, thereby, scaling up. This is the foundation of many next generation conversational systems”, says Paul van der Hulst of Y.Digital. “We are already doing this for chatbots and intelligent portals. We also see an enormous potential for voice as an interface. It offers customers convenience, speed, and wider accessibility via, for example, mobile and smart speakers. The great thing about the combination is that we already partly serve the same customers in healthcare and the financial sector: Interesting markets where we can still create plenty of opportunities together. By bringing together our knowledge and experience, we can realise the best solutions for our customers”.
+“Y.Digital specializes in AI for making knowledge-intensive processes accessible: digitalising and, thereby, scaling up. This is the foundation of many next generation conversational systems”, says Paul van der Hulst of Y.digital. “We are already doing this for chatbots and intelligent portals. We also see an enormous potential for voice as an interface. It offers customers convenience, speed, and wider accessibility via, for example, mobile and smart speakers. The great thing about the combination is that we already partly serve the same customers in healthcare and the financial sector: Interesting markets where we can still create plenty of opportunities together. By bringing together our knowledge and experience, we can realise the best solutions for our customers”.
 
 ### Reinforcement technology
 
