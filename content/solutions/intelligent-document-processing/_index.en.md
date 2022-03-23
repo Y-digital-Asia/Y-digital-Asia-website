@@ -4,7 +4,7 @@ description: intelligent document processing
 layout: intelligent-document-processing
 lang: en
 translationKey: intelligent-document-processing
-hero_image: "/img/hero-intelligent-document-processing.jpg"
+hero_image: "/img/upload/smart-processing.png"
 hero_circles:
   left_circle: Stop boredom
   right_circle: Start wisdom
@@ -58,10 +58,5 @@ compliance_reviewer:
     own customized solution for sales or service.
   link: "/contact/"
 page_heading_2: Y. solutions
-menu:
-  main:
-    name: intelligent document processing
-    weight: 1
-    parent: solutions
 
 ---
