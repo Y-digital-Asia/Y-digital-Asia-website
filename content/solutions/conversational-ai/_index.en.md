@@ -50,8 +50,8 @@ employee_assistants:
 voice_assistant:
   box_title: Voice Assistant – Google Assistant
   box_text: Step into the world of Google Assistant and introduce your first AI-powered
-    voice-assistant. We offer a of the shelve solution with Voicedomain. Or your own
-    customized solution for sales or service.
+    voice assistant. We offer an off-the-shelf solution with Voicedomain. Or your
+    own customized solution for sales or service.
   link: "/contact/"
 heroimage: hero-conversational-ai.jpg
 introtext: Users can communicate with a chatbot or voice-assistant in different languages,
