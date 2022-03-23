@@ -3,7 +3,11 @@ title: Alphabet Soup
 description: 
 layout: blog
 featured_image: "/img/upload/alphabet-soup.jpg"
-date: 2020-01-27T21:05:20+01:00
+date: 2020-01-27T21:05:20.000+01:00
+summary: Until a few years ago computers were lousy at understanding concepts in text
+  or dealing with complex decision criteria. The capabilities of Natural Language
+  Processing (NLP) have, however, evolved rapidly over the last 10 years providing
+  tangible opportunities to deliver real business value with NLP solutions.
 
 ---
 Until a few years ago computers were lousy at understanding concepts in text or dealing with complex decision criteria.
