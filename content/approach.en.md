@@ -26,9 +26,9 @@ numbered_features:
     discuss showcase references and define AI opportunities that add value to your
     business.
 - text: We start with why. Our digital transformation experts will acquire a deep
-    understanding of your ambition, business, customers, and way of wor- king. They
-    will assist you in adding the potential of AI to your mid- and longer-term strategy
-    and develop a strategic roadmap with ambitious, high-potential AI initiatives.
+    understanding of your ambition, business, customers, and way of working. They
+    will assist you in adding the potential of AI to your medium-term and longer-term
+    strategy and develop a strategic roadmap with ambitious, high-potential AI initiatives.
 - text: This stage we will convert high potential AI-initiatives into solid business
     cases and concrete projects. We invite you to our Y.design lab, where we generate
     ideas and develop prototypes together. The most valuable ideas will be elaborated,
