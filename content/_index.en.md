@@ -6,7 +6,7 @@ lang: en
 translationKey: home
 hero_circles:
   left_circle: Stop robotising
-  right_circle: Start humanizing
+  right_circle: Start humanising
 page_title: AI makes you reimagine your business
 intro_text: |-
   That’s why we empower you to capture lasting AI value at scale. Always at the frontier of the newest technology for omnichannel Conversational AI and Intelligent Document Processing. We empower you to improve customer experience, lower operational costs and create the best AI-powered employee support. This way, you will experience the benefits of automated human decision making and processing data from many sources at a massive scale and enormous speed.
