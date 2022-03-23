@@ -1,9 +1,15 @@
 ---
-title: Alphabet Soup Case Study
+title: Vivamus elementum semper nisi delete
 description: 
 layout: cai-case-study
-featured_image: "/img/upload/alphabet-soup.jpg"
-date: 2020-01-27T21:05:20+01:00
+featured_image: "/img/upload/hero-conversational-ai.jpg"
+date: 
+intro_text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+  ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
+  montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+  pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla
+  vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a,
+  venenatis vitae, justo. nisi.
 
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
@@ -12,7 +18,6 @@ Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vit
 > ”Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.”
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat mas sa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
-
 
 ## Efficiency driven
 

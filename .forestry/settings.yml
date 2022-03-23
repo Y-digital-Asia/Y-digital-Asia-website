@@ -40,9 +40,11 @@ sections:
   - update
 - type: directory
   path: content/solutions/conversational-ai
-  label: CAI Case Studies
+  label: C-AI Case Study
   create: documents
   match: "**/*"
+  templates:
+  - cai-case-study
 upload_dir: static/img/upload
 public_path: "/img/upload"
 front_matter_path: ''
