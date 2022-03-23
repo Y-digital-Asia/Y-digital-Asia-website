@@ -53,12 +53,17 @@ voice_assistant:
     voice assistant. We offer an off-the-shelf solution with Voicedomain. Or your
     own customized solution for sales or service.
   link: "/contact/"
-heroimage: "/img/upload/hero-conversational-ai.jpg"
+heroimage: hero-conversational-ai.jpg
 introtext: Users can communicate with a chatbot or voice assistant in different languages,
   using either voice, typing or a combination of both. Choosing the right conversational
   platform is essential to create positive customer experiences. Chatbots and voice
   assistants have to overcome the trough of disillusion. Too often users are not properly
   understood or can only answer a question without supporting follow-up transactions.
 page_heading_2: Y. solutions
+menu:
+  main:
+    name: conversational-ai
+    weight: 2
+    parent: solutions
 
 ---
