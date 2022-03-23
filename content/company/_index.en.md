@@ -52,7 +52,7 @@ team:
   name: Przemek Lenkiewicz
   job: Chief of Operations
 experience: |-
-  ## Our Experience
+  ## Our experience
 
   We are a leading company in AI, with a senior team and years of experience in digital transformation and AI. We work for A-brands in various sectors, such as Financial Services, Health and (semi) Public. We have a proven track record in strategy, designing, building and growing AI solutions in various sectors: Financial Services, Industry, Health and (semi) Public.
 academy: Developments in the field of AI are moving at an incredible speed. So, we
