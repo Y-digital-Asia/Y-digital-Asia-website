@@ -106,6 +106,6 @@ menu:
     name: faq
     parent: bedrijf
     identifier: faq
-    weight: 1
+    weight: 2
 
 ---

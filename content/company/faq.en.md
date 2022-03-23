@@ -56,7 +56,7 @@ q_and_a:
     becoming overwhelmed. Every day, you can handle millions, if not billions, of
     data points. IDP is the solution if your company has seasons with a higher need
     for document processing. It grows in conjunction with your business.
-- question: What is a voice app?
+- question: What is a Voice App?
   answer: A voice app is a voice-activated software that makes an organization accessible
     via, for example, the Google Assistant or Amazon Alexa. The official term at Google
     is a Google Action, Amazon calls it a skill. Through a voice app, an organization
