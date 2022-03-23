@@ -1,13 +1,12 @@
 ---
-title: Y.careers
+title: Y. careers
 description: careers
 layout: careers
 lang: en
 translationKey: careers
 hero_image: "/img/hero-careers.jpg"
 intro_text: Talent drives our team and our capacity to deliver the best solutions
-  and services for our customers. Join us on this exciting journey and our team of
-  people who are passionate about digital, learning and working together.
+  and services for our customers. Join us on this exciting journey!
 page_title: Y.careers
 vacancy:
 - title: new vacancy here junior/medior senior/medior
@@ -140,11 +139,5 @@ vacancy:
   skills_heading: Skills and Knowledge
   what_we_offer_heading: 'What we offer:'
   send_cv: ''
-menu:
-  main:
-    name: careers
-    parent: company
-    identifier: careers
-    weight: 42
 
 ---
