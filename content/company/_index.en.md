@@ -13,7 +13,7 @@ intro_text: We believe great products and services can only thrive if you unders
   humans. Our reason **whY**.
 features:
 - text: |-
-    ## About Us
+    ## About us
 
     Y.digital is an experienced and specialized A.I. company founded by accomplished professionals. Our focus and ambition is to design, build, and deliver intelligent solutions that empower humans. We use our own unique approach and cutting-edge AI platform Ally to create conversational AI solutions that help customers to engage with companies in a more pleasant and intelligent way, as well as Intelligent Document Processing solutions to support organisations in making knowledge-intensive processes more consistent, scalable, and efficient.
 - text: |-
@@ -70,6 +70,7 @@ we_are_hiring: |-
 round_button:
   button_text: Careers
   button_link: "/company/careers/"
+ally_platform: ''
 menu:
   main:
     name: company
