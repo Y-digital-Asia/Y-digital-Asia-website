@@ -120,6 +120,15 @@ fields:
     schema:
       format: markdown
   label: Academy
+- name: ally_platform
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Ally
 - name: we_are_hiring
   type: textarea
   default: ''

@@ -44,6 +44,7 @@ intelligent_document_processing:
   link: "/solutions/intelligent-document-processing/"
 h2heading: Start humanizing
 h3heading: Off-the-shelf
+ally_platform: Our open standard AI-platform
 menu:
   main:
     name: solutions
