@@ -27,7 +27,7 @@ dna_circles:
 - text: Passion
 feature:
 - text: |-
-    ## Our Team
+    ## Our team
 
     We have built a team of experienced, highly motivated, skilled experts in various disciplines: strategy, business transformation, AI technology. We translate a fundamental scientific knowledge of AI concepts into day-to-day AI solutions. All have a shared passion: helping organizations to deliver concrete business value, with AI solutions that empower humans. The team is made up of 7 nationalities, with mixed cultural backgrounds and is based in the Netherlands (headquarters) and Vietnam.
 team:
