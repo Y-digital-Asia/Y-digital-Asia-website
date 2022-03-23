@@ -40,7 +40,7 @@ quote_slide:
     nu nieuwe technologie beschikbaar die niet alleen schaalbaar is, maar ook klantvriendelijk.
   author: Ian FitzPatrick
   from: Y.digital
-  photo: "/img/upload/ian.JPG"
+  photo: "/img/upload/ian.jpeg"
 round_button:
   button_text: Ga naar oplossingen
   button_link: "/solutions/"
