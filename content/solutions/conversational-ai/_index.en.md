@@ -43,8 +43,8 @@ smart_call_assistance:
 employee_assistants:
   box_title: Employee Assistants
   box_text: Virtual assistants can help employees remain updated about news within
-    the company and assist with various aspects of employee’s daily work. This offers
-    a tremendous opportunity for increasing employee satisfacti- on and productivity
+    the company and assist with various aspects of the employee’s daily work. This
+    offers a tremendous opportunity for increasing employee satisfaction and productivity
     while saving costs and improving quality.
   link: "/contact/"
 voice_assistant:
