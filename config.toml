@@ -8,7 +8,7 @@ languageName = "English"
 title = "y.digital"
 weight = 1
 [languages.nl]
+googleAnalytics = "G-GWCP47ZZMB"
 languageName = "Dutch"
 title = "y.digital"
 weight = 2
-googleAnalytics = "G-GWCP47ZZMB"
