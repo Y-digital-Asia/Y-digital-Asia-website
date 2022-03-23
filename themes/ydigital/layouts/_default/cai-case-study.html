@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+{{ partial "hero.html" . }}
+
+<section class="wide blue">
+
+	<section class="intro">
+		<h1>{{ .Page.Title }}</h1>
+		<p>{{ markdownify .Params.intro_text }}</p>
+	</section>
+
+</section>
+
+<section class="wide second">
+	
+{{ .Content }}
+
+{{ partial "stop-reading-start-connecting.html" . }}
+
+</section>
+
+{{ end }}

@@ -50,21 +50,15 @@
 	</section>
 	{{ end }}
 
-	<a class="white-text" href="/conversational-ai/case-study-01/">
+	{{ range .Pages.ByDate.Reverse }}
+    <a class="white-text" href="{{ .Permalink }}">
 		<section class="card rect blue">
-			<h3 class="rect-heading">Vivamus elementum semper nisi</h3>
-			<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vul putate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+			<h3 class="rect-heading">{{ .Title }}</h3>
+			<p>{{ .Params.summary }}</p>
 			<p class="read-more">Read more</p>
 		</section>
 	</a>
-
-	<a class="white-text" href="/conversational-ai/case-study-01/">
-		<section class="card rect blue">
-			<h3 class="rect-heading">Vivamus elementum semper nisi</h3>
-			<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vul putate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
-			<p class="read-more">Read more</p>
-		</section>
-	</a>
+    {{ end }}
 
 </div>
 
