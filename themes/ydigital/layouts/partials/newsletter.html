@@ -1,0 +1,39 @@
+<!-- Trigger/Open The Modal -->
+<!-- <button id="myBtn">Open Modal</button> -->
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    
+    <div class="modal-body">
+      <!-- <span class="close">&times;</span> -->
+      <img class="close" src="/img/crotch.svg" alt="">
+      <div class="contact-form">
+      <h2 class="orange-text">Newsletter</h2>
+      <p class="newsletter-form-text">Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>  
+        <form id="contact" action="" method="post">
+
+          <fieldset>
+            <input placeholder='{{ T "firstName" }}' type="text" tabindex="1" required>
+          </fieldset>    
+          <fieldset>
+            <input placeholder='{{ T "lastName" }}' type="text" tabindex="2" required>
+          </fieldset>
+          <fieldset>
+            <input placeholder='{{ T "emailAddress" }}' type="email" tabindex="3" required>
+          </fieldset>
+
+          <fieldset>
+            <button name="submit" class="circle small orange" type="submit" id="newsletter-submit" data-submit="...Sending"><p><span class="white-text">{{ T "newsletter" }}<br></span></p><img class="arrow-dark-gray" src="/img/arrow-dark-gray.svg">
+            </button>
+          </fieldset>  
+        </form>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

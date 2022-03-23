@@ -49,6 +49,9 @@ other = "Voer je e-mail in"
 [message]
 other = "Bericht"
 
+[newsletter]
+other = "Sign up for newsletter"
+
 [emailRequiredNote]
 other = "Een e-mailadres is vereist."
 

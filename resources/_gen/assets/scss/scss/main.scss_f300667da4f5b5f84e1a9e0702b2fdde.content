@@ -394,7 +394,7 @@ h1.approach {
   flex: 1; }
 
 .quote p {
-  font-size: 1.8em;
+  font-size: 1.4em;
   font-weight: 600;
   color: #fff;
   padding: 1.5em 1.5em 1em 1.5em;
@@ -1240,6 +1240,88 @@ ul.menu li ul li {
   .arrow img {
     height: 1.5em;
     width: 1.5em; } }
+
+/****** Newsletter ******/
+/* The Modal (background) */
+.modal {
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Stay in place */
+  z-index: 9999999;
+  /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%;
+  /* Full width */
+  height: 100%;
+  /* Full height */
+  overflow: auto;
+  /* Enable scroll if needed */
+  background-color: black;
+  /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4);
+  /* Black w/ opacity */ }
+  .modal .contact-form {
+    margin: 0 auto; }
+  .modal .orange-text {
+    font-size: 1.25rem;
+    margin-top: 2em;
+    padding-bottom: 1em; }
+  .modal p.newsletter-form-text {
+    padding-bottom: 1em; }
+  .modal .circle {
+    width: 7em;
+    height: 7em; }
+    .modal .circle p {
+      font-size: 0.8125rem;
+      padding: 0 1em 0.25em 1em; }
+    .modal .circle img {
+      height: 1.875em;
+      width: 1.875em; }
+  .modal fieldset {
+    margin: 0 0 15px; }
+  .modal #contact input[type="text"],
+  .modal #contact input[type="email"] {
+    font-size: 0.875rem; }
+  .modal #contact button[type="submit"] {
+    margin-top: 0em; }
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 3em;
+  height: 3em; }
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer; }
+
+/* Modal Content/Box */
+.modal-content {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fefefe;
+  padding: 0;
+  width: 40%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  animation-name: animatetop;
+  animation-duration: 0.4s; }
+
+/* Add Animation */
+@keyframes animatetop {
+  from {
+    top: 200px;
+    opacity: 0; }
+  to {
+    top: 200px;
+    opacity: 1; } }
 
 /****** Footer ******/
 footer {
