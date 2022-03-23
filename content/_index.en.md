@@ -23,7 +23,7 @@ features:
 - text: |-
     ## Customer driven
 
-    Do you want to create great customer experiences? We design and build AI-powered solutions that play an important role throughout the customer journey. With our advanced conversational AI-technology we deliver outstanding chatbots and voice assistants. Key results: more intelligent conversations, high first time right resolution and increased customer satisfaction.
+    Do you want to create great customer experiences? We design and build AI-powered solutions that play an important role throughout the customer journey. With our advanced conversational AI technology we deliver outstanding chatbots and voice assistants. Key results: more intelligent conversations, high first time right resolution and increased customer satisfaction.
 - text: |-
     ## Employee driven
 
