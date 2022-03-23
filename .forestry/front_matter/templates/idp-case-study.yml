@@ -6,17 +6,18 @@ fields:
   name: date
   label: date
 - type: text
-  name: description
-  label: description
+  name: layout
+  label: layout
+  hidden: true
 - type: file
   name: featured_image
   label: featured_image
-- type: textarea
-  name: intro_text
-  label: intro_text
-- type: text
-  name: layout
-  label: layout
 - type: text
   name: title
   label: title
+- type: text
+  name: description
+  label: description
+- type: textarea
+  name: intro_text
+  label: intro_text
