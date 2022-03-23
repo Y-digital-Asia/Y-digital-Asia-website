@@ -9,9 +9,9 @@ hero_circles:
   right_circle: Start humanising
 page_title: AI makes you reimagine your business
 intro_text: |-
-  That’s why we empower you to capture lasting AI value at scale. Always at the frontier of the newest technology for omnichannel Conversational AI and Intelligent Document Processing. We empower you to improve customer experience, lower operational costs and create the best AI-powered employee support. This way, you will experience the benefits of automated human decision making and processing data from many sources at a massive scale and enormous speed.
+  Many organisations are under pressure to become more digital, but why? Digital transformation is surely not the objective, it is a means to an end. The reason why we invest in technology is the empowerment of humans. Empowerment means leaving the tedious and repetitive work to your trusted digital colleague. Empowerment means truly scalable self-service for your customers without compromising on the human touch. Empowerment means no barriers, black-boxes, or lock-in but open and auditable solutions.
 
-  The result is simple - digital transformation that is empowering humans.
+  Beyond the buzzwords A.I., Machine Learning, Natural Language Processing, and Knowledge Graphs provide the foundations for Empowerment, but the true power comes not from technology but by using the Human as the Blueprint.
 blue_button:
   dark_text: Get in Touch
   link: "/contact/"
