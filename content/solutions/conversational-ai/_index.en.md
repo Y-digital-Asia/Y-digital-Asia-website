@@ -30,7 +30,7 @@ two_round_buttons:
 chatbots:
   box_title: Chatbots
   box_text: Reduce over 20% of your costs for customer service while main- taining
-    or even create more satisfied customers. Or increase your conversion rates for
+    or even creating more satisfied customers. Or increase your conversion rates for
     sales, using personalized human-like assistants. Support sales & service.
   link: "/contact/"
 smart_call_assistance:
