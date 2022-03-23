@@ -210,7 +210,8 @@ body {
 
 h1 {
   text-align: center;
-  max-width: 90%; }
+  max-width: 90%;
+  line-height: 1.4; }
 
 h1.left {
   text-align: left; }
@@ -337,6 +338,10 @@ main {
   padding-top: 5.5em;
   position: relative;
   padding-bottom: 3em; }
+
+h1.approach {
+  margin: 0;
+  padding: 0 0 1em 0; }
 
 .intro {
   width: 50em;
@@ -662,13 +667,15 @@ main {
   background-position: 0 0;
   padding-top: 1.75em;
   padding-left: 15em;
-  width: 56rem; }
+  width: 56rem;
+  max-width: 100%; }
 
 .feature {
   background: url("/img/line.svg") no-repeat;
   background-position: left 2px;
   padding-left: 3em;
-  width: 50rem; }
+  width: 50rem;
+  max-width: 100%; }
 
 .feature, .ftr {
   margin-bottom: 3.75em; }
@@ -700,20 +707,37 @@ main {
     color: #474139;
     line-height: 1.5; }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 895px) {
   header {
     height: 6em; }
   main {
     margin-top: 6em; }
+  .no-hero {
+    padding-top: 3em; }
+  .wide {
+    padding-bottom: 1em; }
+  .second {
+    padding-top: 3em; }
   .intro p {
     font-size: 1rem; }
+  .feature-dark-line p {
+    font-size: 1rem; }
+  .feature, .ftr {
+    margin-left: 2em; }
+    .feature h2, .ftr h2 {
+      font-size: 1.25rem; }
+    .feature p, .ftr p {
+      font-size: 1rem;
+      padding-right: 2em; }
   .feature {
     padding-left: 1.25rem;
     margin-bottom: 3em; }
-    .feature h2 {
-      font-size: 1.25rem; }
-    .feature p {
-      font-size: 1rem; } }
+  .ftr {
+    padding-left: 27%;
+    padding-top: 0.75em;
+    margin-bottom: 3em; }
+  #f00, #f01, #f02, #f03, #f04, #f05 {
+    background-size: 27%; } }
 
 @media screen and (max-width: 74em) {
   .logo {
@@ -743,8 +767,8 @@ main {
 
 .job-title-heading {
   text-align: left;
-  font-size: 2rem;
-  padding: 2em 0 1.5em 1.5em;
+  font-size: 1.625rem;
+  padding-left: 1.5em;
   max-width: 100%; }
 
 dl.career button {
@@ -859,7 +883,6 @@ dl.faq button[aria-expanded="true"] {
   display: flex;
   gap: 2em; }
 
-/********** Menu **********/
 a {
   text-decoration: none; }
 
@@ -886,17 +909,11 @@ ul.menu {
     text-decoration: none;
     color: #f08900; }
 
-ul.menu li:hover > ul,
-ul.menu li ul:hover {
-  visibility: visible;
-  opacity: 1;
-  display: block;
-  background-color: #fff; }
+ul.submenu li {
+  line-height: 2; }
 
-ul.menu li ul li {
-  clear: both;
-  width: 100%;
-  white-space: nowrap; }
+ul.submenu a:hover li {
+  color: #EF8903; }
 
 ul.submenu {
   padding-top: 7px;
@@ -906,12 +923,21 @@ ul.submenu {
   transition: all 0.5s ease;
   left: 0;
   display: none; }
-  ul.submenu li {
-    line-height: 2; }
-  ul.submenu li:hover {
-    background-color: #fafafa; }
-  ul.submenu a:hover li {
-    color: #EF8903; }
+
+ul.menu li:hover > ul,
+ul.menu li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+  background-color: #fff; }
+
+ul.submenu li:hover {
+  background-color: #fafafa; }
+
+ul.menu li ul li {
+  clear: both;
+  width: 100%;
+  white-space: nowrap; }
 
 .active {
   color: #EF8903; }
@@ -919,7 +945,7 @@ ul.submenu {
 .inactive {
   color: #35312A; }
 
-/****** Shared knowledge ******/
+/****** Components ******/
 .blog {
   width: 50em;
   max-width: 100%; }
@@ -935,6 +961,8 @@ ul.submenu {
     max-width: 100%;
     font-size: 1.25rem;
     padding-bottom: 2em; }
+  .blog p.middle {
+    text-align: center; }
   .blog li {
     font-size: 1.25rem; }
   .blog a {
@@ -992,14 +1020,16 @@ ul.submenu {
   width: 14em;
   background-color: #fff;
   height: 330px; }
-  .list-card h1 {
-    font-size: 0.875rem;
-    padding: 0.5em 1em;
-    text-align: left; }
-  .list-card p {
-    font-size: 0.75rem;
-    padding: 1em;
-    line-height: 1.5; }
+
+.list-card h1 {
+  font-size: 0.875rem;
+  padding: 0.5em 1em;
+  text-align: left; }
+
+.list-card p {
+  font-size: 0.75rem;
+  padding: 1em;
+  line-height: 1.5; }
 
 .list-card-img {
   height: 130px;
@@ -1428,7 +1458,13 @@ a {
 #contact textarea {
   color: #35312A;
   font-size: 1.25em; }
-
+  @media screen and (max-width: 895px) {
+    #contact input[type="text"],
+    #contact input[type="email"],
+    #contact input[type="tel"],
+    #contact input[type="url"],
+    #contact textarea {
+      font-size: 1rem; } }
 #contact h3 {
   display: block;
   font-size: 24px;
@@ -1516,3 +1552,7 @@ input:placeholder-shown {
 #contact textarea:placeholder-shown {
   text-indent: 13px;
   padding-top: 23px; }
+
+.obligated {
+  margin-top: -1.5em;
+  font-style: 0.875rem; }
