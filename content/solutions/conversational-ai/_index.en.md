@@ -4,7 +4,7 @@ description: conversational ai
 layout: conversational-ai
 lang: en
 translationKey: conversational-ai
-hero_image: "/img/hero-conversational-ai.jpg"
+hero_image: "/img/upload/hero-conversational-ai-new.jpg"
 hero_circles:
   left_circle: Stop inefficiency
   right_circle: Start scaling
@@ -60,10 +60,5 @@ introtext: Users can communicate with a chatbot or voice assistant in different 
   assistants have to overcome the trough of disillusion. Too often users are not properly
   understood or can only answer a question without supporting follow-up transactions.
 page_heading_2: Y. solutions
-menu:
-  main:
-    name: conversational-ai
-    weight: 2
-    parent: solutions
 
 ---
