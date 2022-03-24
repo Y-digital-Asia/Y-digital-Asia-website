@@ -37,7 +37,7 @@ quote_slide:
   photo: "/img/upload/ian.jpeg"
 round_button:
   button_text: Ga naar oplossingen
-  button_link: "/solutions/"
+  button_link: "/nl/oplossingen/"
 second_round_button:
   button_text: Read our blogs
   button_link: "/company/shared-knowledge/"
