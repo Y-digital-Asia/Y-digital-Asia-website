@@ -5,7 +5,7 @@ heroimage: hero-home.jpg
 layout: faq
 lang: nl
 translationKey: faq
-page_title: FAQ
+page_title: Veelgestelde vragen
 intro_text: Voor Y.digital is het ons dagelijkse werk, maar dat geldt natuurlijk niet
   voor iedereen. Daarom helpen je je graag op weg met een aantal veelgestelde vragen
   & antwoorden op het gebied van AI.
