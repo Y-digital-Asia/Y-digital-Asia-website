@@ -1,7 +1,7 @@
 ---
 title: Kennisbank
 description: Kennisbank
-layout: shared-knowledge
+layout: shared-knowledge-nl
 lang: nl
 translationKey: shared-knowledge
 hero_image: "/img/hero-shared-knowledge.jpg"
