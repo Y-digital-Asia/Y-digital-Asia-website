@@ -1,7 +1,9 @@
 ---
 title: Podcast
+description: description
 layout: podcast-list
-heroimage: hero-podcast.jpg
-date: 2017-03-02T12:00:00-05:00
+heroimage: /img/hero-podcast.jpg
+page_title: Podcast Overview
+intro_text: List of the latest podcasts
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+
