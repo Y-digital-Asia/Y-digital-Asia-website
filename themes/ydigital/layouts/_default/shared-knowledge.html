@@ -61,31 +61,7 @@
 	
 </section>
 
-<section class="updates4 wide light-gray">
-	
-	<div class="section-name">
-		<div class="section-logo">
-			<img src="/img/update.svg" alt="">
-			<h2>updates</h2>
-		</div>
-		<div class="section-link">
-			<a class="all" href="updates/">see all</a>
-		</div>
-	</div>
 
-	<div class="list">
-	    {{ range first 4 (where .Site.Pages "Layout" "update") }}
-		    <a href="{{ .Permalink }}">
-		    <div class="list-card">
-		    	<div class="list-card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
-		        <h1>{{ .Title }}</h1>
-		        <p>{{ .Params.summary }}</p>
-		    </div>
-		    </a>
-		   {{ end }}
-	</div>
-	
-</section>
 
 
 
