@@ -12,12 +12,14 @@ fields:
   name: layout
   label: layout
   hidden: true
+  default: update
 - type: file
   name: featured_image
   label: featured_image
 - type: datetime
   name: date
   label: date
+  default: now
 - name: summary
   type: textarea
   default: ''
