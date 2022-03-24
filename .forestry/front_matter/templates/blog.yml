@@ -19,6 +19,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  hidden: true
 - name: summary
   type: textarea
   default: ''
@@ -31,3 +32,5 @@ fields:
 - type: text
   name: author
   label: author
+pages:
+- content/company/shared-knowledge/blog/the-new-blog-post.md
