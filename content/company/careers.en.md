@@ -59,7 +59,10 @@ vacancy:
     Send us your CV and LinkedIn profile to [**result@y.digital**](mailto:result@y.digital)
   skills_heading: Skills and Knowledge
   what_we_offer_heading: 'What we offer:'
-  send_cv: ''
+  send_cv: |-
+    ## Sounds like you?
+
+    Send us your CV and LinkedIn profile to [**result@y.digital**](mailto:result@y.digital)
 menu:
   main:
     name: careers
