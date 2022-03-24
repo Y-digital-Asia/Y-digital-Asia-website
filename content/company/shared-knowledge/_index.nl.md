@@ -5,10 +5,10 @@ layout: shared-knowledge
 lang: nl
 translationKey: shared-knowledge
 hero_image: "/img/hero-shared-knowledge.jpg"
-page_title: Shared Knowledge
-intro_text: Find the latest news and information on conversational AI and intelligent
-  document processing in the latest blog, podcast and update. Including technology
-  as Machine Learning, Knowledge Graphs and Natural language processing.
+page_title: Kennisbank
+intro_text: Het laatste nieuws over conversational AI en Intelligent Document Processing.
+  Inclusief actualiteiten rondom nieuwe technologieën, zoals machine learning, knowledge
+  graphs en natural language processing.
 menu:
   main:
     name: shared knowledge
