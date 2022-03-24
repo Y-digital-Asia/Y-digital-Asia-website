@@ -2,7 +2,7 @@
 title: Y.careers
 description: careers
 layout: careers
-lang: en
+lang: nl
 translationKey: careers
 hero_image: "/img/hero-careers.jpg"
 intro_text: Talent drives our team and our capacity to deliver the best solutions
@@ -66,7 +66,7 @@ vacancy:
 menu:
   main:
     name: careers
-    parent: company
+    parent: bedrijf
     identifier: careers
     weight: 42
 
