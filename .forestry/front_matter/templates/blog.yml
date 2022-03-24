@@ -19,7 +19,8 @@ fields:
 - type: datetime
   name: date
   label: date
-  hidden: true
+  hidden: false
+  default: now
 - name: summary
   type: textarea
   default: ''
