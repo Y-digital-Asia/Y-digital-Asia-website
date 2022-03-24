@@ -12,6 +12,7 @@ fields:
   name: layout
   label: layout
   hidden: true
+  default: blog
 - type: file
   name: featured_image
   label: featured_image
