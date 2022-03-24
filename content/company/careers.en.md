@@ -66,7 +66,7 @@ vacancy:
 menu:
   main:
     name: careers
-    parent: bedrijf
+    parent: company
     identifier: careers
     weight: 42
 
