@@ -5,7 +5,7 @@ layout: intelligent-document-processing
 lang: nl
 translationKey: intelligent-document-processing
 url: "/nl/oplossingen/intelligent-document-processing/"
-hero_image: "/img/hero-intelligent-document-processing.jpg"
+hero_image: "/img/upload/smart-processing.png"
 hero_circles:
   left_circle: Stop boredom
   right_circle: Start wisdom
@@ -58,10 +58,5 @@ compliance_reviewer:
     customized solution for sales or service.
   link: "/contact/"
 page_heading_2: Y. solutions
-menu:
-  main:
-    name: intelligent document processing
-    parent: oplossingen
-    identifier: intelligent-document-processing
-    weight: 24
+
 ---
