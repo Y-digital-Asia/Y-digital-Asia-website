@@ -1,7 +1,7 @@
 ---
 title: Ai in Law and Legal Practice
 description: 
-type: blog
+layout: blog
 date: 2020-01-27T20:57:24.000+01:00
 featured_image: "/img/upload/ai-in-law-and-legal-practice.jpg"
 
