@@ -50,10 +50,6 @@ cards:
 round_button:
   button_text: Get in touch
   button_link: "/contact/"
-menu:
-  main:
-    name: services
-    identifier: services
-    weight: 30
+
 
 ---

@@ -45,10 +45,6 @@ two_round_buttons:
   right_button: Start connecting
   left_button_link: "/contact/"
   right_button_link: "/contact/"
-menu:
-  main:
-    name: oplossingen
-    identifier: oplossingen
-    weight: 3
+
 
 ---

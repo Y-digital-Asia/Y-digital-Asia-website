@@ -9,11 +9,6 @@ page_title: Kennisbank
 intro_text: Lees of beluister hier ons laatste nieuws. Inclusief actualiteiten rondom
   nieuwe technologieën, zoals machine learning, knowledge graphs en natural language
   processing.
-menu:
-  main:
-    name: shared knowledge
-    parent: bedrijf
-    identifier: shared-knowledge
-    weight: 44
+
 
 ---

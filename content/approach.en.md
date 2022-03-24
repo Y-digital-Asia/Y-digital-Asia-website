@@ -47,10 +47,6 @@ numbered_features:
     The AI-solution will be evolving and needs supervising learning mechanisms. We
     prioritize the backlog together with you and thus ensure continuous business value
     and growth.
-menu:
-  main:
-    name: approach
-    identifier: approach
-    weight: 2
+
 
 ---

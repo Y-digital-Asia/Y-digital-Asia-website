@@ -97,11 +97,6 @@ q_and_a:
     website more findable by Voice Search and develop a Google Action. Lastly, you
     can, for instance, promote your company''s products or services in an Action.'
 hero_image: ''
-menu:
-  main:
-    name: faq
-    parent: company
-    identifier: faq
-    weight: 46
+
 
 ---

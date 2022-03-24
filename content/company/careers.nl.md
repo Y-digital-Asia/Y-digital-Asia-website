@@ -63,11 +63,6 @@ vacancy:
     ## Sounds like you?
 
     Send us your CV and LinkedIn profile to [**result@y.digital**](mailto:result@y.digital)
-menu:
-  main:
-    name: careers
-    parent: bedrijf
-    identifier: careers
-    weight: 42
+
 
 ---

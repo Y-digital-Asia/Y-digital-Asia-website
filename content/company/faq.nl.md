@@ -101,11 +101,6 @@ q_and_a:
     voor voice search en een Google Action ontwikkelen. In een Action kun je bijvoorbeeld
     producten of diensten van je bedrijf promoten.
 hero_image: ''
-menu:
-  main:
-    name: faq
-    parent: bedrijf
-    identifier: faq
-    weight: 46
+
 
 ---

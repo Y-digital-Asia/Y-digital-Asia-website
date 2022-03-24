@@ -3,12 +3,164 @@ defaultContentLanguage = "en"
 languageCode = "en-us"
 theme = "ydigital"
 title = "y.digital"
+
 [languages.en]
 languageName = "English"
 title = "y.digital"
 weight = 1
+	[[languages.en.menu.main]]
+	identifier = "approach"
+	name = "approach"
+	title = "approach"
+	url = "/approach/"
+	pageRef = "/approach"
+	weight = 10
+	[[languages.en.menu.main]]
+	identifier = "solutions"
+	name = "solutions"
+	title = "solutions"
+	url = "/solutions/"
+	pageRef = "/solutions"
+	weight = 20
+		[[languages.en.menu.main]]
+		identifier = "conversational-ai"
+		parent = "solutions"
+		name = "conversational ai"
+		title = "conversational ai"
+		url = "/solutions/conversational-ai/"
+		pageRef = "/solutions/conversational-ai"
+		weight = 22
+		[[languages.en.menu.main]]
+		identifier = "intelligent-document-processing"
+		parent = "solutions"
+		name = "intelligent document processing"
+		title = "intelligent document processing"
+		url = "/solutions/intelligent-document-processing/"
+		pageRef = "/solutions/intelligent-document-processing"
+		weight = 24
+	[[languages.en.menu.main]]
+	identifier = "services"
+	name = "services"
+	title = "services"
+	url = "/services/"
+	pageRef = "/services"
+	weight = 30
+	[[languages.en.menu.main]]
+	identifier = "company"
+	name = "company"
+	title = "company"
+	url = "/company/"
+	pageRef = "/company"
+	weight = 40
+		[[languages.en.menu.main]]
+		identifier = "careers"
+		parent = "company"
+		name = "careers"
+		title = "careers"
+		url = "/company/careers/"
+		pageRef = "/company/careers"
+		weight = 42
+		[[languages.en.menu.main]]
+		identifier = "shared-knowledge"
+		parent = "company"
+		name = "shared knowledge"
+		title = "shared knowledge"
+		url = "/company/shared-knowledge/"
+		pageRef = "/company/shared-knowledge"
+		weight = 44
+		[[languages.en.menu.main]]
+		identifier = "faq"
+		parent = "company"
+		name = "faq"
+		title = "faq"
+		url = "/company/faq/"
+		pageRef = "/company/faq"
+		weight = 46
+	[[languages.en.menu.main]]
+	identifier = "contact"
+	name = "contact"
+	title = "contact"
+	url = "/contact/"
+	pageRef = "/contact"
+	weight = 50
+
 [languages.nl]
-googleAnalytics = "G-GWCP47ZZMB"
 languageName = "Dutch"
 title = "y.digital"
 weight = 2
+	[[languages.nl.menu.main]]
+	identifier = "aanpak"
+	name = "aanpak"
+	title = "aanpak"
+	url = "/nl/aanpak/"
+	pageRef = "/approach"
+	weight = 10
+	[[languages.nl.menu.main]]
+	identifier = "oplossingen"
+	name = "oplossingen"
+	title = "oplossingen"
+	url = "/nl/oplossingen/"
+	pageRef = "/solutions"
+	weight = 20
+		[[languages.nl.menu.main]]
+		identifier = "conversational-ai"
+		parent = "oplossingen"
+		name = "conversational ai"
+		title = "conversational ai"
+		url = "/nl/oplossingen/conversational-ai/"
+		pageRef = "/solutions/conversational-ai"
+		weight = 22
+		[[languages.nl.menu.main]]
+		identifier = "intelligent-document-processing"
+		parent = "oplossingen"
+		name = "intelligent document processing"
+		title = "intelligent document processing"
+		url = "/nl/oplossingen/intelligent-document-processing/"
+		pageRef = "/solutions/intelligent-document-processing"
+		weight = 24
+	[[languages.nl.menu.main]]
+	identifier = "diensten"
+	name = "diensten"
+	title = "diensten"
+	url = "/nl/diensten/"
+	pageRef = "/services"
+	weight = 30
+	[[languages.nl.menu.main]]
+	identifier = "bedrijf"
+	name = "bedrijf"
+	title = "bedrijf"
+	url = "/nl/bedrijf/"
+	pageRef = "/company"
+	weight = 40
+		[[languages.nl.menu.main]]
+		identifier = "careers"
+		parent = "bedrijf"
+		name = "careers"
+		title = "careers"
+		url = "/nl/company/careers/"
+		pageRef = "/company/careers"
+		weight = 42
+		[[languages.nl.menu.main]]
+		identifier = "shared-knowledge"
+		parent = "bedrijf"
+		name = "shared knowledge"
+		title = "shared knowledge"
+		url = "/nl/company/shared-knowledge/"
+		pageRef = "/company/shared-knowledge"
+		weight = 44
+		[[languages.nl.menu.main]]
+		identifier = "faq"
+		parent = "bedrijf"
+		name = "faq"
+		title = "faq"
+		url = "/nl/company/faq/"
+		pageRef = "/company/faq"
+		weight = 46
+	[[languages.nl.menu.main]]
+	identifier = "contact"
+	name = "contact"
+	title = "contact"
+	url = "/nl/contact/"
+	pageRef = "/contact"
+	weight = 50
+

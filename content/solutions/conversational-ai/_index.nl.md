@@ -4,12 +4,6 @@ description: conversational ai
 layout: conversational-ai
 lang: nl
 translationKey: conversational-ai
-menu:
-  main:
-    name: conversational ai
-    parent: oplossingen
-    identifier: conversational-ai
-    weight: 22
 url: "/nl/oplossingen/conversational-ai/"
 hero_image: "/img/hero-conversational-ai.jpg"
 hero_circles:

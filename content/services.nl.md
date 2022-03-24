@@ -53,10 +53,6 @@ h3heading: Off-the-shelf
 round_button:
   button_text: Get in touch
   button_link: "/contact/"
-menu:
-  main:
-    name: diensten
-    identifier: diensten
-    weight: 30
+
 
 ---

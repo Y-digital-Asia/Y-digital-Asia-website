@@ -54,10 +54,6 @@ numbered_features:
     resultaat te bereiken. De AI-oplossingen ontwikkelen we zo verder, waarbij menselijke
     supervisie een belangrijke rol blijft vervullen. We prioriteren het backlog samen
     met jou en zorgen zo voor continue business value en groei.
-menu:
-  main:
-    name: aanpak
-    identifier: aanpak
-    weight: 1
+
 
 ---
