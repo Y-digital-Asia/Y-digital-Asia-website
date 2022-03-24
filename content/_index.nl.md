@@ -40,7 +40,7 @@ round_button:
   button_link: "/nl/oplossingen/"
 second_round_button:
   button_text: Read our blogs
-  button_link: "/company/shared-knowledge/"
+  button_link: "/nl/company/shared-knowledge/"
 feature:
 - text: |-
     ## Klaar voor de volgende stap?
