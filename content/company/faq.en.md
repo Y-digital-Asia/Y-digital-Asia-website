@@ -102,6 +102,6 @@ menu:
     name: faq
     parent: company
     identifier: faq
-    weight: 3
+    weight: 46
 
 ---

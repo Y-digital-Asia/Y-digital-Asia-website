@@ -57,6 +57,6 @@ menu:
   main:
     name: diensten
     identifier: diensten
-    weight: 5
+    weight: 30
 
 ---

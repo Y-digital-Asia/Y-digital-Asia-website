@@ -61,5 +61,10 @@ introtext: Users can communicate with a chatbot or voice-assistant in different 
   have to overcome the through of disillusion. Too often users are not properly understood
   or can only answer a question without supporting a following transactions.
 page_heading_2: Y. solutions
-
+menu:
+  main:
+    name: conversational ai
+    parent: oplossingen
+    identifier: conversational-ai
+    weight: 22
 ---

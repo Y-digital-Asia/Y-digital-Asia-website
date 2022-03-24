@@ -12,8 +12,8 @@ intro_text: Find the latest news and information on conversational AI and intell
 menu:
   main:
     name: shared knowledge
-    parent: company
+    parent: bedrijf
     identifier: shared-knowledge
-    weight: 2
+    weight: 44
 
 ---

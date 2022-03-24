@@ -58,5 +58,10 @@ compliance_reviewer:
     customized solution for sales or service.
   link: "/contact/"
 page_heading_2: Y. solutions
-
+menu:
+  main:
+    name: intelligent document processing
+    parent: oplossingen
+    identifier: intelligent-document-processing
+    weight: 24
 ---

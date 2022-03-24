@@ -9,6 +9,6 @@ intro_text: Laat je gegevens hier achter en we nemen snel contact met je op!
 menu:
   main:
     name: contact
-    weight: 10
+    weight: 50
 
 ---

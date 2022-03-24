@@ -65,6 +65,6 @@ menu:
     name: careers
     parent: company
     identifier: careers
-    weight: 1
+    weight: 42
 
 ---

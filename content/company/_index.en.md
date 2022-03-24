@@ -70,11 +70,10 @@ we_are_hiring: |-
 round_button:
   button_text: Careers
   button_link: "/company/careers/"
-ally_platform: ''
 menu:
   main:
     name: company
     identifier: company
-    weight: 8
+    weight: 40
 
 ---

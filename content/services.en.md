@@ -54,6 +54,6 @@ menu:
   main:
     name: services
     identifier: services
-    weight: 6
+    weight: 30
 
 ---
