@@ -1,18 +1,40 @@
 {{ define "main" }}
-{{/*
-  This template is the same as the default and is here to demonstrate that if you have a content directory called "post" you can create a layouts directory, just for that section.
-   */}}
-  <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
-      {{ .Content }}
+
+
+<section class="wide orange">
+    
+
+    <img class="logo-image" src="/img/blog-white.svg" alt="Blog">
+    <h1 class="white-text">{{ .Params.page_title }}</h1>
+
+
+  
+<!--   <section class="intro">
+    <p>{{ .Params.intro_text }}</p>
+  </section> -->
+
+
+</section>
+
+<section class="wide blog-list">
+
+
+    {{ range .Pages.ByDate.Reverse }}
+    <a href="{{ .Permalink }}">
+    <section class="blogcard">
+      <div class="card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
+      <p class="date">{{ .Date.Format "02 January, 2006" }}</p>
+      <h1>{{ .Title }}</h1>
+      <p class="card-content">{{ .Params.summary }}</p>
+      <p class="card-read-more">read more</p>
     </section>
-    <aside class="flex-ns flex-wrap justify-around mt5">
-      {{ range .Paginator.Pages }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          {{ .Render "summary" }}
-        </div>
-      {{ end }}
-    </aside>
-    {{ template "_internal/pagination.html" . }}
-  </article>
+    </a>
+    {{ end }}
+
+    <section class="filling-empty-space"></section>
+    <section class="filling-empty-space"></section>
+    <section class="filling-empty-space"></section>
+
+</section>
+
 {{ end }}

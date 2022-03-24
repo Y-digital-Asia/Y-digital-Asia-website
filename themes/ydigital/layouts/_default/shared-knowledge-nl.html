@@ -22,7 +22,7 @@
 	</div>
 
 	<div class="list">
-	    {{ range first 4 (where .Site.Pages "Layout" "blog") }}
+	    {{ range first 4 (where .Site.Pages "Type" "blog") }}
 		    <a href="{{ .Permalink }}">
 		    <div class="list-card">
 		    	<div class="list-card-img"><img src="{{ .Params.featured_image }}" alt=""></div>

@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+{{ partial "featured-image.html" . }}
+
+<section class="blog">
+
+  <h1>{{ .Title }}</h1>
+  <!-- <h2>{{ .Params.subtitle }}</h2> -->
+
+  {{ .Content }}
+
+  <p class="middle"><a href="../">Return to the blog</a></p>
+
+</section>
+
+
+{{ end }}
