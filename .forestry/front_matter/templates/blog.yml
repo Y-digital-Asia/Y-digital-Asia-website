@@ -34,4 +34,5 @@ fields:
   name: author
   label: author
 pages:
+- content/company/shared-knowledge/blog/the-latest-blog-post-here.md
 - content/company/shared-knowledge/blog/the-new-blog-post.md
