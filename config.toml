@@ -3,6 +3,7 @@ defaultContentLanguage = "en"
 languageCode = "en-us"
 theme = "ydigital"
 title = "y.digital"
+googleAnalytics = "G-GWCP47ZZMB"
 
 [languages.en]
 languageName = "English"

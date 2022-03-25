@@ -4,10 +4,8 @@
     <title>{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Site.Title }} - {{ .Title }}{{- end }}</title>
     <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
     {{ $scss := resources.Get "scss/main.scss" }}{{ $style := $scss | resources.ToCSS }}
-    {{ template "_internal/google_analytics.html" . }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
+    {{ template "_internal/google_analytics.html" . }}
     <script type="text/javascript" src="/js/main.js"></script>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    {{ partial "gtag.html" . }}
 </head>
 
