@@ -32,3 +32,4 @@ fields:
       format: markdown
 pages:
 - content/company/shared-knowledge/_index.en.md
+- content/company/shared-knowledge/_index.nl.md

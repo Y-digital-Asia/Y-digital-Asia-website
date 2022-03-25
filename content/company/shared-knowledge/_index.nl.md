@@ -10,5 +10,4 @@ intro_text: Lees of beluister hier ons laatste nieuws. Inclusief actualiteiten r
   nieuwe technologieën, zoals machine learning, knowledge graphs en natural language
   processing.
 
-
 ---
