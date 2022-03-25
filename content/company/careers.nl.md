@@ -64,5 +64,4 @@ vacancy:
 
     Send us your CV and LinkedIn profile to [**result@y.digital**](mailto:result@y.digital)
 
-
 ---
