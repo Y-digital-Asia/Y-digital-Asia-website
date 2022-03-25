@@ -9,13 +9,8 @@
 	h1 {
 		font-size: 2.5rem;
 		padding: 2em 0 1em 0;
-		// color: #fff;
 	}
 
-	h2 {
-			// font-size: 2.25rem;
-			// color: #fff;
-		}
 
 	h3 {
 		font-size: 1.5rem;
@@ -72,11 +67,19 @@
 	margin-top: 2em;
 }
 
+.section-link {
+	align-self: center;
+}
+
 .all {
 	padding: 0.1875em 1em;
 	background-color: #fff;
 	font-size: 1.5em;
 	font-weight: 700;
+
+	@media screen and (max-width: 500px) {
+    font-size: 1rem;
+    }
 }
 
 .section-name {
@@ -100,12 +103,14 @@
 	h2 {
 		font-size: 2.5rem;
 		color: $dark-gray;
+
+		@media screen and (max-width: 500px) {
+    	font-size: 2rem;
+    	}
 	}
 }
 
-.section-link {
-	align-self: center;
-}
+
 
 .list {
 	display: flex;
