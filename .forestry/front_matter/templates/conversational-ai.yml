@@ -144,5 +144,6 @@ fields:
     name: right_button_link
     label: right_button_link
 pages:
+- content/solutions/conversational-ai/_index.en.md
 - content/solutions/conversational-ai/_index.nl.md
 - content/solutions/conversational-ai/_index.nl.md
