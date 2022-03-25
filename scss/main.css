@@ -1003,12 +1003,17 @@ ul.menu li ul li {
 .blog4 {
   margin-top: 2em; }
 
+.section-link {
+  align-self: center; }
+
 .all {
   padding: 0.1875em 1em;
   background-color: #fff;
   font-size: 1.5em;
   font-weight: 700; }
-
+  @media screen and (max-width: 500px) {
+    .all {
+      font-size: 1rem; } }
 .section-name {
   display: flex;
   width: 100%;
@@ -1025,10 +1030,9 @@ ul.menu li ul li {
 .section-logo h2 {
   font-size: 2.5rem;
   color: #35312A; }
-
-.section-link {
-  align-self: center; }
-
+  @media screen and (max-width: 500px) {
+    .section-logo h2 {
+      font-size: 2rem; } }
 .list {
   display: flex;
   flex-direction: row;
