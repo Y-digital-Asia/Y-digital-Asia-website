@@ -34,31 +34,37 @@ two_round_buttons:
   right_button_link: "/contact/"
 legal_contract_checker:
   box_title: Legal Contract Checker
-  box_text: Reviewing contracts is knowledge-intensive, requiring interpretation of
-    legal jargon. It is also tedious. Our AI platform Ally recognizes data fields
-    and reviews relevant information in contracts at lightspeed, relieving employees
-    of this workload so they can spend more time creating value.
+  box_text: Het beoordelen van contracten is kennisintensief en vereist kennis van
+    juridisch jargon. Het is ook vervelend om te moeten uitvoeren. Ons AI-platform
+    Ally herkent gegevensvelden en beoordeelt relevante informatie in contracten razendsnel,
+    zodat werknemers deze werklast niet meer hoeven te dragen en meer tijd kunnen
+    besteden aan het creëren van waarde.
   link: "/contact/"
 realtime_information_recap:
   box_title: Real-time Information Recap
-  box_text: Whether it’s emails, calls or any other channel; information is always
-    coming in. Recaps cut through all unnecessary context and noise, serving you exactly
-    the data points you need. This takes a load off of customer service employees
-    and when combined with real-time transcription, dramatically reduces handling
-    time in call centres.
+  box_text: Of het nu gaat om e-mails, telefoontjes of een ander kanaal, er komt altijd
+    informatie binnen. Recapitulatie snijdt door alle onnodige context en ruis, en
+    geeft je precies de datapunten die je nodig hebt. Dit ontlast de medewerkers van
+    de klantenservice en in combinatie met real-time transcriptie, wordt de verwerkingstijd
+    in callcenters drastisch verkort.
   link: "/contact/"
 esg_scan:
   box_title: ESG – Scan
-  box_text: Virtual assistants can help employees remain updated about news within
-    the company and assist with various aspects of employee’s daily work. This offers
-    a tremendous opportunity for increasing employee satisfaction and productivity
-    while saving costs and improving quality.
+  box_text: "Elke seconde wordt er meer informatie gecreëerd dan er kan worden geconsumeerd,
+    waardoor het monitoren van nieuws voor beleggingsdoeleinden bijna onmogelijk is.
+    \LOnze ESG Monitor combineert meer dan 10 jaar financiële nieuwsgeschiedenis met
+    een constante scan van het dagelijkse nieuws. Met behulp van AI en NLP wordt de
+    informatie geannoteerd, gewogen en gerangschikt om je alleen de statistieken en
+    trends te laten zien die je nodig hebt, verrijkt met relevante inzichten."
   link: "/contact/"
 compliance_reviewer:
   box_title: Compliance Reviewer
-  box_text: Step into the world of Google Assistant and introduce your first AI-powered
-    voice-assistant. We offer a of the shelve solution with Voicedomain. Or your own
-    customized solution for sales or service.
+  box_text: 'Nu de complianceregels steeds strenger worden, is het handmatig beoordelen
+    van content en het waarborgen van consistentie binnen een groot compliance-team
+    een hele uitdaging. Ons platform Ally laat geen toe. Wij zorgen voor nauwkeurigheid
+    door gebruik te maken van sectorspecifieke complianceregels, controleren elk stuk
+    en stellen je in staat om compliance-bewijsmateriaal en -rapporten centraal te
+    beheren. '
   link: "/contact/"
 page_heading_2: Y. solutions
 
