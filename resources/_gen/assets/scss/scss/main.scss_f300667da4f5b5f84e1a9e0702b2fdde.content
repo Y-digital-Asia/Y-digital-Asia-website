@@ -996,9 +996,10 @@ ul.menu li ul li {
   flex-direction: column;
   flex-wrap: wrap;
   padding: 2em 4em;
-  margin: 1em 0;
-  height: 35em; }
-
+  margin: 1em 0; }
+  @media screen and (max-width: 640px) {
+    .blog4, .podcast4, .updates4 {
+      flex-direction: row; } }
 .blog4 {
   margin-top: 2em; }
 
