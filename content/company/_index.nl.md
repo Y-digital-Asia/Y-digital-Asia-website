@@ -73,6 +73,6 @@ we_are_hiring: |-
 round_button:
   button_text: Carrière
   button_link: "/company/careers/"
-
+ally_platform: ''
 
 ---

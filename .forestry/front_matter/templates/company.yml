@@ -155,3 +155,4 @@ fields:
   label: Round button
 pages:
 - content/company/_index.en.md
+- content/company/_index.nl.md
