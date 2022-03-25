@@ -10,20 +10,23 @@ hero_circles:
   left_circle: Stop boredom
   right_circle: Start wisdom
 page_title: Intelligent Document Processing
-intro_text: 'Business processes have been automated for 50 years, using traditional
-  IT technology. But this has reached a limit: organizations still need employees
-  to handle questions, complex cases, exceptions, check compliance and handle documents.
-  So, the efficiency, quality and capacity of business processes still depends on
-  two key assets: employees and knowledge. Traditional IT technology can no longer
-  provide solutions. That’s where AI comes in.'
+intro_text: 'Bedrijfsprocessen worden met behulp van traditionele IT-technologie al
+  50 jaar geautomatiseerd. Maar dit heeft een grens bereikt: organisaties hebben nog
+  steeds werknemers nodig om vragen, complexe gevallen en uitzonderingen te behandelen,
+  de naleving van de voorschriften te controleren en documenten te behandelen. De
+  efficiëntie, kwaliteit en capaciteit van bedrijfsprocessen hangt dus nog steeds
+  af van twee belangrijke elementen: medewerkers en kennis. Traditionele IT-technologie
+  kan niet langer oplossing bieden. Dat is waar AI om de hoek komt kijken.'
 features:
-- text: We developed AI solutions that capture and scale the knowledge of your organisation.
-    Technology that can be implemented in your business processes through various
-    solutions. For example automate complex document-based workflows, involving unstructured
-    data. Or support complex cases by providing relevant information and even giving
-    handling suggestions to employees. Ways to decrease handling time and improve
-    quality while lowering operational risks. The possibilities of AI are endless.
-    Choose a standard solution or let us build your own customized solution.
+- text: Wij hebben AI-oplossingen ontwikkeld die de kennis van je organisatie vastleggen
+    en opschalen. Technologie die via verschillende oplossingen in je bedrijfsprocessen
+    kan worden geïmplementeerd. Bijvoorbeeld het automatiseren van complexe document-gebaseerde
+    workflows, waarbij ongestructureerde data betrokken is. Of complexe zaken ondersteunen
+    door relevante informatie te verstrekken en zelfs afhandelingssuggesties te geven
+    aan medewerkers. Manieren om de afhandelingstijd te verkorten en de kwaliteit
+    te verbeteren, terwijl operationele risico's worden verlaagd. De mogelijkheden
+    van AI zijn eindeloos. Kies een standaardoplossing of laat ons jouw eigen oplossing
+    op maat bouwen.
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
