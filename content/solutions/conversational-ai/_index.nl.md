@@ -7,8 +7,8 @@ translationKey: conversational-ai
 url: "/nl/oplossingen/conversational-ai/"
 hero_image: "/img/upload/hero-conversational-ai-new.jpg"
 hero_circles:
-  left_circle: Stop wasting time
-  right_circle: Start delighting employees
+  left_circle: Stop inefficiency
+  right_circle: Start scaling
 page_title: Conversational AI
 intro_text: Gebruikers kunnen met een chatbot of voice assistenten communiceren in
   verschillende talen, met behulp van spraak, typen of een combinatie van beide. De
