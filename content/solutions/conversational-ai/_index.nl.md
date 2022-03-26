@@ -5,7 +5,7 @@ layout: conversational-ai
 lang: nl
 translationKey: conversational-ai
 url: "/nl/oplossingen/conversational-ai/"
-hero_image: "/img/hero-conversational-ai.jpg"
+hero_image: "/img/upload/hero-conversational-ai-new.jpg"
 hero_circles:
   left_circle: Stop wasting time
   right_circle: Start delighting employees
