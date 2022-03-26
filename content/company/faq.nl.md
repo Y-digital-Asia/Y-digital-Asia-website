@@ -1,6 +1,6 @@
 ---
-title: FAQ
-description: FAQ
+title: Veelgestelde vragen
+description: Veelgestelde vragen
 heroimage: hero-home.jpg
 layout: faq
 lang: nl
@@ -101,6 +101,5 @@ q_and_a:
     voor voice search en een Google Action ontwikkelen. In een Action kun je bijvoorbeeld
     producten of diensten van je bedrijf promoten.
 hero_image: ''
-
 
 ---
