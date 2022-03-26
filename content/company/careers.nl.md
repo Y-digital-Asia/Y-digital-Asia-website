@@ -1,14 +1,14 @@
 ---
-title: Y.careers
-description: careers
+title: Y.carrière
+description: carrière
 layout: careers
 lang: nl
 translationKey: careers
 hero_image: "/img/hero-careers.jpg"
-intro_text: Talent drives our team and our capacity to deliver the best solutions
-  and services for our customers. Join us on this exciting journey and our team of
-  people who are passionate about digital, learning and working together.
-page_title: Y.careers
+intro_text: Talent is de drijvende factor achter ons team. Dankzij onze medewerkers
+  zijn we in staat om de beste oplossingen en service te bieden aan onze klanten.
+  Kom je ons team versterken?
+page_title: Y.carrière
 vacancy:
 - title: junior/medior Digital Transformation Consultants
   role: |-
