@@ -53,7 +53,7 @@ team:
     you can be sure the best ideas will respected, and everyone is within reach for
     a face-to-face contact.”"
   name: Przemek Lenkiewicz
-  job: Chief of Operations
+  job: Chief Operations Officer
 experience: |-
   ## Onze ervaring
 
