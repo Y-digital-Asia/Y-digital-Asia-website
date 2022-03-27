@@ -30,7 +30,7 @@ conversational_ai:
     hebben we een next level conversational AI-oplossing ontwikkeld. Een oplossing
     die is gebaseerd op knowledge graph technologie, vanuit een diepgaand begrip van
     de neurolinguïstiek en de werking van het menselijk brein.
-  link: "/solutions/conversational-ai/"
+  link: "/nl/oplossingen/conversational-ai/"
 intelligent_document_processing:
   box_title: Intelligent Document Processing
   box_text: 'AI is betekenisvol voor organisaties die grote hoeveelheden data uit
@@ -45,6 +45,5 @@ two_round_buttons:
   right_button: Start connecting
   left_button_link: "/contact/"
   right_button_link: "/contact/"
-
 
 ---
