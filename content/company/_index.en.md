@@ -50,7 +50,7 @@ team:
     in which you can be sure the best ideas will respected, and everyone is within
     reach for a face-to-face contact.”"
   name: Przemek Lenkiewicz
-  job: Chief of Operations
+  job: Chief Operations Officer
 experience: |-
   ## Our experience
 
@@ -70,6 +70,6 @@ we_are_hiring: |-
 round_button:
   button_text: Careers
   button_link: "/company/careers/"
-
+ally_platform: ''
 
 ---
