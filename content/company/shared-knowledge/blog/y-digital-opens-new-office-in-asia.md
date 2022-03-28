@@ -2,7 +2,7 @@
 title: Y.digital Opens New Office in Asia
 description: 
 layout: blog
-featured_image: "/img/upload/y-digital-opens-new-office-in-asia.jpg"
+featured_image: "/img/upload/1.png"
 date: 2021-10-12T11:45:28.000+02:00
 author: y.digital
 summary: Y.digital just opened its 1st office in Asia last month. With this strategic
