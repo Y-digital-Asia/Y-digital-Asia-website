@@ -1,0 +1,70 @@
+
+
+.faq {
+    margin-top: -1em;
+    width: 50em;
+    max-width: 90%;
+
+    p {
+        font-size: 1.25rem;
+            // font-size: 0.75rem;
+        padding: 1em 3.5em 1em 2.5em;
+    }
+}
+
+dl.faq button {
+    padding-left: 2.5em;
+    font-weight: bold;
+    background-color: $light-gray;
+    font-size: 1.25rem;
+        // font-size: 0.75rem;
+    line-height: 3.5;
+    color: $dark-gray;
+    letter-spacing: 1px;
+    width: 50em;
+    max-width: 100%;
+}
+
+
+dl dd {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 2.5em;
+}
+
+@media screen and (max-width: 50em) {
+    dl.faq button {
+        padding-left: 1.5em;
+        font-size: 2.3vw;
+    }
+    dl dd {
+        padding-bottom: 1em;
+    }
+}
+
+
+
+dl.faq .desc {
+  margin: 0;
+  margin-top: 0.25em;
+  display: none;
+  
+}
+
+dl.faq button:hover,
+dl.faq button:focus {
+  cursor: pointer;
+}
+
+dl.faq button[aria-expanded="false"] {
+    background: $light-gray url("/img/plus.png") no-repeat right;
+    background-size: contain;
+
+}
+
+dl.faq button[aria-expanded="true"] {
+    background: $orange url("/img/minus.png") no-repeat right;
+    background-size: contain;
+    color: #fff;
+
+}

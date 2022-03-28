@@ -1,16 +1,29 @@
-@import "reset";
-@import "variables";
-@import "fonts";
-@import "base";
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+@import "base/base";
+@import "base/reset";
+@import "base/fonts";
+
+@import "layout/menu";
+@import "layout/hamburger_menu";
+@import "layout/footer";
+
+
 @import "content";
-@import "case_study";
-@import "menu";
-@import "shared";
-@import "circles";
-@import "newsletter";
-@import "footer";
-@import "hamburger_menu";
-@import "contact_form";
-@import "animations";
+
+@import "pages/case_study";
+@import "pages/careers";
+@import "pages/faq";
+@import "pages/company";
+@import "pages/shared";
+
+
+@import "components/animations";
+@import "components/circles";
+@import "components/contact_form";
+@import "components/newsletter";
+
+
 
 

@@ -1,0 +1,70 @@
+
+
+.team {
+    max-width: 15em;
+
+    p {
+        color: #fff;
+    }
+}
+
+.person {
+    width: 75%;
+    color: #fff;
+    font-weight: 700;
+    padding: 1.53em 1em;
+    align-self: flex-end;
+
+    p {
+        font-size: 0.9375rem;
+        padding: 0;
+        text-align: right;
+    }
+
+    .name {
+        color: $dark-gray;
+    }
+}
+
+.card-text {
+    font-size: 1.125rem;
+    padding: 1.5em 1.375em;
+    flex: 1;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.read-more {
+    color: #fff;
+    font-weight: 700;
+    align-self: flex-end;
+}
+
+
+
+
+.academy {
+    padding: 2em 0;
+    margin-bottom: 5em;
+
+    .circle {
+        margin: 2em;
+    }
+
+    .circle p {
+        font-style: 1.25rem;
+    }
+
+    .circle {
+        background-image: url("/img/y.academy.svg");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 115px;
+
+        @media screen and (max-width: 600px) {
+            background-size: 80px;
+        }
+    }
+}
