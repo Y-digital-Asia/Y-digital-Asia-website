@@ -2,7 +2,7 @@
 title: Dr Ian Fitzpatrick Joined Y.digital as Partner CTO
 description: 
 layout: blog
-featured_image: "/img/upload/ian.jpg"
+featured_image: "/img/upload/6.png"
 date: 2020-06-05T13:48:40.000+02:00
 summary: Ian FitzPatrick joined Y.digital to drive innovation and growth.
 author: Ian Fitzpatrick
