@@ -5,8 +5,8 @@ layout: blog
 featured_image: "/img/upload/1.png"
 date: 2021-10-12T11:45:28.000+02:00
 author: y.digital
-summary: Y.digital just opened its 1st office in Asia last month. With this strategic
-  move we are expanding our footprint to the APAC market and growing the team.
+summary: Y.digital opened its 1st office in Asia. With this strategic move, we are
+  expanding our footprint to the APAC market and growing the team.
 
 ---
 Y.digital just opened its 1st office in Asia last month. With this strategic move, we are expanding our footprint to the APAC market and growing the team.
