@@ -2,7 +2,7 @@
 title: Y.digital acquires Css Motion
 description: 
 layout: blog
-featured_image: "/img/upload/ececec.png"
+featured_image: "/img/upload/4.png"
 date: 2020-09-02T07:09:56.000+02:00
 summary: 'Art Ligthart joins Y.digital as Partner to further develop our smart digital
   assistants and to create a collaborative powerful platform. '
