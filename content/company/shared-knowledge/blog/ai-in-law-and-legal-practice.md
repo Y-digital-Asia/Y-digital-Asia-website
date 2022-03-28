@@ -1,9 +1,11 @@
 ---
-title: Ai in Law and Legal Practice
+title: AI in Law and Legal Practice
 description: 
 layout: blog
 date: 2020-01-27T20:57:24.000+01:00
 featured_image: "/img/upload/ai-in-law-and-legal-practice.jpg"
+summary: 'Artificial Intelligence has been applied in the juridical domain for several
+  years now. Edgar Alan Rayo researched the current state of AI in legal practice. '
 
 ---
 Artificial Intelligence has been applied in the juridical domain for several years now. Edgar Alan Rayo researched the current state of AI in legal and wrote an interesting [article](https://emerj.com/ai-sector-overviews/ai-in-law-legal-practice-current-applications/).
