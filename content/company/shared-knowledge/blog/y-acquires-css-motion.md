@@ -4,8 +4,8 @@ description:
 layout: blog
 featured_image: "/img/upload/y-acquires-css-motion.jpg"
 date: 2020-09-02T07:09:56.000+02:00
-summary: Art Ligthart joining as Partner. With the acquisition, Y. gains a wealth
-  of experience for the further development of our smart digital assistants.
+summary: 'Art Ligthart joins Y.digital as Partner to further develop our smart digital
+  assistants and to create a collaborative powerful platform. '
 author: y.digital
 
 ---
