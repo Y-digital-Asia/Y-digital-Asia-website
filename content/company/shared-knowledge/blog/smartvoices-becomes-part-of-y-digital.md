@@ -1,8 +1,7 @@
 ---
 title: Smartvoices becomes part of Y.digital
-summary: With the ambition to remain a leader in this market, AI specialist Y.digital
-  is joining forces with voice agency Smartvoices. The strategic combination focuses
-  on the development and implementation of hyper-intelligent conversational agents.
+summary: 'With the ambition to remain a leader in this market, AI specialist Y.digital
+  is joining forces with voice agency Smartvoices. '
 description: 
 layout: blog
 featured_image: "/img/upload/2.png"
