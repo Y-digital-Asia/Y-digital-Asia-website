@@ -4,7 +4,7 @@ description: intelligent document processing
 layout: intelligent-document-processing
 lang: nl
 translationKey: intelligent-document-processing
-url: "/nl/oplossingen/intelligent-document-processing/"
+# url: "/nl/oplossingen/intelligent-document-processing/"
 hero_image: "/img/upload/smart-processing.png"
 hero_circles:
   left_circle: Stop boredom

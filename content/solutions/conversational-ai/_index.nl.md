@@ -4,7 +4,7 @@ description: conversational ai
 layout: conversational-ai
 lang: nl
 translationKey: conversational-ai
-url: "/nl/oplossingen/conversational-ai/"
+# url: "/nl/oplossingen/conversational-ai/"
 hero_image: "/img/upload/hero-conversational-ai-new.jpg"
 hero_circles:
   left_circle: Stop inefficiency

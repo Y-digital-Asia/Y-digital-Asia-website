@@ -2,7 +2,7 @@
 title: Aanpak
 description: aanpak
 layout: approach
-slug: aanpak
+# slug: aanpak
 lang: nl
 translationKey: approach
 hero_image: "/img/hero-approach.jpg"

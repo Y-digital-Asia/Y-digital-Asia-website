@@ -90,52 +90,52 @@ languageName = "Dutch"
 title = "y.digital"
 weight = 2
 	[[languages.nl.menu.main]]
-	identifier = "aanpak"
+	identifier = "approach"
 	name = "aanpak"
 	title = "aanpak"
-	url = "/nl/aanpak/"
+	url = "/nl/approach/"
 	pageRef = "/approach"
 	weight = 10
 	[[languages.nl.menu.main]]
-	identifier = "oplossingen"
+	identifier = "solutions"
 	name = "oplossingen"
 	title = "oplossingen"
-	url = "/nl/oplossingen/"
+	url = "/nl/solutions/"
 	pageRef = "/solutions"
 	weight = 20
 		[[languages.nl.menu.main]]
 		identifier = "conversational-ai"
-		parent = "oplossingen"
+		parent = "solutions"
 		name = "conversational ai"
 		title = "conversational ai"
-		url = "/nl/oplossingen/conversational-ai/"
+		url = "/nl/solutions/conversational-ai/"
 		pageRef = "/solutions/conversational-ai"
 		weight = 22
 		[[languages.nl.menu.main]]
 		identifier = "intelligent-document-processing"
-		parent = "oplossingen"
+		parent = "solutions"
 		name = "intelligent document processing"
 		title = "intelligent document processing"
-		url = "/nl/oplossingen/intelligent-document-processing/"
+		url = "/nl/solutions/intelligent-document-processing/"
 		pageRef = "/solutions/intelligent-document-processing"
 		weight = 24
 	[[languages.nl.menu.main]]
-	identifier = "diensten"
+	identifier = "services"
 	name = "diensten"
 	title = "diensten"
-	url = "/nl/diensten/"
+	url = "/nl/services/"
 	pageRef = "/services"
 	weight = 30
 	[[languages.nl.menu.main]]
-	identifier = "bedrijf"
+	identifier = "company"
 	name = "bedrijf"
 	title = "bedrijf"
-	url = "/nl/bedrijf/"
+	url = "/nl/company/"
 	pageRef = "/company"
 	weight = 40
 		[[languages.nl.menu.main]]
 		identifier = "careers"
-		parent = "bedrijf"
+		parent = "company"
 		name = "careers"
 		title = "careers"
 		url = "/nl/company/careers/"
@@ -143,7 +143,7 @@ weight = 2
 		weight = 42
 		[[languages.nl.menu.main]]
 		identifier = "shared-knowledge"
-		parent = "bedrijf"
+		parent = "company"
 		name = "shared knowledge"
 		title = "shared knowledge"
 		url = "/nl/company/shared-knowledge/"
@@ -151,7 +151,7 @@ weight = 2
 		weight = 44
 		[[languages.nl.menu.main]]
 		identifier = "faq"
-		parent = "bedrijf"
+		parent = "company"
 		name = "faq"
 		title = "faq"
 		url = "/nl/company/faq/"

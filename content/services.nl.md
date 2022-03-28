@@ -2,7 +2,7 @@
 title: Diensten
 description: diensten
 layout: services
-slug: diensten
+# slug: diensten
 lang: nl
 translationKey: services
 hero_image: "/img/hero-services.jpg"
