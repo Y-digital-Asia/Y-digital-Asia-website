@@ -4,7 +4,7 @@ summary: 'With the ambition to remain a leader in this market, AI specialist Y.d
   is joining forces with voice agency Smartvoices. '
 description: 
 layout: blog
-featured_image: "/img/upload/2.png"
+featured_image: "/img/upload/2-1.png"
 date: 2021-09-09T06:38:10.000+02:00
 author: Paul
 
