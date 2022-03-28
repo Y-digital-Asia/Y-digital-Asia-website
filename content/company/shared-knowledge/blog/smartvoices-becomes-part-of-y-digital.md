@@ -5,7 +5,7 @@ summary: With the ambition to remain a leader in this market, AI specialist Y.di
   on the development and implementation of hyper-intelligent conversational agents.
 description: 
 layout: blog
-featured_image: "/img/upload/smartvoices-becomes-part-of-y-digital.jpg"
+featured_image: "/img/upload/2.png"
 date: 2021-09-09T06:38:10.000+02:00
 author: Paul
 
