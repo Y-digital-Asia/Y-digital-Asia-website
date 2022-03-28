@@ -2,7 +2,7 @@
 title: Beyond Numbers & Words
 description: Master Jacques Coppenole
 layout: blog
-featured_image: "/img/upload/3.png"
+featured_image: "/img/upload/3-1.png"
 subtitle: The value of analysing text
 date: 2021-04-04T06:03:31.000+02:00
 summary: 'The value of analysing text: Interesting article in Financiele Dagblad on
