@@ -2,7 +2,7 @@
 title: The New Comfort Zone
 description: Master Jacques Coppenole
 layout: blog
-featured_image: "/img/upload/the-new-comfort-zone.jpg"
+featured_image: "/img/upload/5.png"
 date: 2020-08-07T00:00:00.000+02:00
 author: y.digital
 summary: 'Rebecca Wald on the human touch in bots: What if my personal experience
