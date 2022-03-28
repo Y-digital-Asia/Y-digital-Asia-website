@@ -5,6 +5,8 @@ layout: blog
 featured_image: "/img/upload/why-digital-strategies-fail.jpg"
 date: 2020-01-27T21:01:04.000+01:00
 author: y.digital
+summary: Digital technology has become an inextricable part of our lives and is rapidly
+  changing our economy and businesses. But why do so many strategies fail?
 
 ---
 Digital technology has become an inextricable part of our lives and is rapidly changing our economy and businesses. Every company has developed a digital strategy but many experience difficulties in the execution. McKinsey investigated why so many digital strategies are failing. The article can be found [here](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/why-digital-strategies-fail). A brief summary:
