@@ -5,9 +5,8 @@ layout: blog
 featured_image: "/img/upload/3.png"
 subtitle: The value of analysing text
 date: 2021-04-04T06:03:31.000+02:00
-summary: 'The value of analysing text: An interesting article in Financiele Dagblad
-  last week on the use of advanced text analytics on a large set of news articles.
-  The DNB did an analysis on c. 1 million articles spanning 36 years.'
+summary: 'The value of analysing text: Interesting article in Financiele Dagblad on
+  the use of advanced text analytics on a large set of news articles. '
 
 ---
 An interesting article in Financiele Dagblad last week on the use of advanced text analytics on a large set of news articles. The DNB did an analysis on c. 1 million articles spanning 36 years.
