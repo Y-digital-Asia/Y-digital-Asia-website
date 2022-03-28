@@ -5,6 +5,9 @@ layout: blog
 featured_image: "/img/upload/time-to-shift-the-paradigm.jpg"
 date: 2020-01-27T21:03:45.000+01:00
 author: y.digital
+summary: Rapid improvements in computing capability, abundance of data and a major
+  paradigm shift in AI methodology have paved the way to embrace AI into our daily
+  lives.
 
 ---
 In the late 90s the field of A.I. fell into disrepute. The promise was evident but the delivery fell well short. The period came to be known as the (first?) A.I. winter. Thanks to rapid improvements in computing capability, abundance of data and a major paradigm shift in A.I. methodology the long winter is now behind us and the impact of A.I. on our daily lives is rapidly becoming manifest.
