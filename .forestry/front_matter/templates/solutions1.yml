@@ -44,31 +44,15 @@ fields:
     name: text
     label: text
 - type: field_group
-  name: two_round_buttons
-  label: two_round_buttons
-  fields:
-  - type: text
-    name: left_button
-    label: left_button
-  - type: text
-    name: right_button
-    label: right_button
-  - type: text
-    name: left_button_link
-    label: left_button_link
-  - type: text
-    name: right_button_link
-    label: right_button_link
-- type: field_group
   name: conversational_ai
   label: conversational_ai
   fields:
   - type: text
     name: box_title
-    label: Box title
+    label: box_title
   - type: textarea
     name: box_text
-    label: Box text
+    label: box_text
     config:
       wysiwyg: true
       schema:
@@ -82,10 +66,10 @@ fields:
   fields:
   - type: text
     name: box_title
-    label: Box title
+    label: box_title
   - type: textarea
     name: box_text
-    label: Box text
+    label: box_text
     config:
       wysiwyg: true
       schema:
