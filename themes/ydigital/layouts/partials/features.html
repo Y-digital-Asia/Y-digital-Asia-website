@@ -1,5 +1,11 @@
 {{ range .Params.features }}
   <section class="feature">
-    {{ markdownify .text }}
+  {{- $markdown := .text | markdownify -}}
+
+  {{ if not ( findRE "<[h|p][^>]*>" $markdown ) }}
+      <p>{{ $markdown }}</p>
+  {{ else }}
+      {{ $markdown }}
+  {{ end }}
   </section>
 {{ end }}
