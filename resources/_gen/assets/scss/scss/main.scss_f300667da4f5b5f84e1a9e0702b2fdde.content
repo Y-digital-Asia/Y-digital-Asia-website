@@ -959,7 +959,7 @@ hr.house {
   max-width: 100%; }
 
 .feature, .ftr {
-  margin-bottom: 3.75em; }
+  margin-bottom: 1.75em; }
   .feature h2, .ftr h2 {
     font-size: 1.5rem;
     font-weight: 700;
