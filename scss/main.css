@@ -866,6 +866,45 @@ h1.approach {
   letter-spacing: 0.2px;
   line-height: 1.4; }
 
+.walls {
+  margin-top: 2em; }
+
+.walls {
+  gap: 1em; }
+
+.ally {
+  background-image: url("/img/ally-icon.png");
+  background-position: center 16px;
+  background-repeat: no-repeat;
+  background-size: 200px;
+  margin-bottom: 3em; }
+  .ally h3 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 7rem;
+    padding-bottom: 0; }
+  .ally h4 {
+    text-align: center;
+    font-size: 2.375rem; }
+
+.roof {
+  background-color: #fff;
+  background-image: url("/img/roof.png");
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 150px;
+  margin-bottom: 4em;
+  width: 50em;
+  max-width: 100%; }
+
+hr.house {
+  width: 50em;
+  max-width: 100%;
+  margin-top: -3em;
+  margin-bottom: -1em;
+  border-top: 12px solid #EF8903; }
+
 .box {
   width: 800px;
   max-width: 100%;
