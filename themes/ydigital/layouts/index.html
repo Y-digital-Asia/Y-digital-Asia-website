@@ -14,7 +14,7 @@
 
 <section class="wide second white">
 	{{ with .Params.blue_button }}	
-	<a href="{{ .link }}">
+	<a href="{{ .link | relLangURL }}">
 		<div class="circle download small">
 			<p>{{ .dark_text }}</p>
 				<img class="arrow-small" src="/img/arrow-white.svg">
