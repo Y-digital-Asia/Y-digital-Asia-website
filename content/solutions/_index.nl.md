@@ -40,6 +40,9 @@ intelligent_document_processing:
     computer vision en pattern recognition. Technologieën die helpen documenten sneller,
     meer accuraat en met minder menskracht te verwerken. '
   link: "/solutions/intelligent-document-processing/"
+h2heading: Start humanizing
+h3heading: Off-the-shelf
+ally_platform: Our open standard AI-platform
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
