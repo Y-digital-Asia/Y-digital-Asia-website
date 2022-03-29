@@ -74,12 +74,6 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
-- type: text
-  name: h2heading
-  label: h2heading
-- type: text
-  name: h3heading
-  label: h3heading
 pages:
 - content/services.en.md
 - content/services.nl.md
