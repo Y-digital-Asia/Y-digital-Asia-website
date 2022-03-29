@@ -39,7 +39,16 @@
 	{{ end }}
 </div>
 
-{{ partial "two-round-buttons.html" . }}
+<section class="shelf">
+	<h2>{{ .Params.h2heading }}</h2>
+	<h3>{{ .Params.h3heading }}</h3>
+</section>
+
+<div class="box light-gray pd">
+	<img src="/img/off-the-shelf.svg" alt="Off-the-shelf">
+</div>
+
+<!-- {{ partial "two-round-buttons.html" . }} -->
 
 </section>
 
