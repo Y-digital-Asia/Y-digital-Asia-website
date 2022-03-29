@@ -931,7 +931,8 @@ h1.approach {
     font-size: 1.3125rem;
     font-weight: 400;
     color: #474139;
-    line-height: 1.5; }
+    line-height: 1.5;
+    padding-bottom: 1.5em; }
   .feature a, .ftr a {
     color: #EF8903;
     font-weight: 700; }
