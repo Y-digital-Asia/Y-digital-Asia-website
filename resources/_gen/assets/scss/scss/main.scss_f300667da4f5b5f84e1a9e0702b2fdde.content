@@ -1377,6 +1377,9 @@ dl.faq button[aria-expanded="true"] {
   height: 0;
   /* for these empty cards to collapse should they fall in a new row*/ }
 
+.home {
+  padding-bottom: 2em; }
+
 /******** Circles *********/
 .circles {
   display: flex;
