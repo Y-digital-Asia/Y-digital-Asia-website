@@ -2,7 +2,6 @@
 title: Oplossingen
 description: oplossingen
 layout: solutions
-# url: "/nl/oplossingen"
 lang: nl
 translationKey: solutions
 hero_image: "/img/hero-solutions.jpg"

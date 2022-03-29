@@ -88,3 +88,4 @@ fields:
   label: ally_platform
 pages:
 - content/solutions/_index.en.md
+- content/solutions/_index.nl.md
