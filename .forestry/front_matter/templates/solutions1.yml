@@ -86,3 +86,5 @@ fields:
 - type: text
   name: ally_platform
   label: ally_platform
+pages:
+- content/solutions/_index.en.md
