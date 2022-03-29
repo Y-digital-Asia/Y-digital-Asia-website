@@ -11,12 +11,15 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: lang
   label: lang
+  hidden: true
 - type: text
   name: translationKey
   label: translationKey
+  hidden: true
 - type: file
   name: hero_image
   label: hero_image
