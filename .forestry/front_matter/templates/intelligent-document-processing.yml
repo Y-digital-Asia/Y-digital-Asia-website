@@ -46,6 +46,10 @@ fields:
   - type: textarea
     name: text
     label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 - type: text
   name: page_heading_2
   label: page_heading_2
