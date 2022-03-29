@@ -62,10 +62,14 @@ fields:
   fields:
   - type: text
     name: box_title
-    label: box_title
+    label: Box title
   - type: textarea
     name: box_text
-    label: box_text
+    label: Box text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: text
     name: link
     label: link
@@ -75,10 +79,14 @@ fields:
   fields:
   - type: text
     name: box_title
-    label: box_title
+    label: Box title
   - type: textarea
     name: box_text
-    label: box_text
+    label: Box text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: text
     name: link
     label: link
