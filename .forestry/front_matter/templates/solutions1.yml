@@ -1,0 +1,93 @@
+---
+label: solutions1
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: lang
+  label: lang
+- type: text
+  name: translationKey
+  label: translationKey
+- type: file
+  name: hero_image
+  label: hero_image
+- type: field_group
+  name: hero_circles
+  label: hero_circles
+  fields:
+  - type: text
+    name: left_circle
+    label: left_circle
+  - type: text
+    name: right_circle
+    label: right_circle
+- type: textarea
+  name: intro_text
+  label: intro_text
+- type: field_group_list
+  name: features
+  label: features
+  fields:
+  - type: textarea
+    name: text
+    label: text
+- type: field_group
+  name: two_round_buttons
+  label: two_round_buttons
+  fields:
+  - type: text
+    name: left_button
+    label: left_button
+  - type: text
+    name: right_button
+    label: right_button
+  - type: text
+    name: left_button_link
+    label: left_button_link
+  - type: text
+    name: right_button_link
+    label: right_button_link
+- type: field_group
+  name: conversational_ai
+  label: conversational_ai
+  fields:
+  - type: text
+    name: box_title
+    label: box_title
+  - type: textarea
+    name: box_text
+    label: box_text
+  - type: text
+    name: link
+    label: link
+- type: field_group
+  name: intelligent_document_processing
+  label: intelligent_document_processing
+  fields:
+  - type: text
+    name: box_title
+    label: box_title
+  - type: textarea
+    name: box_text
+    label: box_text
+  - type: text
+    name: link
+    label: link
+- type: text
+  name: h2heading
+  label: h2heading
+- type: text
+  name: h3heading
+  label: h3heading
+- type: text
+  name: ally_platform
+  label: ally_platform
