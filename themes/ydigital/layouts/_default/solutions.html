@@ -21,7 +21,12 @@
 {{ end }}
 
 
-<div class="cards">
+
+<section class="card rect orange roof">
+
+</section>
+<hr class="house">
+<div class="cards walls">
 	{{ with .Params.conversational_ai }}	
 	<section class="card solutions orange ca">
 		<h3 class="list-heading">{{ .box_title }}</h3>
@@ -38,6 +43,12 @@
 	</section>
 	{{ end }}
 </div>
+<hr class="house">
+<section class="card rect orange ally">
+	<!-- <h3 class="rect-heading">{{ .Title }}</h3> -->
+	<h3 class="rect-heading">Ally</h3>
+	<h4>Our open standard AI-platform</h4>
+</section>
 
 <section class="shelf">
 	<h2>{{ .Params.h2heading }}</h2>
