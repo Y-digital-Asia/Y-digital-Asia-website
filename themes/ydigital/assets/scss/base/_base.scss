@@ -29,6 +29,10 @@ h1, h2, strong {
     font-weight: 700; 
 }
 
+h1.sub-circles {
+    margin-top: 0.5em !important;
+}
+
 .heading-orange-text {
     font-size: 2.5rem;
     color: $orange;
