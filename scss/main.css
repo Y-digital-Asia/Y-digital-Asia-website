@@ -993,9 +993,9 @@ hr.house {
 
 @media screen and (max-width: 895px) {
   header {
-    height: 6em; }
+    height: 8em; }
   main {
-    margin-top: 6em; }
+    margin-top: 8em; }
   .no-hero {
     padding-top: 3em; }
   .wide {
