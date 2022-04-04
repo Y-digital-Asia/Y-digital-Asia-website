@@ -46,7 +46,7 @@ realtime_information_recap:
     geeft je precies de datapunten die je nodig hebt. Dit ontlast de medewerkers van
     de klantenservice en in combinatie met real-time transcriptie, wordt de verwerkingstijd
     in callcenters drastisch verkort.
-  link: "/contact/"
+  link: "/nl/contact/"
 esg_scan:
   box_title: ESG – Scan
   box_text: "Elke seconde wordt er meer informatie gecreëerd dan er kan worden geconsumeerd,
