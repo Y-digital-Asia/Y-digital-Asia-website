@@ -52,11 +52,11 @@ hero_slide:
   slide_right_circle: ''
   slide_image: ''
 media:
-  first_item: listen to podcast
+  first_item: podcast beluisteren
   first_item_link: "/company/shared-knowledge/podcast/"
   second_item: download National Voice Monitor
   second_item_link: https://www.nationalevoicemonitor.nl/
-  third_item: sign up newsletter
+  third_item: inschrijven nieuwsbrief
   third_item_link: "#footer-newsletter-form"
 
 ---
