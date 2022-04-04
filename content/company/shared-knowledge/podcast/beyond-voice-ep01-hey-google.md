@@ -8,5 +8,5 @@ summary: In deze eerste aflevering stellen de sprekers Florian Overkamp en Carla
   zich voor. Wat is Voice en wat heb je er eigenlijk aan?
 
 ---
-Welkom bij de Empowering Humans podcast. In deze eerste aflevering stellen de vaste sprekers: Florian Overkamp van Speakup en Carla Verwijmeren van Y.digital zich voor.  
+Welkom bij de Empowering Humans podcast. In deze eerste [aflevering ](https://beyondvoice.fm/podcast/beyond-voice-ep01-hey-google/)stellen de vaste sprekers: Florian Overkamp van Speakup en Carla Verwijmeren van Y.digital zich voor.  
 Daarna gaan we in op de vraag: Wat Voice is en wat je er eigenlijk aan hebt.

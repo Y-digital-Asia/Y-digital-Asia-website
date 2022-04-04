@@ -2,7 +2,6 @@
 title: Diensten
 description: diensten
 layout: services
-# slug: diensten
 lang: nl
 translationKey: services
 hero_image: "/img/hero-services.jpg"
@@ -16,7 +15,7 @@ features:
 - text: |-
     ## Onze experts
 
-    Heb je een expert nodig bij een van deze onderwerpen, [bel ons dan even](/contact/)!
+    Heb je een expert nodig bij een van deze onderwerpen, [bel ons dan even](/nl/contact/)!
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
@@ -51,8 +50,7 @@ cards:
 h2heading: Start humanising
 h3heading: Off-the-shelf
 round_button:
-  button_text: Get in touch
-  button_link: "/contact/"
-
+  button_text: Neem contact op
+  button_link: "/nl/contact/"
 
 ---

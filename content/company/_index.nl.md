@@ -4,8 +4,7 @@ description: bedrijf
 layout: company
 lang: nl
 translationKey: company
-# url: "/nl/bedrijf"
-hero_image: "/img/hero-company.jpg"
+hero_image: "/img/upload/design-ohne-titelfe.png"
 page_title: Putting the Y. into AI
 intro_text: 'Wij geloven dat je alleen state of the art AI-producten en -diensten
   kunt ontwikkelen als je diepgaand begrip hebt van de organisatie van de opdrachtgever
@@ -18,7 +17,7 @@ features:
 - text: |-
     ## Over ons
 
-    Y.digital is een gespecialiseerd AI-bedrijf opgericht door ervaren professionals. Y.digital heeft een vestiging in Zeist in Nederland en in Da Nang in Vietnam. Onze ambitie is het ontwerpen, bouwen en leveren van intelligente oplossingen die mensen empoweren. Wij gebruiken hiervoor onze eigen unieke aanpak en cutting-edge AI-platform Y.ally. Hiermee creëren we conversational AI-oplossingen die klanten helpen om op een klantvriendelijke en intelligente manier met bedrijven in contact te komen. En oplossingen voor Intelligent Document Processing om organisaties te ondersteunen bij het consistenter, schaalbaarder en efficiënter maken van kennisintensieve processen.
+    Y.digital is een ervaren en gespecialiseerd A.I. bedrijf opgericht door ervaren professionals. Onze focus en ambitie is het ontwerpen, bouwen en leveren van intelligente oplossingen die mensen mondiger maken. We gebruiken onze eigen unieke aanpak en cutting-edge AI-platform Ally om conversational AI-oplossingen te creëren die klanten helpen om op een aangenamere en intelligentere manier met bedrijven in contact te komen, evenals Intelligent Document Processing-oplossingen om organisaties te ondersteunen bij het consistenter, schaalbaarder en efficiënter maken van kennisintensieve processen.
 - text: |-
     ## Ons DNA
 
@@ -35,23 +34,24 @@ feature:
     Ons team bestaat uit hoogopgeleide experts in verschillende disciplines: strategie, bedrijfstransformatie en AI-technologie. Zij vertalen fundamentele wetenschappelijke kennis van AI-concepten naar dagelijkse AI-oplossingen. Samen hebben we een gedeelde passie: organisaties helpen om concrete waarde te leveren met AI-oplossingen die mensen empoweren. Het team telt 7 nationaliteiten, met gemengde culturele achtergronden en is gevestigd in Nederland (hoofdkantoor) en Vietnam.
 team:
 - photo: "/img/upload/lily-fu.jpg"
-  text: "“At Y.digital, we start from hearing your business challenges and then customize/create
-    our solutions based on your needs/wishes. I find the entire journey of end-to-end
-    business implementation extremely exciting and rewarding!”"
+  text: '"Bij Y.digital beginnen we met het leren kennen van jouw zakelijke uitdagingen
+    om vervolgens onze oplossingen aan te passen en te creëren op basis van jouw wensen
+    en behoeften. Ik vind de hele reis van end-to-end bedrijfsimplementatie erg spannend
+    en lonend!"'
   name: Lily Fu
   job: Data Scientist
 - photo: "/img/upload/lea-baudner.jpg"
-  text: "“As a recent graduate, I was looking for that one company that offers me
-    a chance to prove my knowledge – with Y.digital, I found it. While solving complex
-    business solutions with a diverse team, I have the opportunity to develop my skillset
-    and keep advancing.”"
+  text: '"Als onlangs afgestudeerde was ik op zoek naar dat ene bedrijf dat me een
+    kans biedt om mijn kennis te bewijzen - bij Y.digital heb ik die gevonden. Terwijl
+    ik complexe bedrijfsoplossingen oplos met een divers team, krijg ik de kans om
+    mijn skillset te ontwikkelen en vooruit te blijven gaan."'
   name: Lea Baudner
   job: Digital Business Lead
 - photo: "/img/upload/przemek-lenkiewicz.jpg"
-  text: "“I joined Y.digital as one of the first employees, very enthusiastic about
-    the ideas this company was built on. I love the informal work environment in which
-    you can be sure the best ideas will respected, and everyone is within reach for
-    a face-to-face contact.”"
+  text: '"Ik ben bij Y.digital gekomen als een van de eerste medewerkers, erg enthousiast
+    over de ideeën waar dit bedrijf op gebouwd is. Ik hou van de informele werkomgeving
+    waarin je er zeker van kunt zijn dat de beste ideeën worden gerespecteerd, en
+    iedereen binnen handbereik is voor een face-to-face contact."'
   name: Przemek Lenkiewicz
   job: Chief Operations Officer
 experience: |-

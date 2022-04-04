@@ -8,4 +8,4 @@ summary: In deze vierde aflevering van de Empowering Humans Podcast gaan Florian
   Carla in op de vraag hoe het zit met de privacy bij het gebruik van Voice.
 
 ---
-In deze vierde aflevering van de Empowering Humans Podcast gaan Florian en Carla in op de vraag hoe het zit met de privacy bij het gebruik van Voice.
+In deze vierde [aflevering ](https://beyondvoice.fm/podcast/ep04-voice-en-privacy/)van de Empowering Humans Podcast gaan Florian en Carla in op de vraag hoe het zit met de privacy bij het gebruik van Voice.

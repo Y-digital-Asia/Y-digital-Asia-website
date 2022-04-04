@@ -13,7 +13,7 @@ intro_text: |-
 
   Achter de buzzwords A.I., Machine Learning, Natural Language Processing en Knowledge Graphs schuilen de fundamenten voor empowerment. Maar de echte kracht komt niet van technologie maar door de mens als blauwdruk te gebruiken.
 blue_button:
-  dark_text: Get in touch
+  dark_text: Neem contact op
   link: "/nl/contact/"
 features:
 - text: |-
@@ -37,9 +37,9 @@ quote_slide:
   photo: "/img/upload/ian.jpeg"
 round_button:
   button_text: Ga naar oplossingen
-  button_link: "/nl/oplossingen/"
+  button_link: "/nl/solutions/"
 second_round_button:
-  button_text: Read our blogs
+  button_text: Lees onze blogs
   button_link: "/nl/company/shared-knowledge/"
 feature:
 - text: |-
@@ -52,11 +52,11 @@ hero_slide:
   slide_right_circle: ''
   slide_image: ''
 media:
-  first_item: listen to podcast
+  first_item: podcast beluisteren
   first_item_link: "/company/shared-knowledge/podcast/"
   second_item: download National Voice Monitor
   second_item_link: https://www.nationalevoicemonitor.nl/
-  third_item: sign up newsletter
+  third_item: inschrijven nieuwsbrief
   third_item_link: "#footer-newsletter-form"
 
 ---

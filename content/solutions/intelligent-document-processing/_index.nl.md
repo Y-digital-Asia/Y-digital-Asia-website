@@ -4,7 +4,6 @@ description: intelligent document processing
 layout: intelligent-document-processing
 lang: nl
 translationKey: intelligent-document-processing
-# url: "/nl/oplossingen/intelligent-document-processing/"
 hero_image: "/img/upload/smart-processing.png"
 hero_circles:
   left_circle: Stop boredom
@@ -30,8 +29,8 @@ features:
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
-  left_button_link: "/contact/"
-  right_button_link: "/contact/"
+  left_button_link: "/nl/contact/"
+  right_button_link: "/nl/contact/"
 legal_contract_checker:
   box_title: Legal Contract Checker
   box_text: Het beoordelen van contracten is kennisintensief en vereist kennis van
@@ -39,7 +38,7 @@ legal_contract_checker:
     Ally herkent gegevensvelden en beoordeelt relevante informatie in contracten razendsnel,
     zodat werknemers deze werklast niet meer hoeven te dragen en meer tijd kunnen
     besteden aan het creëren van waarde.
-  link: "/contact/"
+  link: "/nl/contact/"
 realtime_information_recap:
   box_title: Real-time Information Recap
   box_text: Of het nu gaat om e-mails, telefoontjes of een ander kanaal, er komt altijd
@@ -47,7 +46,7 @@ realtime_information_recap:
     geeft je precies de datapunten die je nodig hebt. Dit ontlast de medewerkers van
     de klantenservice en in combinatie met real-time transcriptie, wordt de verwerkingstijd
     in callcenters drastisch verkort.
-  link: "/contact/"
+  link: "/nl/contact/"
 esg_scan:
   box_title: ESG – Scan
   box_text: "Elke seconde wordt er meer informatie gecreëerd dan er kan worden geconsumeerd,
@@ -56,7 +55,7 @@ esg_scan:
     een constante scan van het dagelijkse nieuws. Met behulp van AI en NLP wordt de
     informatie geannoteerd, gewogen en gerangschikt om je alleen de statistieken en
     trends te laten zien die je nodig hebt, verrijkt met relevante inzichten."
-  link: "/contact/"
+  link: "/nl/contact/"
 compliance_reviewer:
   box_title: Compliance Reviewer
   box_text: 'Nu de complianceregels steeds strenger worden, is het handmatig beoordelen
@@ -65,7 +64,7 @@ compliance_reviewer:
     door gebruik te maken van sectorspecifieke complianceregels, controleren elk stuk
     en stellen je in staat om compliance-bewijsmateriaal en -rapporten centraal te
     beheren. '
-  link: "/contact/"
-page_heading_2: Y. solutions
+  link: "/nl/contact/"
+page_heading_2: Y. oplossingen
 
 ---

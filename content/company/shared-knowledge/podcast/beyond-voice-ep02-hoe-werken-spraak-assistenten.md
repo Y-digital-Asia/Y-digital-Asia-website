@@ -8,4 +8,4 @@ summary: In deze aflevering van Empowering Humans hebben Florian en Carla het ov
   de techniek achter de stem. Hoe werkt Voice eigenlijk?
 
 ---
-In deze aflevering van Empowering Humans hebben Florian Overkamp en Carla Verwijmeren het over de techniek achter de stem. Hoe werkt Voice eigenlijk?
+In deze [aflevering ](https://beyondvoice.fm/podcast/beyond-voice-ep02-hoe-werken-spraak-assistenten/)van Empowering Humans hebben Florian Overkamp en Carla Verwijmeren het over de techniek achter de stem. Hoe werkt Voice eigenlijk?

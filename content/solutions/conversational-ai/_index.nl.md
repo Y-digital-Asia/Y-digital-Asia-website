@@ -4,7 +4,6 @@ description: conversational ai
 layout: conversational-ai
 lang: nl
 translationKey: conversational-ai
-# url: "/nl/oplossingen/conversational-ai/"
 hero_image: "/img/upload/hero-conversational-ai-new.jpg"
 hero_circles:
   left_circle: Stop inefficiency
@@ -35,7 +34,7 @@ chatbots:
     tevreden klanten behoudt of zelfs creëert. Of verhoog uw conversiepercentages
     voor verkoop, met behulp van gepersonaliseerde mensachtige assistenten. Support
     verkoop & service.
-  link: "/contact/"
+  link: "/nl/contact/"
 smart_call_assistance:
   box_title: Smart Call Assistance
   box_text: Verlaag je servicekosten en verbeter tegelijkertijd de klantervaring.
@@ -43,7 +42,7 @@ smart_call_assistance:
     Door intakes uit te voeren, inkomende gesprekken te routeren en gesprekken daadwerkelijk
     af te handelen. Daarnaast met een eenvoudig te gebruiken fluisterfunctie om de
     medewerkers te helpen in hun dagelijkse werk.
-  link: "/contact/"
+  link: "/nl/contact/"
 employee_assistants:
   box_title: Employee Assistants
   box_text: Virtuele assistenten kunnen werknemers helpen op de hoogte te blijven
@@ -51,19 +50,19 @@ employee_assistants:
     dagelijkse werk van werknemers. Dit biedt enorme mogelijkheden om de tevredenheid
     en productiviteit van de werknemers te verhogen, kosten te besparen en de kwaliteit
     te verbeteren.
-  link: "/contact/"
+  link: "/nl/contact/"
 voice_assistant:
   box_title: Voice Assistant – Google Assistant
   box_text: Stap in de wereld van Google Assistant en introduceer je eerste AI-gestuurde
     spraak assistent. Wij bieden een kant-en-klare oplossing met Voicedomein. Of je
     eigen aangepaste oplossing voor verkoop of service.
-  link: "/contact/"
+  link: "/nl/contact/"
 heroimage: hero-conversational-ai.jpg
 introtext: Users can communicate with a chatbot or voice-assistant in different languages,
   using either voice, typing or a combination of both. Choosing the right conversational
   platform is essential to create positive customer experiences. Chatbots and voice-assistants
   have to overcome the through of disillusion. Too often users are not properly understood
   or can only answer a question without supporting a following transactions.
-page_heading_2: Y. solutions
+page_heading_2: Y. oplossingen
 
 ---
