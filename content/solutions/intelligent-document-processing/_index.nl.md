@@ -29,8 +29,8 @@ features:
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
-  left_button_link: "/contact/"
-  right_button_link: "/contact/"
+  left_button_link: "/nl/contact/"
+  right_button_link: "/nl/contact/"
 legal_contract_checker:
   box_title: Legal Contract Checker
   box_text: Het beoordelen van contracten is kennisintensief en vereist kennis van
