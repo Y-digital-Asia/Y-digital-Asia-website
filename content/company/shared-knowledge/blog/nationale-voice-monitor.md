@@ -2,7 +2,6 @@
 author = ""
 date = 2022-04-04T13:03:05Z
 description = "Substantial growth in the use of voice assistants in the Netherlands - biggest increase among people over 65. "
-draft = true
 featured_image = "/img/upload/ydigitial_voice-monitor-2022_1920x1080_v11-01.png"
 layout = "blog"
 summary = "Substantial growth in the use of voice assistants in the Netherlands - biggest increase among people over 65. "
