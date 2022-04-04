@@ -42,7 +42,7 @@ smart_call_assistance:
     Door intakes uit te voeren, inkomende gesprekken te routeren en gesprekken daadwerkelijk
     af te handelen. Daarnaast met een eenvoudig te gebruiken fluisterfunctie om de
     medewerkers te helpen in hun dagelijkse werk.
-  link: "/contact/"
+  link: "/nl/contact/"
 employee_assistants:
   box_title: Employee Assistants
   box_text: Virtuele assistenten kunnen werknemers helpen op de hoogte te blijven
