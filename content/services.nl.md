@@ -2,7 +2,6 @@
 title: Diensten
 description: diensten
 layout: services
-# slug: diensten
 lang: nl
 translationKey: services
 hero_image: "/img/hero-services.jpg"
@@ -51,8 +50,7 @@ cards:
 h2heading: Start humanising
 h3heading: Off-the-shelf
 round_button:
-  button_text: Get in touch
-  button_link: "/contact/"
-
+  button_text: Neem contact op
+  button_link: "/nl/contact/"
 
 ---
