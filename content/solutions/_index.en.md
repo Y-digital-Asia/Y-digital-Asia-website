@@ -16,12 +16,11 @@ intro_text: 'You wish to increase efficiency, improve customer experience or ass
   Key elements: machine learning, natural language processing, image recognition,
   speech and knowledge graphs.'
 features:
-- text: |-
-    ## You benefit from our Y. platform
-
-    Ally is our AI platform that provides the basis for our state-of-the-art technology. Ally's goal is to provide human-like assistance and support in order to create value for the organization and its customers while empowering humans. Empowerment means truly scalable automated service for your customers, without compromising on the human touch. Empowerment means no barriers, black boxes, or lock-in, but open and auditable solutions.
-
-    Derived from our platform, we offer off-the-shelf as well as customized AI solutions such as chatbots, voice assistants and intelligent document processing. Whatever the specific need of your organization, our experts will assist you by designing, building and continuously training the AI solution that brings the most value to your company.
+- text: "## AI solutions with platform Y.Ally\n\nAlly provides access to state-of-the-art
+    AI technology - with standard solutions and advanced enterprise solutions for
+    conversational AI and Intelligent Document Processing. \nDoes your organization
+    require a custom AI solution? After all, our experts will help you with a solid
+    application that can be configured, built and trained quickly. "
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
