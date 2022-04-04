@@ -4,7 +4,7 @@ description: company
 layout: company
 lang: en
 translationKey: company
-hero_image: "/img/upload/448855791.jpeg"
+hero_image: "/img/upload/design-ohne-titelfe.png"
 page_title: Putting the Y. into AI
 intro_text: We believe great products and services can only thrive if you understand
   what drives users and meets their expectations. Our focus is to deliver AI solutions
