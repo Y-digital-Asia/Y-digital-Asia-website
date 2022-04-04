@@ -8,7 +8,7 @@ hero_image: "/img/hero-approach.jpg"
 hero_circles:
   left_circle: Stop doubting
   right_circle: Start maximizing
-intro_text: "Together with you we work on high impact AI solutions, using our proven
+intro_text: "Together with you, we work on high impact AI solutions, using our proven
   Y. approach. Giving guidance to drive value that contributes directly to your mission,
   vision and strategy - your why. We are open, transparent and realistic. \n\nWe work
   in a high-paced agile manner with our expert teams, maximizing output while keeping
