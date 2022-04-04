@@ -64,7 +64,7 @@ compliance_reviewer:
     door gebruik te maken van sectorspecifieke complianceregels, controleren elk stuk
     en stellen je in staat om compliance-bewijsmateriaal en -rapporten centraal te
     beheren. '
-  link: "/contact/"
+  link: "/nl/contact/"
 page_heading_2: Y. oplossingen
 
 ---
