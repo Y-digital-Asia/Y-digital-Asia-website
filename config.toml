@@ -142,24 +142,24 @@ weight = 40
 	[[languages.nl.menu.main]]
 	identifier = "careers"
 	parent = "company"
-	name = "careers"
-	title = "careers"
+	name = "carrière"
+	title = "carrière"
 	url = "/nl/company/careers/"
 	pageRef = "/company/careers"
 	weight = 42
 	[[languages.nl.menu.main]]
 	identifier = "shared-knowledge"
 	parent = "company"
-	name = "shared knowledge"
-	title = "shared knowledge"
+	name = "kennisbank"
+	title = "kennisbank"
 	url = "/nl/company/shared-knowledge/"
 	pageRef = "/company/shared-knowledge"
 	weight = 44
 	[[languages.nl.menu.main]]
 	identifier = "faq"
 	parent = "company"
-	name = "faq"
-	title = "faq"
+	name = "veelgestelde vragen"
+	title = "veelgestelde vragen"
 	url = "/nl/company/faq/"
 	pageRef = "/company/faq"
 	weight = 46
@@ -298,21 +298,21 @@ weight = 40
 	[[languages.nl.menu.footer]]
 	identifier = "careers"
 	parent = "company"
-	name = "Careers"
+	name = "Carrière"
 	url = "/nl/company/careers/"
 	pageRef = "/company/careers"
 	weight = 42
 	[[languages.nl.menu.footer]]
 	identifier = "shared-knowledge"
 	parent = "company"
-	name = "Shared knowledge"
+	name = "Kennisbank"
 	url = "/nl/company/shared-knowledge/"
 	pageRef = "/company/shared-knowledge"
 	weight = 44
 	[[languages.nl.menu.footer]]
 	identifier = "faq"
 	parent = "company"
-	name = "FAQ"
+	name = "Veelgestelde vragen"
 	url = "/nl/company/faq/"
 	pageRef = "/company/faq"
 	weight = 46
