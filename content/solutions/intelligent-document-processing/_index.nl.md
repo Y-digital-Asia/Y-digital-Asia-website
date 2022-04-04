@@ -38,7 +38,7 @@ legal_contract_checker:
     Ally herkent gegevensvelden en beoordeelt relevante informatie in contracten razendsnel,
     zodat werknemers deze werklast niet meer hoeven te dragen en meer tijd kunnen
     besteden aan het creëren van waarde.
-  link: "/contact/"
+  link: "/nl/contact/"
 realtime_information_recap:
   box_title: Real-time Information Recap
   box_text: Of het nu gaat om e-mails, telefoontjes of een ander kanaal, er komt altijd
