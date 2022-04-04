@@ -13,7 +13,7 @@ intro_text: |-
 
   Achter de buzzwords A.I., Machine Learning, Natural Language Processing en Knowledge Graphs schuilen de fundamenten voor empowerment. Maar de echte kracht komt niet van technologie maar door de mens als blauwdruk te gebruiken.
 blue_button:
-  dark_text: Get in touch
+  dark_text: Neem contact op
   link: "/nl/contact/"
 features:
 - text: |-
