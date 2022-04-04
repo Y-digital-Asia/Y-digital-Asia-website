@@ -34,7 +34,7 @@ chatbots:
     tevreden klanten behoudt of zelfs creëert. Of verhoog uw conversiepercentages
     voor verkoop, met behulp van gepersonaliseerde mensachtige assistenten. Support
     verkoop & service.
-  link: "/contact/"
+  link: "/nl/contact/"
 smart_call_assistance:
   box_title: Smart Call Assistance
   box_text: Verlaag je servicekosten en verbeter tegelijkertijd de klantervaring.
