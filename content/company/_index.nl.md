@@ -17,7 +17,7 @@ features:
 - text: |-
     ## Over ons
 
-    Y.digital is een gespecialiseerd AI-bedrijf opgericht door ervaren professionals. Y.digital heeft een vestiging in Zeist in Nederland en in Da Nang in Vietnam. Onze ambitie is het ontwerpen, bouwen en leveren van intelligente oplossingen die mensen empoweren. Wij gebruiken hiervoor onze eigen unieke aanpak en cutting-edge AI-platform Y.ally. Hiermee creëren we conversational AI-oplossingen die klanten helpen om op een klantvriendelijke en intelligente manier met bedrijven in contact te komen. En oplossingen voor Intelligent Document Processing om organisaties te ondersteunen bij het consistenter, schaalbaarder en efficiënter maken van kennisintensieve processen.
+    Y.digital is een ervaren en gespecialiseerd A.I. bedrijf opgericht door ervaren professionals. Onze focus en ambitie is het ontwerpen, bouwen en leveren van intelligente oplossingen die mensen mondiger maken. We gebruiken onze eigen unieke aanpak en cutting-edge AI-platform Ally om conversational AI-oplossingen te creëren die klanten helpen om op een aangenamere en intelligentere manier met bedrijven in contact te komen, evenals Intelligent Document Processing-oplossingen om organisaties te ondersteunen bij het consistenter, schaalbaarder en efficiënter maken van kennisintensieve processen.
 - text: |-
     ## Ons DNA
 
