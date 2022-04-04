@@ -29,3 +29,5 @@ fields:
     schema:
       format: markdown
   label: summary
+pages:
+- content/company/shared-knowledge/podcast/empowering-humans-ep06-de-nationale-voice-monitor-2022-is-uit.md
