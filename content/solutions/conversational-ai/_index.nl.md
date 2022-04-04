@@ -50,13 +50,13 @@ employee_assistants:
     dagelijkse werk van werknemers. Dit biedt enorme mogelijkheden om de tevredenheid
     en productiviteit van de werknemers te verhogen, kosten te besparen en de kwaliteit
     te verbeteren.
-  link: "/contact/"
+  link: "/nl/contact/"
 voice_assistant:
   box_title: Voice Assistant – Google Assistant
   box_text: Stap in de wereld van Google Assistant en introduceer je eerste AI-gestuurde
     spraak assistent. Wij bieden een kant-en-klare oplossing met Voicedomein. Of je
     eigen aangepaste oplossing voor verkoop of service.
-  link: "/contact/"
+  link: "/nl/contact/"
 heroimage: hero-conversational-ai.jpg
 introtext: Users can communicate with a chatbot or voice-assistant in different languages,
   using either voice, typing or a combination of both. Choosing the right conversational
