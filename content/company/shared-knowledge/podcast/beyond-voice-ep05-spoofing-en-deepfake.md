@@ -9,4 +9,4 @@ summary: In deze aflevering van de Empowering Humans Podcast bespreken Florian e
   Carla het fenomeen “Spoofing” en “Deepfake” bij automated voice.
 
 ---
-In deze aflevering van de Empowering Humans Podcast bespreken Florian en Carla het fenomeen “Spoofing” en “Deepfake” bij automated voice.
+In deze [aflevering ](https://beyondvoice.fm/podcast/beyond-voice-ep05-spoofing-en-deepfake/)van de Empowering Humans Podcast bespreken Florian en Carla het fenomeen “Spoofing” en “Deepfake” bij automated voice.
