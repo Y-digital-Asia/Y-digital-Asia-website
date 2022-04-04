@@ -41,10 +41,10 @@ team:
   name: Lily Fu
   job: Data Scientist
 - photo: "/img/upload/lea-baudner.jpg"
-  text: "“As a recent graduate, I was looking for that one company that offers me
-    a chance to prove my knowledge – with Y.digital, I found it. While solving complex
-    business solutions with a diverse team, I have the opportunity to develop my skillset
-    and keep advancing.”"
+  text: '"Als onlangs afgestudeerde was ik op zoek naar dat ene bedrijf dat me een
+    kans biedt om mijn kennis te bewijzen - bij Y.digital heb ik die gevonden. Terwijl
+    ik complexe bedrijfsoplossingen oplos met een divers team, krijg ik de kans om
+    mijn skillset te ontwikkelen en vooruit te blijven gaan."'
   name: Lea Baudner
   job: Digital Business Lead
 - photo: "/img/upload/przemek-lenkiewicz.jpg"
