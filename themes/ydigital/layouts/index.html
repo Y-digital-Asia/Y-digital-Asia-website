@@ -45,19 +45,19 @@
 
 {{ with .Params.media }}	
 	<section class="media">
-		<a href="{{ .first_item_link | relLangURL }}">
+		<a href="{{ .first_item_link }}">
 			<div class="media-item">
 				<img src="/img/podcast.svg">
 				<p>{{ .first_item }}</p>
 			</div>
 		</a>
-		<a href="{{ .second_item_link | relLangURL }}">
+		<a href="{{ .second_item_link }}">
 			<div class="media-item">
 				<img src="/img/download.svg">
 				<p>{{ .second_item }}</p>
 			</div>
 		</a>
-		<a href="{{ .third_item_link | relLangURL }}">
+		<a href="{{ .third_item_link }}">
 			<div class="media-item">
 				<img src="/img/sign-up.svg">
 				<p>{{ .third_item }}</p>
