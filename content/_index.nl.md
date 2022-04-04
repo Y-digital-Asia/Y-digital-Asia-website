@@ -39,7 +39,7 @@ round_button:
   button_text: Ga naar oplossingen
   button_link: "/nl/oplossingen/"
 second_round_button:
-  button_text: Read our blogs
+  button_text: Lees onze blogs
   button_link: "/nl/company/shared-knowledge/"
 feature:
 - text: |-
