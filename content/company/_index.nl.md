@@ -4,8 +4,7 @@ description: bedrijf
 layout: company
 lang: nl
 translationKey: company
-# url: "/nl/bedrijf"
-hero_image: "/img/hero-company.jpg"
+hero_image: "/img/upload/design-ohne-titelfe.png"
 page_title: Putting the Y. into AI
 intro_text: 'Wij geloven dat je alleen state of the art AI-producten en -diensten
   kunt ontwikkelen als je diepgaand begrip hebt van de organisatie van de opdrachtgever
