@@ -34,9 +34,10 @@ feature:
     Ons team bestaat uit hoogopgeleide experts in verschillende disciplines: strategie, bedrijfstransformatie en AI-technologie. Zij vertalen fundamentele wetenschappelijke kennis van AI-concepten naar dagelijkse AI-oplossingen. Samen hebben we een gedeelde passie: organisaties helpen om concrete waarde te leveren met AI-oplossingen die mensen empoweren. Het team telt 7 nationaliteiten, met gemengde culturele achtergronden en is gevestigd in Nederland (hoofdkantoor) en Vietnam.
 team:
 - photo: "/img/upload/lily-fu.jpg"
-  text: "“At Y.digital, we start from hearing your business challenges and then customize/create
-    our solutions based on your needs/wishes. I find the entire journey of end-to-end
-    business implementation extremely exciting and rewarding!”"
+  text: '"Bij Y.digital beginnen we met het leren kennen van jouw zakelijke uitdagingen
+    om vervolgens onze oplossingen aan te passen en te creëren op basis van jouw wensen
+    en behoeften. Ik vind de hele reis van end-to-end bedrijfsimplementatie erg spannend
+    en lonend!"'
   name: Lily Fu
   job: Data Scientist
 - photo: "/img/upload/lea-baudner.jpg"
