@@ -4,7 +4,6 @@ description: conversational ai
 layout: conversational-ai
 lang: nl
 translationKey: conversational-ai
-# url: "/nl/oplossingen/conversational-ai/"
 hero_image: "/img/upload/hero-conversational-ai-new.jpg"
 hero_circles:
   left_circle: Stop inefficiency
@@ -64,6 +63,6 @@ introtext: Users can communicate with a chatbot or voice-assistant in different 
   platform is essential to create positive customer experiences. Chatbots and voice-assistants
   have to overcome the through of disillusion. Too often users are not properly understood
   or can only answer a question without supporting a following transactions.
-page_heading_2: Y. solutions
+page_heading_2: Y. oplossingen
 
 ---
