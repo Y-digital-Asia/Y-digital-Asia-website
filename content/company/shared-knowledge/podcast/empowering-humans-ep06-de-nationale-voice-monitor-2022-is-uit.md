@@ -8,3 +8,4 @@ summary = ""
 title = "Empowering Humans EP06: De Nationale Voice Monitor 2022 is uit."
 
 +++
+In [deze aflevering](https://beyondvoice.fm/podcast/beyond-voice-ep05-de-nationale-voice-monitor-2022-is-uit/) van de Empowering Humans Podcast gaan Florian en Carla in op de uitkomsten van de onlangs verschenen Nationale Voice Monitor. Speciale gast deze aflevering is Jetteke Rigterink van onderzoeksbureau DirectResearch.
