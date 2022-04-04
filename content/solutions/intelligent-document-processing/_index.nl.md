@@ -55,7 +55,7 @@ esg_scan:
     een constante scan van het dagelijkse nieuws. Met behulp van AI en NLP wordt de
     informatie geannoteerd, gewogen en gerangschikt om je alleen de statistieken en
     trends te laten zien die je nodig hebt, verrijkt met relevante inzichten."
-  link: "/contact/"
+  link: "/nl/contact/"
 compliance_reviewer:
   box_title: Compliance Reviewer
   box_text: 'Nu de complianceregels steeds strenger worden, is het handmatig beoordelen
