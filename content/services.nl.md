@@ -15,7 +15,7 @@ features:
 - text: |-
     ## Onze experts
 
-    Heb je een expert nodig bij een van deze onderwerpen, [bel ons dan even](/contact/)!
+    Heb je een expert nodig bij een van deze onderwerpen, [bel ons dan even](/nl/contact/)!
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
