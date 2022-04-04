@@ -7,6 +7,21 @@ other = "Achternaam"
 [phoneNumber]
 other = "Telefoon"
 
+[phone]
+other = "telefoon"
+
+[email]
+other = "email"
+
+[address]
+other = "adres"
+
+[netherlands]
+other = "Nederland"
+
+[asia]
+other = "Azië"
+
 [companyName]
 other = "Naam bedrijf"
 

@@ -7,6 +7,21 @@ other = "Last name"
 [phoneNumber]
 other = "Phone number"
 
+[phone]
+other = "phone"
+
+[email]
+other = "email"
+
+[address]
+other = "address"
+
+[netherlands]
+other = "Netherlands"
+
+[asia]
+other = "Asia"
+
 [companyName]
 other = "Company name"
 
