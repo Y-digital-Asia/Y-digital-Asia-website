@@ -5,6 +5,11 @@ admin_path: "/static/admin/"
 webhook_url: 
 sections:
 - type: directory
+  path: data
+  label: data
+  create: none
+  match: "**/*"
+- type: directory
   path: content
   label: Pages EN
   create: none
