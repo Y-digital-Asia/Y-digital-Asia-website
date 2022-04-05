@@ -12,27 +12,23 @@
 	</section> -->
 </section>
 
-<section class="wide second">
+<section class="wide blog-list">
 
-	<section class="wide blog-list">
+    {{ range .Pages.ByDate.Reverse }}
+    <a href="{{ .Permalink }}">
+    <section class="blogcard">
+    	<div class="card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
+    	<p class="date">{{ .Date.Format "02 January, 2006" }}</p>
+    	<h1>{{ .Title }}</h1>
+    	<p class="card-content">{{ .Params.summary }}</p>
+    	<p class="card-read-more">read more</p>
+    </section>
+    </a>
+    {{ end }}
 
-	    {{ range .Pages.ByDate.Reverse }}
-	    <a href="{{ .Permalink }}">
-	    <section class="blogcard">
-	    	<div class="card-img"><img src="{{ .Params.featured_image }}" alt=""></div>
-	    	<p class="date">{{ .Date.Format "02 January, 2006" }}</p>
-	    	<h1>{{ .Title }}</h1>
-	    	<p class="card-content">{{ .Params.summary }}</p>
-	    	<p class="card-read-more">read more</p>
-	    </section>
-	    </a>
-	    {{ end }}
-
-	    <section class="filling-empty-space"></section>
-	    <section class="filling-empty-space"></section>
-	    <section class="filling-empty-space"></section>
-
-	</section>
+    <section class="filling-empty-space"></section>
+    <section class="filling-empty-space"></section>
+    <section class="filling-empty-space"></section>
 
 </section>
 
