@@ -978,19 +978,6 @@ hr.house {
     color: #EF8903;
     font-weight: 700; }
 
-.feature-dark-line {
-  background: url("/img/line-dark.svg") no-repeat;
-  background-position: left 8px;
-  padding-left: 3em;
-  width: 50.7rem;
-  max-width: 90%;
-  margin-bottom: 3.75em; }
-  .feature-dark-line p {
-    font-size: 1.3125rem;
-    font-weight: 400;
-    color: #474139;
-    line-height: 1.5; }
-
 @media screen and (max-width: 895px) {
   header {
     height: 8em; }
@@ -1220,20 +1207,27 @@ dl.faq button[aria-expanded="true"] {
   align-self: flex-end; }
 
 .academy {
-  padding: 2em 0;
-  margin-bottom: 5em; }
-  .academy .circle {
-    margin: 2em; }
-  .academy .circle p {
-    font-style: 1.25rem; }
-  .academy .circle {
-    background-image: url("/img/y.academy.svg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 115px; }
-    @media screen and (max-width: 600px) {
-      .academy .circle {
-        background-size: 80px; } }
+  background-image: url("/img/y.academy.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 115px;
+  margin: 2em 0 3em 0; }
+  @media screen and (max-width: 600px) {
+    .academy {
+      background-size: 80px; } }
+.feature-dark-line {
+  background: url("/img/line-dark.svg") no-repeat;
+  background-position: left 8px;
+  padding-left: 3em;
+  width: 50.7rem;
+  max-width: 90%;
+  margin-bottom: 3.75em; }
+  .feature-dark-line p {
+    font-size: 1.3125rem;
+    font-weight: 400;
+    color: #474139;
+    line-height: 1.5; }
+
 /****** Components ******/
 .blog {
   width: 50em;
