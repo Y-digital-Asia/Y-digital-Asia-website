@@ -102,15 +102,6 @@ fields:
     max: 
     labelField: 
   label: Team
-- name: experience
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Experience
 - name: academy
   type: textarea
   default: ''
