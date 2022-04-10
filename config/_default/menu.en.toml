@@ -1,0 +1,153 @@
+########## Main menu ##########
+
+[[main]]
+identifier = "approach"
+name = "approach"
+title = "approach"
+url = "/approach/"
+pageRef = "/approach"
+weight = 10
+[[main]]
+identifier = "solutions"
+name = "solutions"
+title = "solutions"
+url = "/solutions/"
+pageRef = "/solutions"
+weight = 20
+	[[main]]
+	identifier = "conversational-ai"
+	parent = "solutions"
+	name = "conversational ai"
+	title = "conversational ai"
+	url = "/solutions/conversational-ai/"
+	pageRef = "/solutions/conversational-ai"
+	weight = 22
+	[[main]]
+	identifier = "intelligent-document-processing"
+	parent = "solutions"
+	name = "intelligent document processing"
+	title = "intelligent document processing"
+	url = "/solutions/intelligent-document-processing/"
+	pageRef = "/solutions/intelligent-document-processing"
+	weight = 24
+[[main]]
+identifier = "services"
+name = "services"
+title = "services"
+url = "/services/"
+pageRef = "/services"
+weight = 30
+[[main]]
+identifier = "company"
+name = "company"
+title = "company"
+url = "/company/"
+pageRef = "/company"
+weight = 40
+	[[main]]
+	identifier = "careers"
+	parent = "company"
+	name = "careers"
+	title = "careers"
+	url = "/company/careers/"
+	pageRef = "/company/careers"
+	weight = 42
+	[[main]]
+	identifier = "shared-knowledge"
+	parent = "company"
+	name = "shared knowledge"
+	title = "shared knowledge"
+	url = "/company/shared-knowledge/"
+	pageRef = "/company/shared-knowledge"
+	weight = 44
+	[[main]]
+	identifier = "faq"
+	parent = "company"
+	name = "faq"
+	title = "faq"
+	url = "/company/faq/"
+	pageRef = "/company/faq"
+	weight = 46
+[[main]]
+identifier = "contact"
+name = "contact"
+title = "contact"
+url = "/contact/"
+pageRef = "/contact"
+weight = 50
+
+
+########## Footer menu ##########
+
+[[footer]]
+identifier = "home"
+name = "Home"
+url = "/"
+pageRef = "/"
+weight = 1
+
+[[footer]]
+identifier = "approach"
+name = "Approach"
+url = "/approach/"
+pageRef = "/approach"
+weight = 10
+[[footer]]
+identifier = "solutions"
+name = "Solutions"
+url = "/solutions/"
+pageRef = "/solutions"
+weight = 20
+	[[footer]]
+	identifier = "conversational-ai"
+	parent = "solutions"
+	name = "Conversational AI"
+	url = "/solutions/conversational-ai/"
+	pageRef = "/solutions/conversational-ai"
+	weight = 22
+	[[footer]]
+	identifier = "intelligent-document-processing"
+	parent = "solutions"
+	name = "Intelligent Document Processing"
+	url = "/solutions/intelligent-document-processing/"
+	pageRef = "/solutions/intelligent-document-processing"
+	weight = 24
+[[footer]]
+identifier = "services"
+name = "Services"
+url = "/services/"
+pageRef = "/services"
+weight = 30
+[[footer]]
+identifier = "company"
+name = "Company"
+url = "/company/"
+pageRef = "/company"
+weight = 40
+	[[footer]]
+	identifier = "careers"
+	parent = "company"
+	name = "Careers"
+	url = "/company/careers/"
+	pageRef = "/company/careers"
+	weight = 42
+	[[footer]]
+	identifier = "shared-knowledge"
+	parent = "company"
+	name = "Shared knowledge"
+	url = "/company/shared-knowledge/"
+	pageRef = "/company/shared-knowledge"
+	weight = 44
+	[[footer]]
+	identifier = "faq"
+	parent = "company"
+	name = "FAQ"
+	url = "/company/faq/"
+	pageRef = "/company/faq"
+	weight = 46
+[[footer]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+pageRef = "/contact"
+weight = 50

@@ -1,0 +1,9 @@
+[en]
+languageName = "English"
+title = "y.digital"
+weight = 1
+
+[nl]
+languageName = "Dutch"
+title = "y.digital"
+weight = 2

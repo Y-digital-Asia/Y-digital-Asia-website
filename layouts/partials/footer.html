@@ -5,7 +5,7 @@
 				<h1>{{ T "innovationInbox" }}</h1>
 				<p>{{ T "receiveMonthly" }}</p>
 			</section>
-  			<form id="subscription" action="https://formspree.io/f/mwkyqggo" method="post">
+  			<form id="subscription" action="{{ site.Params.footer_newsletter_form_action }}" method="post">
   				<form class="newsletter">
 		          <input type="email" name="email" placeholder='{{ T "yourEmail" }}' enterkeyhint="send">
 		          <input type="hidden" name="_subject" value="Newsletter subscription" />
@@ -55,16 +55,15 @@
 		</section>
 		<section class="social-copyright">
 			<ul class="social">
-				<li>
-					<a href="https://www.youtube.com/channel/UCkuFpIkpvM4-OhJxoNocVQw" rel="noopener noreferrer" target="_blank">
-						<img class="social-icon" src="/img/youtube.svg">
-					</a>
-				</li>
-				<li>
-					<a href="https://www.linkedin.com/company/64686034/" rel="noopener noreferrer" target="_blank">
-						<img class="social-icon" src="/img/linkedin.svg">
-					</a>
-				</li>
+
+			{{ range site.Params.social }}
+			<li>
+				<a href="{{ .link }}" rel="noopener noreferrer" target="_blank">
+					<img class="social-icon" src="{{ .icon }}">
+				</a>
+			</li>
+            {{ end }}
+
 			</ul>
 			<p class="name"><a href="/">Y.digital</a></p>
 			<p><a href="/img/upload/privacybeleid-y-digital.docx">privacy statement</a></p>

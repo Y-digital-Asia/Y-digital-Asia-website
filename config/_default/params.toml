@@ -1,0 +1,15 @@
+footer_newsletter_form_action = "https://formspree.io/f/mwkyqggo"
+
+
+
+
+########################### social links ############################
+[[social]]
+link = "https://www.youtube.com/channel/UCkuFpIkpvM4-OhJxoNocVQw"
+icon = "/img/youtube.svg"
+
+[[social]]
+link = "https://www.linkedin.com/company/64686034/"
+icon = "/img/linkedin.svg"
+
+
