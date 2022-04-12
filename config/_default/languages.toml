@@ -1,9 +1,9 @@
 [en]
 languageName = "English"
-title = "y.digital"
+# title = "Y.digital"
 weight = 1
 
 [nl]
 languageName = "Dutch"
-title = "y.digital"
+# title = "Y.digital"
 weight = 2
