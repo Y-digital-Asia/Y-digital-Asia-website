@@ -12,6 +12,9 @@ body {
   align-items: center;
   color: #474139; }
 
+.italic {
+  font-style: italic; }
+
 h1 {
   text-align: center;
   line-height: 1.4; }
@@ -261,6 +264,10 @@ ul.menu {
     padding: 0 0.75rem;
     position: relative;
     background-color: rgba(255, 255, 255, 0.6); }
+  ul.menu li ul li {
+    clear: both;
+    width: 100%;
+    white-space: nowrap; }
   ul.menu li:hover {
     background: #fff;
     cursor: pointer; }
@@ -270,11 +277,12 @@ ul.menu {
     text-decoration: none;
     color: #f08900; }
 
-ul.submenu li {
-  line-height: 2; }
-
-ul.submenu a:hover li {
-  color: #EF8903; }
+ul.menu li:hover > ul,
+ul.menu li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+  background-color: #fff; }
 
 ul.submenu {
   padding-top: 7px;
@@ -284,21 +292,12 @@ ul.submenu {
   transition: all 0.5s ease;
   left: 0;
   display: none; }
-
-ul.menu li:hover > ul,
-ul.menu li ul:hover {
-  visibility: visible;
-  opacity: 1;
-  display: block;
-  background-color: #fff; }
-
-ul.submenu li:hover {
-  background-color: #fafafa; }
-
-ul.menu li ul li {
-  clear: both;
-  width: 100%;
-  white-space: nowrap; }
+  ul.submenu li {
+    line-height: 2; }
+  ul.submenu li:hover {
+    background-color: #fafafa; }
+  ul.submenu a:hover li {
+    color: #EF8903; }
 
 .active {
   color: #EF8903; }
@@ -1129,6 +1128,7 @@ dl.career button[aria-expanded="true"]::before {
   left: -6px;
   top: 0px; }
 
+/****** FAQ ******/
 .faq {
   margin-top: -1em;
   width: 50em;
@@ -1178,6 +1178,7 @@ dl.faq button[aria-expanded="true"] {
   background-size: contain;
   color: #fff; }
 
+/****** Company ******/
 .team {
   max-width: 15em; }
   .team p {
@@ -1201,9 +1202,6 @@ dl.faq button[aria-expanded="true"] {
   padding: 1.5em 1.375em;
   flex: 1; }
 
-.italic {
-  font-style: italic; }
-
 .read-more {
   color: #fff;
   font-weight: 700;
@@ -1218,19 +1216,6 @@ dl.faq button[aria-expanded="true"] {
   @media screen and (max-width: 600px) {
     .academy {
       background-size: 80px; } }
-.feature-dark-line {
-  background: url("/img/line-dark.svg") no-repeat;
-  background-position: left 8px;
-  padding-left: 3em;
-  width: 50.7rem;
-  max-width: 90%;
-  margin-bottom: 3.75em; }
-  .feature-dark-line p {
-    font-size: 1.3125rem;
-    font-weight: 400;
-    color: #474139;
-    line-height: 1.5; }
-
 /****** Components ******/
 .blog {
   width: 50em;
