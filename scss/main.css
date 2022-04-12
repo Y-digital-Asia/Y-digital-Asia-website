@@ -465,7 +465,9 @@ footer {
     .footer-newsletter form input[type=submit] {
       background-color: #EF8903;
       color: #fff;
-      border: 1px solid #EF8903; }
+      border: 1px solid #EF8903;
+      text-align: center;
+      text-indent: 0; }
       @media (min-width: 768px) {
         .footer-newsletter form input[type=submit] {
           width: 96px; } }
