@@ -450,6 +450,7 @@ footer {
     @media (max-width: 767px) {
       .footer-newsletter form input {
         text-align: center;
+        text-indent: 0;
         width: 100%; } }
     .footer-newsletter form input[type=email] {
       margin-bottom: 15px;

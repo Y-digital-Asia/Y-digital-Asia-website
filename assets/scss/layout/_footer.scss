@@ -76,8 +76,9 @@ footer {
       float: left;
       text-align: left;
       @media (max-width: 767px) {
-          text-align: center;
-          width: 100%;
+        text-align: center;
+        text-indent: 0;
+        width: 100%;
         }
       font-size: 0.875rem;
       letter-spacing: 0.05rem;
