@@ -1,0 +1,76 @@
+.solutions p {
+    margin-top: -1em;
+    font-size: 1.25rem;
+    padding: 2em;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+}
+
+.walls {
+    margin-top: 2em;
+    gap: 1em;
+}
+
+.ally {
+    background-image: url("/img/ally-icon.png");
+    background-position: center 16px;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    margin-bottom: 3em;
+
+
+    h3 {
+        text-align: center;
+        font-size: 2.5rem;
+        margin-top: 7rem;
+        padding-bottom: 0;
+    }
+
+    h4 {
+        text-align: center;
+        font-size: 2.375rem;
+    }
+}
+
+.roof {
+    background-color: #fff;
+    background-image: url("/img/roof.png");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    margin-bottom: 4em;
+    width: 50em;
+    max-width: 100%;
+}
+
+hr.house {
+    width: 50em;
+    max-width: 100%;
+    margin-top: -3em;
+    margin-bottom: -1em;
+    border-top: 12px solid $orange;
+}
+
+.box {
+    width: 800px;
+    max-width: 100%;
+    margin: 3em 0;
+}
+
+.pd {
+    padding: 2em;
+}
+
+.shelf {
+    h2 {
+        font-size: 2.375rem;
+        color: $orange;
+        text-align: center;
+    }
+    h3 {
+        font-size: 1.5rem;
+        text-align: center;
+        font-weight: bold;
+    }
+}

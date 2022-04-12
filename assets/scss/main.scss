@@ -9,16 +9,16 @@
 @import "layout/hamburger_menu";
 @import "layout/footer";
 
-
-@import "content";
-
-@import "pages/case_study";
-@import "pages/careers";
-@import "pages/faq";
-@import "pages/company";
-@import "pages/shared";
 @import "pages/home";
-
+@import "pages/approach";
+@import "pages/solutions";
+@import "pages/services";
+@import "pages/company";
+@import "pages/contact";
+@import "pages/careers";
+@import "pages/shared";
+@import "pages/faq";
+@import "pages/case_study";
 
 @import "components/animations";
 @import "components/circles";
@@ -26,6 +26,7 @@
 @import "components/newsletter";
 @import "components/newsletter-popup";
 
+@import "content";
 
 
 

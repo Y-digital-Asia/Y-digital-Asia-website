@@ -1,3 +1,103 @@
 .home {
     padding-bottom: 2em;
 }
+
+
+
+
+.square-card {
+    display: flex;
+    // grid-template-columns: 1fr 232px;
+    background-color: #4bacc5;
+    width: 50.25em;
+    max-width: 100%;
+    margin: 6em 0 6em 0;
+
+     // overflow: hidden;
+
+    @media screen and (min-width: 640px) {
+    height: 277px;
+    // max-width: 232px;
+    }
+
+    @media screen and (max-width: 840px) {
+        .quote p {
+        font-size: 1.5em;
+        }  
+    }
+    @media screen and (max-width: 639px) {
+        display: flex;
+        flex-direction: column;
+        max-width: 232px;
+        margin-top: 4em;
+        .square-text {
+            font-size: 0.75rem;
+            order: 2;
+        }
+        .author-image {
+            order: 1;
+        }
+        .author p {
+            // font-size: 10px;
+        }
+    }
+
+}
+
+.square-text {
+    flex: 1;
+}
+
+.quote p {
+    font-size: 1.4em;
+    font-weight: 600;
+    color: #fff;
+    padding: 1.5em 1.5em 1em 1.5em;
+    font-style: italic;
+    letter-spacing: 1px;
+}
+
+.author p {
+    font-size: 1.125rem;
+    color: #000000;
+    font-weight: 700;
+    text-align: right;
+    padding-right: 2em;
+    padding-bottom: 1em;
+}
+
+.from {
+    color: #fff;
+}
+
+.author-image {
+    // flex: 0 0 232px;
+    flex: 0 0 277px;
+}
+
+
+
+
+
+.media {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+     width: 50em;
+     max-width: 100%;
+     margin-bottom: 5em;
+}
+
+.media-item img {
+    margin: auto;
+    display: block;
+    height: 3em;
+    padding-bottom: 0.5em;
+}
+
+.media p {
+    font-size: 1.5em;
+    text-align: center;
+    width: 6.5em;
+    font-weight: 700;
+}
