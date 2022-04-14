@@ -189,7 +189,71 @@ main {
 }
 
 
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 4em;
+}
 
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    // background-color: $light-gray;
+    width: 23.75rem;
+    max-width: 90%;
+    // gap: 2rem;
+}
+
+.rect {
+    width: 50em;
+    max-width: 100%;
+    margin-top: 2em;
+    padding: 2em;
+
+    p {
+        font-size: 1.25rem;
+    }
+}
+
+.rect-heading {
+    font-size: 1.625rem;
+    font-weight: 700;
+    padding-bottom: 0.5em;
+}
+
+.card-heading {
+    width: 100%;
+    background: $orange;
+    /*height: 4.375rem;*/
+    font-size: 2rem;
+    line-height: 2;
+    padding-left: 1em;
+    color: #fff;
+    font-weight: 700;
+}
+
+.list-heading {
+    font-size: 1.625rem;
+    font-weight: 700;
+    margin-left: 1.5em;
+    margin-top: 1.5em;
+    // line-height: 2;
+}
+
+.card ul {
+    padding: 0.5em 0 2em 0;
+}
+
+.card li {
+    list-style: disc;
+    margin-left: 3em;
+    font-size: 1.25rem;
+    line-height: 1.4;
+}
 
 
 .italic {
