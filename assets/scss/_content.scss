@@ -1,8 +1,4 @@
 
-.hamburger {
-    display: none;
-}
-
 
 
 @media screen and (max-width: 895px) {
@@ -94,22 +90,3 @@
     .media p { font-size: 1rem; }
 }
 
-
-
-.language-switcher {
-    position: absolute;
-    top: 2em;
-    right: 0;
-}
-
-.language-list {
-    display: flex;
-    gap: 2em;
-}
-
-
-
-
-// .updates4 {
-//     display: none;
-// }

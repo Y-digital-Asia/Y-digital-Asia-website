@@ -5,6 +5,11 @@ a {
 }
 
 
+.hamburger {
+    display: none;
+}
+
+
 ul.menu {
   display: flex;
   flex-direction: row;
@@ -87,3 +92,11 @@ ul.submenu {
 .inactive {
   color: $dark-gray;
 }
+
+
+.language-switcher {
+    position: absolute;
+    top: 2em;
+    right: 0;
+}
+
