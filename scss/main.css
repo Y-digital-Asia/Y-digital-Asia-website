@@ -872,6 +872,60 @@ hr.house {
   text-align: center;
   font-weight: bold; }
 
+.ca, .idp, .cb, .sca, .ea, .vaga, .lcc, .rtir, .esgs, .cr {
+  background-repeat: no-repeat;
+  padding-top: 8em; }
+
+.ca {
+  background-image: url("/img/conversational-ai.svg");
+  background-position: center 48px;
+  background-size: 60px; }
+
+.idp {
+  background-image: url("/img/intelligent-document-processing.svg");
+  background-position: center 58px;
+  background-size: 90px; }
+
+.cb {
+  background-image: url("/img/chatbots.svg");
+  background-position: center 48px;
+  background-size: 180px; }
+
+.sca {
+  background-image: url("/img/smart-call-assistance.svg");
+  background-position: center 48px;
+  background-size: 90px; }
+
+.ea {
+  background-image: url("/img/employee-assistants.svg");
+  background-position: center 48px;
+  background-size: 160px; }
+
+.vaga {
+  background-image: url("/img/voice-assistant-google-assistant.svg");
+  background-position: center 48px;
+  background-size: 160px; }
+
+.lcc {
+  background-image: url("/img/legal-contract-checker.svg");
+  background-position: center 48px;
+  background-size: 120px; }
+
+.rtir {
+  background-image: url("/img/real-time-information-recap.svg");
+  background-position: center 48px;
+  background-size: 120px; }
+
+.esgs {
+  background-image: url("/img/esg-scan.svg");
+  background-position: center 48px;
+  background-size: 180px; }
+
+.cr {
+  background-image: url("/img/compliance-reviewer.svg");
+  background-position: center 48px;
+  background-size: 100px; }
+
 /****** Company ******/
 .team {
   max-width: 15em; }
@@ -1604,60 +1658,6 @@ input:placeholder-shown {
 #popup-box button {
   padding: 10px;
   border: 1px solid #333; }
-
-.ca, .idp, .cb, .sca, .ea, .vaga, .lcc, .rtir, .esgs, .cr {
-  background-repeat: no-repeat;
-  padding-top: 8em; }
-
-.ca {
-  background-image: url("/img/conversational-ai.svg");
-  background-position: center 48px;
-  background-size: 60px; }
-
-.idp {
-  background-image: url("/img/intelligent-document-processing.svg");
-  background-position: center 58px;
-  background-size: 90px; }
-
-.cb {
-  background-image: url("/img/chatbots.svg");
-  background-position: center 48px;
-  background-size: 180px; }
-
-.sca {
-  background-image: url("/img/smart-call-assistance.svg");
-  background-position: center 48px;
-  background-size: 90px; }
-
-.ea {
-  background-image: url("/img/employee-assistants.svg");
-  background-position: center 48px;
-  background-size: 160px; }
-
-.vaga {
-  background-image: url("/img/voice-assistant-google-assistant.svg");
-  background-position: center 48px;
-  background-size: 160px; }
-
-.lcc {
-  background-image: url("/img/legal-contract-checker.svg");
-  background-position: center 48px;
-  background-size: 120px; }
-
-.rtir {
-  background-image: url("/img/real-time-information-recap.svg");
-  background-position: center 48px;
-  background-size: 120px; }
-
-.esgs {
-  background-image: url("/img/esg-scan.svg");
-  background-position: center 48px;
-  background-size: 180px; }
-
-.cr {
-  background-image: url("/img/compliance-reviewer.svg");
-  background-position: center 48px;
-  background-size: 100px; }
 
 .hamburger {
   display: none; }
