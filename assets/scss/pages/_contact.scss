@@ -1,0 +1,51 @@
+.contact-address-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2em;
+    margin-bottom: 4em;
+    grid-gap: 10px;
+    width: 800px;
+    max-width: 100%;
+    grid-gap: 3em;
+}
+
+.address-card {
+    width: 375px;
+    max-width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 3em;
+
+    h2 {
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 1em;
+    }
+}
+
+.map {
+    width: 375px;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+
+.address-card-text {
+    background-color: $light-gray;
+    padding: 0 2em 2em 2em;
+
+    p {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.6;
+    }
+}
+
+.label {
+    padding-top: 2em;
+}
+
