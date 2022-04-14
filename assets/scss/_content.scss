@@ -1,8 +1,4 @@
 
-h1.approach {
-    margin: 0;
-    padding: 0 0 1em 0;
-}
 
 
 
@@ -153,75 +149,9 @@ h1.approach {
 }
 
 
-#f00 {
-    background: url("/img/f00.png") no-repeat;
-}
-
-#f01 {
-    background: url("/img/f01.png") no-repeat;
-}
-
-#f02 {
-    background: url("/img/f02.png") no-repeat;
-}
-
-#f03 {
-    background: url("/img/f03.png") no-repeat;
-}
-
-#f04 {
-    background: url("/img/f04.png") no-repeat;
-}
-
-#f05 {
-    background: url("/img/f05.png") no-repeat;
-}
-
-
-.ftr {
-        background-position: 0 0;
-        padding-top: 1.75em;
-        padding-left: 15em;
-        width: 56rem;
-        max-width: 100%;
-}
 
 
 
-
-.feature {
-    background: url("/img/line.svg") no-repeat;
-    background-position: left 2px;
-    padding-left: 3em;
-    width: 50rem;
-    max-width: 100%;
-}
-
-.feature, .ftr {
-    // max-width: 90%;
-    margin-bottom: 1.75em;
-
-    h2 {
-        font-size: 1.5rem;
-        font-weight: 700;
-        color: #474139;
-        padding-bottom: 0.375em;
-        line-height: 1;
-        }
-
-    p {
-        font-size: 1.3125rem;
-        font-weight: 400;
-        color: #474139;
-        line-height: 1.5;
-        padding-bottom: 1.5em;
-        }
-
-    a {
-        color: $orange;
-        font-weight: 700;
-        }
-}
 
 
 

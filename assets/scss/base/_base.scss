@@ -145,6 +145,53 @@ main {
 }
 
 
+.ftr {
+        background-position: 0 0;
+        padding-top: 1.75em;
+        padding-left: 15em;
+        width: 56rem;
+        max-width: 100%;
+}
+
+
+.feature {
+    background: url("/img/line.svg") no-repeat;
+    background-position: left 2px;
+    padding-left: 3em;
+    width: 50rem;
+    max-width: 100%;
+}
+
+.feature, .ftr {
+    // max-width: 90%;
+    margin-bottom: 1.75em;
+
+    h2 {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #474139;
+        padding-bottom: 0.375em;
+        line-height: 1;
+        }
+
+    p {
+        font-size: 1.3125rem;
+        font-weight: 400;
+        color: #474139;
+        line-height: 1.5;
+        padding-bottom: 1.5em;
+        }
+
+    a {
+        color: $orange;
+        font-weight: 700;
+        }
+}
+
+
+
+
+
 .italic {
     font-style: italic;
 }
