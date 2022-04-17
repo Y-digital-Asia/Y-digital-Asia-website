@@ -1,9 +1,9 @@
 {{ define "main"}}
     <main id="main">
-      <div>
+      <div class="error">
         <h1>404</h1>
-      	<p>The page you are looking for can not be found.</p>
-       <h1 id="title"><a href="{{ "/" | relURL }}">Go Back</a></h1>
+        <p>The page you are looking for can not be found.</p>
+       <p class="back"><a class="orange-text" href="{{ "/" | relURL }}">Go Back</a></p>
       </div>
     </main>
 {{ end }}
