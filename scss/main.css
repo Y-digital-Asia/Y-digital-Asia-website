@@ -1157,7 +1157,8 @@ dl.career button[aria-expanded="true"]::before {
     width: 50em;
     max-width: 100%;
     font-size: 1.25rem;
-    padding-bottom: 2em; }
+    padding-bottom: 2em;
+    line-height: 1.5; }
   .blog p.middle {
     text-align: center; }
   .blog li {
