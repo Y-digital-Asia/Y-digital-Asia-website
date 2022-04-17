@@ -217,7 +217,9 @@ header {
   width: 100%;
   background-color: #fff;
   z-index: 99; }
-
+  @media screen and (max-width: 895px) {
+    header {
+      height: 8em; } }
 .header-content {
   position: relative;
   width: 70em;
@@ -233,6 +235,9 @@ header {
 
 .logo {
   max-width: 50%; }
+  @media screen and (max-width: 74em) {
+    .logo {
+      padding-left: 2em; } }
   .logo img {
     width: 17em;
     top: 0.25em;
@@ -264,7 +269,9 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column; }
-
+  @media screen and (max-width: 895px) {
+    main {
+      margin-top: 8em; } }
 .hero {
   padding-bottom: 0;
   margin-bottom: 0; }
@@ -277,7 +284,9 @@ main {
     font-size: 2em;
     padding-bottom: 1em;
     font-weight: 700; }
-
+  @media screen and (max-width: 895px) {
+    .no-hero {
+      padding-top: 3em; } }
 .light-gray {
   background-color: #ECECEC; }
 
@@ -289,6 +298,9 @@ main {
   width: 100%;
   max-width: 70em;
   padding-bottom: 1.5em; }
+  @media screen and (max-width: 895px) {
+    .wide {
+      padding-bottom: 1em; } }
   .wide h1 {
     margin: 1.5em 0 1em 0;
     font-size: 2.5rem;
@@ -298,7 +310,9 @@ main {
   padding-top: 5.5em;
   position: relative;
   padding-bottom: 3em; }
-
+  @media screen and (max-width: 895px) {
+    .second {
+      padding-top: 3em; } }
 .intro {
   width: 50em;
   max-width: 90%; }
@@ -307,35 +321,54 @@ main {
     line-height: 1.41666667;
     letter-spacing: 0.24px;
     padding-bottom: 2em; }
-
+    @media screen and (max-width: 895px) {
+      .intro p {
+        font-size: 1rem; } }
 .ftr {
   background-position: 0 0;
   padding-top: 1.75em;
   padding-left: 15em;
   width: 56rem;
   max-width: 100%; }
-
+  @media screen and (max-width: 895px) {
+    .ftr {
+      padding-left: 27%;
+      padding-top: 0.75em;
+      margin-bottom: 3em; } }
 .feature {
   background: url("/img/line.svg") no-repeat;
   background-position: left 2px;
   padding-left: 3em;
   width: 50rem;
   max-width: 100%; }
-
+  @media screen and (max-width: 895px) {
+    .feature {
+      padding-left: 1.25rem;
+      margin-bottom: 3em; } }
 .feature, .ftr {
   margin-bottom: 1.75em; }
+  @media screen and (max-width: 895px) {
+    .feature, .ftr {
+      margin-left: 2em; } }
   .feature h2, .ftr h2 {
     font-size: 1.5rem;
     font-weight: 700;
     color: #474139;
     padding-bottom: 0.375em;
     line-height: 1; }
+  @media screen and (max-width: 895px) {
+    .feature, .ftr {
+      font-size: 1.25rem; } }
   .feature p, .ftr p {
     font-size: 1.3125rem;
     font-weight: 400;
     color: #474139;
     line-height: 1.5;
     padding-bottom: 1.5em; }
+  @media screen and (max-width: 895px) {
+    .feature, .ftr {
+      font-size: 1rem;
+      padding-right: 2em; } }
   .feature a, .ftr a {
     color: #EF8903;
     font-weight: 700; }
@@ -498,6 +531,12 @@ ul.submenu {
   position: absolute;
   top: 2em;
   right: 0; }
+
+@media screen and (max-width: 1060px) {
+  .nav {
+    display: none; }
+  .hamburger {
+    display: inline; } }
 
 /********** Hamburger Menu **********/
 a {
@@ -799,7 +838,9 @@ p.name a {
   text-align: center;
   width: 6.5em;
   font-weight: 700; }
-
+  @media screen and (max-width: 74em) {
+    .media p {
+      font-size: 1rem; } }
 /********** Approach **********/
 h1.approach {
   margin: 0;
@@ -822,6 +863,10 @@ h1.approach {
 
 #f05 {
   background: url("/img/f05.png") no-repeat; }
+
+@media screen and (max-width: 895px) {
+  #f00, #f01, #f02, #f03, #f04, #f05 {
+    background-size: 27%; } }
 
 /********** Solutions **********/
 .solutions p {
@@ -1676,57 +1721,3 @@ input:placeholder-shown {
 #popup-box button {
   padding: 10px;
   border: 1px solid #333; }
-
-@media screen and (max-width: 895px) {
-  header {
-    height: 8em; }
-  main {
-    margin-top: 8em; }
-  .no-hero {
-    padding-top: 3em; }
-  .wide {
-    padding-bottom: 1em; }
-  .second {
-    padding-top: 3em; }
-  .intro p {
-    font-size: 1rem; }
-  .feature-dark-line p {
-    font-size: 1rem; }
-  .feature, .ftr {
-    margin-left: 2em; }
-    .feature h2, .ftr h2 {
-      font-size: 1.25rem; }
-    .feature p, .ftr p {
-      font-size: 1rem;
-      padding-right: 2em; }
-  .feature {
-    padding-left: 1.25rem;
-    margin-bottom: 3em; }
-  .ftr {
-    padding-left: 27%;
-    padding-top: 0.75em;
-    margin-bottom: 3em; }
-  #f00, #f01, #f02, #f03, #f04, #f05 {
-    background-size: 27%; } }
-
-@media screen and (max-width: 74em) {
-  .logo {
-    padding-left: 2em; }
-  .media p {
-    font-size: 1rem; } }
-
-@media screen and (max-width: 1060px) {
-  .nav {
-    display: none; }
-  .hamburger {
-    display: inline; } }
-
-@media screen and (max-width: 1060px) {
-  .circles {
-    display: none; } }
-
-@media screen and (max-width: 74em) {
-  .logo {
-    padding-left: 2em; }
-  .media p {
-    font-size: 1rem; } }

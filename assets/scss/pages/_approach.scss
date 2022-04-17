@@ -28,3 +28,10 @@ h1.approach {
 #f05 {
     background: url("/img/f05.png") no-repeat;
 }
+
+
+@media screen and (max-width: 895px) {
+    #f00, #f01, #f02, #f03, #f04, #f05 {
+        background-size: 27%;
+    }
+}

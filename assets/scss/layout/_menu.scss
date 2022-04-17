@@ -100,3 +100,12 @@ ul.submenu {
     right: 0;
 }
 
+
+@media screen and (max-width: 1060px) {
+  .nav {
+    display: none;
+  }
+  .hamburger {
+    display: inline;
+  }
+}
