@@ -5,13 +5,6 @@ footer_newsletter_form_action = "https://formspree.io/f/mwkyqggo"
 
 
 
-
-# 404 error customization
-[params.error404]
-heading = "Page couldn't be found"
-text = "Please visit [homepage](/)"
-
-
 ########################### social links ############################
 [[social]]
 link = "https://www.youtube.com/channel/UCkuFpIkpvM4-OhJxoNocVQw"
