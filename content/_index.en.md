@@ -5,8 +5,8 @@ hero_image: "/img/hero-home.jpg"
 lang: en
 translationKey: home
 hero_circles:
-  left_circle: Stop robotizing
-  right_circle: Start humanizing
+  left_circle: Stop robotising
+  right_circle: Start humanising
 page_title: AI makes you reimagine your business
 intro_text: |-
   Many organisations are under pressure to become more digital, but why? Digital transformation is surely not the objective, it is a means to an end. The reason why we invest in technology is the empowerment of humans. Empowerment means leaving the tedious and repetitive work to your trusted digital colleague. Empowerment means truly scalable self-service for your customers without compromising on the human touch. Empowerment means no barriers, black-boxes, or lock-in but open and auditable solutions.
