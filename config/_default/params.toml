@@ -4,6 +4,18 @@ footer_newsletter_form_action = "https://formspree.io/f/mwkyqggo"
 
 
 
+########################### addresses ############################
+[[address_netherlands]]
+phone_display = "+31 (0)30 – 207 42 74"
+phone_clickable = "+31302074274"
+email = "result@y.digital"
+address = 'asdfasdf'
+
+[[address_asia]]
+phone_display = "+84 904 338 147"
+phone_clickable = "+84904338147"
+email = "result@y.digital"
+address = 'asdfasdf'
 
 ########################### social links ############################
 [[social]]
