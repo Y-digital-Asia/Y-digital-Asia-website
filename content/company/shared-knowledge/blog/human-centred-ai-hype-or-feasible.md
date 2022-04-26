@@ -2,7 +2,6 @@
 author = "Art Ligthart"
 date = 2022-04-26T08:55:44Z
 description = ""
-draft = true
 featured_image = "/img/upload/alex-knight-2ejcsulrwc8-unsplash.jpg"
 layout = "blog"
 summary = ""
