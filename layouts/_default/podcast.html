@@ -5,12 +5,20 @@
 <section class="blog">
 
 	<h1>{{ .Title }}</h1>
-	<!-- <h2>{{ .Params.subtitle }}</h2> -->
+	
+	{{ if .Params.spotify.enable }}
+		{{ "<!-- about us -->" | safeHTML }}
+
+		{{ partial "spotify.html" . }}
+
+		{{ "<!-- /about us -->" | safeHTML }}
+	{{ end }}
 
 	{{ .Content }}
 
 	<p class="middle"><a href="../">Return to Podcast Overview</a></p>
 
+	
 </section>
 
 

@@ -7,6 +7,9 @@ title: 'Empowering Humans EP05: Spoofing en Deepfake'
 disable_share: false
 summary: In deze aflevering van de Empowering Humans Podcast bespreken Florian en
   Carla het fenomeen “Spoofing” en “Deepfake” bij automated voice.
-
+spotify:
+  enable : true
+  spotify_code: '0BUWd00CbfMt2bE5FT51A0'
 ---
 In deze [aflevering ](https://beyondvoice.fm/podcast/beyond-voice-ep05-spoofing-en-deepfake/)van de Empowering Humans Podcast bespreken Florian en Carla het fenomeen “Spoofing” en “Deepfake” bij automated voice.
+
