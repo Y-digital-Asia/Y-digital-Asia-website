@@ -2,7 +2,7 @@
 author = "Art Ligthart"
 date = 2022-04-26T08:55:44Z
 description = "Artificial Intelligence has penetrated the capillaries of our digital society, and everyone sees new opportunities and possibilities. At the same time, there is a lot of discussion about the threats and dangers that AI entails. "
-featured_image = "/img/upload/alex-knight-2ejcsulrwc8-unsplash.jpg"
+featured_image = "/img/upload/brooke-cagle-whwybmtn3_0-unsplash.jpg"
 layout = "blog"
 summary = "Artificial Intelligence has penetrated the capillaries of our digital society, and everyone sees new opportunities and possibilities. At the same time, there is a lot of discussion about the threats and dangers that AI entails. "
 title = "Human-centred AI: hype or feasible?"
