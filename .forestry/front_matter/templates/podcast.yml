@@ -1,0 +1,32 @@
+---
+label: Podcast
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: featured_image
+  label: featured_image
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: summary
+  label: summary
+- type: field_group
+  name: spotify
+  label: spotify
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: spotify_code
+    label: spotify_code
