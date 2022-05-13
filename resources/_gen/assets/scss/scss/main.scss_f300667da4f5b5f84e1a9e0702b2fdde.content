@@ -791,9 +791,6 @@ p.name a {
   @media screen and (min-width: 640px) {
     .square-card {
       height: 277px; } }
-  @media screen and (max-width: 840px) {
-    .square-card .quote p {
-      font-size: 1.5em; } }
   @media screen and (max-width: 639px) {
     .square-card {
       display: flex;
@@ -808,27 +805,51 @@ p.name a {
 .square-text {
   flex: 1; }
 
+.quote {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  background-color: #ededed;
+  width: 50.25em;
+  max-width: 90%;
+  margin: 6em 0 6em 0;
+  border-radius: 500px; }
+  @media screen and (max-width: 430px) {
+    .quote {
+      flex-direction: column;
+      width: 240px;
+      max-width: 90%; } }
+  .quote .square-text {
+    margin-left: 1em;
+    padding: 2em 5em 0.5em 0; }
+    @media screen and (max-width: 430px) {
+      .quote .square-text {
+        margin-left: 1em;
+        padding: 0.5em 1em 4.5em 0.5em; } }
+    .quote .square-text p {
+      font-size: 1.25rem;
+      font-weight: 700;
+      padding-bottom: 0.5em;
+      line-height: 1.4; }
+      @media screen and (max-width: 840px) {
+        .quote .square-text p {
+          font-size: 1rem; } }
+      @media screen and (max-width: 667px) {
+        .quote .square-text p {
+          font-size: 0.875rem; } }
 .quote p {
-  font-size: 1.4em;
-  font-weight: 600;
-  color: #fff;
-  padding: 1.5em 1.5em 1em 1.5em;
-  font-style: italic;
-  letter-spacing: 1px; }
+  color: #474139; }
 
-.author p {
-  font-size: 1.125rem;
-  color: #000000;
-  font-weight: 700;
-  text-align: right;
-  padding-right: 2em;
-  padding-bottom: 1em; }
+.quote-author p {
+  color: #4CACC6; }
 
 .from {
-  color: #fff; }
+  color: #4CACC6; }
 
-.author-image {
-  flex: 0 0 277px; }
+.quote-author-image img {
+  width: 240px;
+  border-radius: 50%;
+  padding: 20px; }
 
 .media {
   display: flex;

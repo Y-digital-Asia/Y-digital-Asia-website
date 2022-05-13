@@ -29,17 +29,17 @@
 
 
 {{ range .Params.quote_slide }}
-	<section class="square-card">
+	<div class="quote">
+		<div class="quote-author-image"><img src="{{ relURL .photo }}"></div>
 		<div class="square-text">
-			<div class="quote">
+			<div class="quote-text">
 				<p>“{{ .quote_text }}”</p>
 			</div>
-			<div class="author">
-				<p>{{ .author }}<br><span class="from">{{ .from }}</span></p>
+			<div class="quote-author">
+				<p>{{ .author }} / {{ .from }}</p>
 			</div>
 		</div>
-		<div class="author-image"><img src="{{ relURL .photo }}"></div>
-	</section>
+	</div>
 {{ end }}
 
 
