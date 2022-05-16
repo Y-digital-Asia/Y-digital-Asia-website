@@ -4,7 +4,7 @@ description = "Empowering Humans EP07: Voice & Deepfake met Przemek Lenkiewicz e
 featured_image = "/img/upload/deepfake-robot-768x512.jpg"
 layout = "podcast"
 summary = "In deze aflevering van de Empowering Humans Podcast gaan Przemek & Erik in op Voice & Deepfakes."
-title = "Empowering Humans EP07: Voice & Deepfake met Przemek Lenkiewicz en Erik Orbons"
+title = "Empowering Humans EP07: Voice & Deepfake"
 [spotify]
 enable = true
 spotify_code = "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/5HzYkOeCmpIZLZLjjArrzL?utm_source=generator\" width=\"100%\" height=\"232\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\"></iframe>"
