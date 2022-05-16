@@ -30,3 +30,5 @@ fields:
   - type: text
     name: spotify_code
     label: spotify_code
+pages:
+- content/company/shared-knowledge/podcast/empowering-humans-ep07-voice-deepfake-met-przemek-lenkiewicz-en-erik-orbons.md
