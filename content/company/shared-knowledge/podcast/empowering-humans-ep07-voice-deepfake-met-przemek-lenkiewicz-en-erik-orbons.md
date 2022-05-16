@@ -1,7 +1,6 @@
 +++
 date = 2022-05-15T22:00:00Z
 description = "Empowering Humans EP07: Voice & Deepfake met Przemek Lenkiewicz en Erik Orbons"
-draft = true
 featured_image = "/img/upload/deepfake-robot-768x512.jpg"
 layout = "podcast"
 summary = "In deze aflevering van de Empowering Humans Podcast gaan Przemek & Erik in op Voice & Deepfakes."
