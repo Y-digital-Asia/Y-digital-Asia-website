@@ -5,7 +5,9 @@
     <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
     {{ $scss := resources.Get "scss/main.scss" }}{{ $style := $scss | resources.ToCSS }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
-    {{ template "_internal/google_analytics.html" . }}
+    {{ if and (hugo.IsProduction) (.Site.Params.googleAnalytics) }}
+        {{ partial "analytics-gtag.html" . }}
+    {{ end }}
     <script type="text/javascript" src="/js/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 </head>
