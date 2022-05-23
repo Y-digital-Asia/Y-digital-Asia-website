@@ -1,10 +1,10 @@
 +++
 author = "Dr. Ian FitzPatrick"
 date = 2022-05-23T10:59:37Z
-description = ""
+description = "In this blog we did a deep-dive in the world of a ML Engineer. "
 featured_image = "/img/upload/pexels-mikhail-nilov-7988113.jpg"
 layout = "blog"
-summary = ""
+summary = "In this blog we did a deep-dive in the world of a ML Engineer. "
 title = "AI in production: why ML Engineers make the difference"
 
 +++
