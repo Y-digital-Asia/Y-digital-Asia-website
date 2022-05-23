@@ -34,6 +34,7 @@ fields:
   name: author
   label: author
 pages:
+- content/company/shared-knowledge/blog/ai-in-production-why-ml-engineers-make-the-difference.md
 - content/company/shared-knowledge/blog/human-centred-ai-hype-or-feasible.md
 - content/company/shared-knowledge/blog/nationale-voice-monitor.md
 - content/company/shared-knowledge/blog/the-latest-blog-post-here.md
