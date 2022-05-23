@@ -2,7 +2,7 @@
 author = "Dr. Ian FitzPatrick"
 date = 2022-05-23T10:59:37Z
 description = "In this blog we did a deep-dive in the world of a ML Engineer. "
-featured_image = "/img/upload/pexels-mikhail-nilov-7988113.jpg"
+featured_image = "/img/upload/pexels-thisisengineering-3861958.jpg"
 layout = "blog"
 summary = "In this blog we did a deep-dive in the world of a ML Engineer. "
 title = "AI in production: why ML Engineers make the difference"
@@ -29,3 +29,13 @@ While it might be tempting to hire for a particular technology stack (e.g., 5 ye
 **Y shaped profile**
 
 Besides, specialist knowledge on MLOps (simply put: DevOps for ML models), deep skills in statistics, and a firm grasp of ML model architecture, the ML Engineering role, due to its versatile nature, also requires generalistic knowledge: from familiarity with UI/UX (without, necessarily, the ability to contribute) to more elaborate understanding of the foundations of orchestrating multi-component applications in on-prem, cloud, or hybrid-cloud situations. Thus, the profile of the ML Engineer forms a Y rather than the, more common, T.
+
+![](/img/upload/blog-y-digital.jpg)_source:_ [_https://www.reddit.com/r/ProgrammerHumor/comments/6cer5t/what_are_clouds_made_of/_](https://www.reddit.com/r/ProgrammerHumor/comments/6cer5t/what_are_clouds_made_of/ "https://www.reddit.com/r/ProgrammerHumor/comments/6cer5t/what_are_clouds_made_of/")  
+  
+Linux knowledge is, undoubtedly one of the fundamental pillars of ML Engineering at the stem of the Y because it underlies the containerisation technology that has made microservices architectures possible. Kubernetes, the now industry standard technology for orchestrating containers (and possibly the only exception to the framework rule), should also be a requirement. These fundamentals will equip the ML Engineer with the  
+required skills and knowledge to tackle most the complexities involved in training, re-training, validating, versioning, and monitoring a host of different types of ML models that each have their own idiosyncrasies.  
+  
+At the top of the Y are skills such as HTML, CSS, Javascript, database connections, networking, SQL, and — closer to the stem, where the two prongs meet — we find topics like (data) security, encryption, hashing, building and using Web APIs, programming (the ML Engineer needs to be more of a programming polyglot than the Data Scientist), software  
+engineering paradigms, software testing, coding best practices, etc.  
+  
+Each of the aforementioned skill-sets are obviously beholden to their respective specialisms (UI specialists, Site-Reliability Engineers, Security specialists, Software Engineers, Software Testers, DevOps Engineers, etc.), but the fewer supporting disciplines your organisation provides, the more versatile the ML Engineer will need to be.
