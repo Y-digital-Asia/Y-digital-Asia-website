@@ -217,7 +217,7 @@ header {
   width: 100%;
   background-color: #fff;
   z-index: 99; }
-  @media screen and (max-width: 895px) {
+  @media screen and (max-width: 1024px) {
     header {
       height: 8em; } }
 .header-content {
@@ -232,7 +232,9 @@ header {
   margin-bottom: 0;
   padding-bottom: 0;
   padding-bottom: 1em; }
-
+  @media screen and (max-width: 1024px) {
+    .header-content {
+      height: 8em; } }
 .logo {
   max-width: 50%; }
   @media screen and (max-width: 74em) {
@@ -1170,10 +1172,21 @@ dl.career button[aria-expanded="true"]::before {
   .blog h1 {
     font-size: 2.5rem;
     padding: 2em 0 1em 0; }
-  .blog h3 {
+  .blog h2 {
     font-size: 1.5rem;
+    padding: 2em 0 1em 0; }
+  .blog h3 {
+    font-size: 1.25rem;
     font-weight: 700;
     padding-bottom: 0.75em; }
+  .blog blockquote p {
+    color: #4CACC6;
+    font-size: 1.875rem;
+    line-height: 1.2;
+    font-weight: 700;
+    font-style: italic;
+    padding-bottom: 1em;
+    margin-bottom: 0; }
   .blog p {
     width: 50em;
     max-width: 100%;

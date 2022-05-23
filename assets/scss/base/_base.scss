@@ -24,7 +24,7 @@ header {
     background-color: #fff;
     z-index: 99;
 
-    @media screen and (max-width: 895px) {
+    @media screen and (max-width: 1024px) {
         height: 8em; 
     }
 }
@@ -41,6 +41,10 @@ header {
     margin-bottom: 0;
     padding-bottom: 0;
     padding-bottom: 1em;
+
+     @media screen and (max-width: 1024px) {
+        height: 8em; 
+    }
 }
 
 .logo {
