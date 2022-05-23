@@ -39,3 +39,13 @@ At the top of the Y are skills such as HTML, CSS, Javascript, database connectio
 engineering paradigms, software testing, coding best practices, etc.  
   
 Each of the aforementioned skill-sets are obviously beholden to their respective specialisms (UI specialists, Site-Reliability Engineers, Security specialists, Software Engineers, Software Testers, DevOps Engineers, etc.), but the fewer supporting disciplines your organisation provides, the more versatile the ML Engineer will need to be.
+
+**ML Engineering for your organisation  
+  
+**Due to scarcity and the aforementioned absence of higher-education courses, organisations in need of ML Engineers will need to expand their search profiles or invest in on-the-job training for professionals from related disciplines. Those wanting to train ML Engineers are faced with either re-training software engineers in Machine Learning or educating Data Scientists with MLOps and software engineering principles. At Y.digital, we made the  
+choice to establish the Y. Academy to help us do just that. The Y. Academy focuses on fundamental concepts in different modules to help address the various knowledge gaps that aspiring ML Engineers have when coming from their parent disciplines. By helping to cement Machine Learning Engineering as a staple of the modern Data-Driven organisation we hope to  
+see organisations stop shelving promising AI models and start building systems to empower humans.  
+  
+Are you looking for ML Engineering expertise to help productionise Data Science models? Or are you looking to establish yourself as an ML Engineering professional?  
+  
+Contact us for more information. Sent an e-mail to result@y.digital or call [+31 (0)30 – 207 42 74](tel:+31302074274)
