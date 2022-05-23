@@ -1,8 +1,8 @@
 +++
-author = ""
+author = "Dr. Ian FitzPatrick"
 date = 2022-05-23T10:59:37Z
 description = ""
-featured_image = ""
+featured_image = "/img/upload/blog-y-digital.jpg"
 layout = "blog"
 summary = ""
 title = "AI in production: why ML Engineers make the difference"
