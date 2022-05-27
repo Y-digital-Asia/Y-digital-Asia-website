@@ -29,5 +29,3 @@ fields:
     schema:
       format: markdown
   label: Intro text
-pages:
-- content/solutions/conversational-ai/test.md
