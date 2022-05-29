@@ -1,13 +1,37 @@
 {{ define "main" }}
 
-{{ partial "hero.html" . }}
-
 <section class="wide light-gray">
 	
-	{{ partial "hero-circles.html" . }}
+<div class="slideshow-container">
+	<div class="slideshow-inner">
+		
+		{{ range .Params.hero_slide }}
+		<div class="mySlides">
+			<div class="hero"><img src="{{ .slide_image }}" width="1120px" height="375px"></div>
+
+		</div>
+		{{ end }}
+		
+  </div>
 
 
-	<section class="intro home">
+  <div class="slide-text top">
+  {{ range .Params.hero_slide }}
+			<div class="circles">
+				<div class="circle big dark-gray">
+					<p>{{ .slide_left_circle }}</p>
+				</div>
+				<div class="arrow"><img src="/img/arrow-dark-gray.svg" alt=""></div>
+				<div class="circle big orange">
+					<p>{{ .slide_right_circle }}</p>
+				</div>
+			</div>
+  {{ end }}
+	</div>
+</div>
+
+
+	<section class="intro">
 	<h1 class="sub-circles">{{ .Params.page_title }}</h1>
 	{{ markdownify .Params.intro_text }}
 	</section>

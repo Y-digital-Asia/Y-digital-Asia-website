@@ -48,9 +48,15 @@ feature:
     We are specialized in AI technology and start with your reason Y. Would you like to know what value this can add to your organization? [Please contact us](/contact/ "Please contact us")
 cards: []
 hero_slide:
-- slide_left_circle: ''
-  slide_right_circle: ''
-  slide_image: ''
+- slide_left_circle: 'Stop time wasting'
+  slide_right_circle: 'Start scaling'
+  slide_image: '/img/hero-approach.jpg'
+- slide_left_circle: 'Stop standardizing'
+  slide_right_circle: 'Start personalizing'
+  slide_image: '/img/hero-solutions.jpg'
+- slide_left_circle: 'Stop robotizing'
+  slide_right_circle: 'Start humanizing'
+  slide_image: '/img/hero-home.jpg'
 media:
   first_item: listen to podcast
   first_item_link: "/company/shared-knowledge/podcast/"

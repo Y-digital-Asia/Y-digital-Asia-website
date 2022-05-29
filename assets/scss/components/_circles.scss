@@ -1,7 +1,7 @@
 /********** Circles **********/
 
 .circles {
-    display: flex;
+    display: flex!important;
     flex-direction: row;
     justify-content: center;
     gap: 2.7em;
@@ -31,7 +31,7 @@
     height: 16.75em;
     
     p {
-    font-size: 2.4em;
+    font-size: 2.125em;
     max-width: 10ch;
     }
 }
@@ -116,7 +116,13 @@
 }
 
  .top {
-    margin-top: -5em;
+    // margin-top: -5em;
+    position: relative;
+    top: -5em;
+    z-index: 999999;
+    @media screen and (max-width: 600px) {
+        top: -1em;
+    }
  }
 
 
@@ -180,7 +186,7 @@
         height: 8em;
 
         p {
-        font-size: 1.2em;
+        font-size: 0.875rem;
         }
     }
 

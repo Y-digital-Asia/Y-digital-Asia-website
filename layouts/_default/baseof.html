@@ -11,5 +11,8 @@
         {{- partial "footer.html" . -}}
 
         <!-- {{ partial "consent.html" . }} -->
+        
+        {{ if .IsHome }} <script type="text/javascript" src="/slick/slick.min.js"></script> {{ end }}
+        {{ if .IsHome }} <script type="text/javascript" src="/js/myslick.js"></script> {{ end }}
     </body>
 </html>
