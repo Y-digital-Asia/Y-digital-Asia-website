@@ -216,7 +216,7 @@ header {
   height: 8.25em;
   width: 100%;
   background-color: #fff;
-  z-index: 99; }
+  z-index: 9999991; }
   @media screen and (max-width: 1024px) {
     header {
       height: 8em; } }
@@ -1474,7 +1474,7 @@ dl.faq button[aria-expanded="true"] {
 .top {
   position: relative;
   top: -5em;
-  z-index: 999999; }
+  z-index: 999; }
   @media screen and (max-width: 600px) {
     .top {
       top: -1em; } }
