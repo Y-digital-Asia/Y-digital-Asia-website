@@ -1389,7 +1389,7 @@ dl.faq button[aria-expanded="true"] {
 
 /********** Circles **********/
 .circles {
-  display: flex;
+  display: flex !important;
   flex-direction: row;
   justify-content: center;
   gap: 2.7em;
@@ -1413,7 +1413,7 @@ dl.faq button[aria-expanded="true"] {
   width: 16.75em;
   height: 16.75em; }
   .big p {
-    font-size: 2.4em;
+    font-size: 2.125em;
     max-width: 10ch; }
 
 .small {
@@ -1472,8 +1472,12 @@ dl.faq button[aria-expanded="true"] {
   margin-top: 3em; }
 
 .top {
-  margin-top: -5em; }
-
+  position: relative;
+  top: -5em;
+  z-index: 999999; }
+  @media screen and (max-width: 600px) {
+    .top {
+      top: -1em; } }
 /******** Arrows *********/
 .arrow-small {
   height: 1.875em;
@@ -1508,7 +1512,7 @@ dl.faq button[aria-expanded="true"] {
     width: 8em;
     height: 8em; }
     .big p {
-      font-size: 1.2em; }
+      font-size: 0.875rem; }
   .small {
     width: 7em;
     height: 7em; }
@@ -1760,3 +1764,41 @@ input:placeholder-shown {
 #popup-box button {
   padding: 10px;
   border: 1px solid #333; }
+
+.slideshow-container {
+  width: 100%;
+  position: relative; }
+
+.slide-text .slick-dots {
+  top: 15%; }
+
+.slick-dots {
+  position: absolute;
+  top: 55%;
+  right: 7%; }
+  @media (max-width: 640px) {
+    .slick-dots {
+      display: none !important; } }
+.slick-dots li button {
+  font-size: 0; }
+
+.slick-dots li {
+  cursor: pointer;
+  height: 18px;
+  width: 18px;
+  margin: 0 4px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color .6s ease; }
+
+li.slick-active, .slick-dots li:hover {
+  background-color: #EF8903; }
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  width: 100%; }
+
+.top {
+  margin-bottom: -4em !important; }
