@@ -3,6 +3,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Site.Title }} - {{ .Title }}{{- end }}</title>
     <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
     {{ $scss := resources.Get "scss/main.scss" }}{{ $style := $scss | resources.ToCSS }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
     {{ if and (hugo.IsProduction) (.Site.Params.googleAnalytics) }}
