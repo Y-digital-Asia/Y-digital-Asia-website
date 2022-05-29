@@ -48,9 +48,15 @@ feature:
     Wij zijn gespecialiseerd in AI-technologie en starten met jouw reden Y. Wil je weten welke waarde dit kan toevoegen aan jouw organisatie? [Neem dan contact met ons op.](/nl/contact/ "Neem dan contact met ons op.")
 cards: []
 hero_slide:
-- slide_left_circle: ''
-  slide_right_circle: ''
-  slide_image: ''
+- slide_left_circle: 'Stop time wasting'
+  slide_right_circle: 'Start scaling'
+  slide_image: '/img/hero-approach.jpg'
+- slide_left_circle: 'Stop standardizing'
+  slide_right_circle: 'Start personalizing'
+  slide_image: '/img/hero-solutions.jpg'
+- slide_left_circle: 'Stop robotizing'
+  slide_right_circle: 'Start humanizing'
+  slide_image: '/img/hero-home.jpg'
 media:
   first_item: podcast beluisteren
   first_item_link: "/company/shared-knowledge/podcast/"
