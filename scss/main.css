@@ -217,9 +217,12 @@ header {
   width: 100%;
   background-color: #fff;
   z-index: 9999991; }
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 895px) {
     header {
       height: 8em; } }
+  @media screen and (max-width: 600px) {
+    header {
+      height: 6em; } }
 .header-content {
   position: relative;
   width: 70em;
@@ -232,9 +235,7 @@ header {
   margin-bottom: 0;
   padding-bottom: 0;
   padding-bottom: 1em; }
-  @media screen and (max-width: 1024px) {
-    .header-content {
-      height: 8em; } }
+
 .logo {
   max-width: 50%; }
   @media screen and (max-width: 74em) {
@@ -274,6 +275,9 @@ main {
   @media screen and (max-width: 895px) {
     main {
       margin-top: 8em; } }
+  @media screen and (max-width: 500px) {
+    main {
+      margin-top: 6em; } }
 .hero {
   padding-bottom: 0;
   margin-bottom: 0; }
@@ -325,7 +329,7 @@ main {
     padding-bottom: 2em; }
     @media screen and (max-width: 895px) {
       .intro p {
-        font-size: 1rem; } }
+        font-size: 1.125rem; } }
 .ftr {
   background-position: 0 0;
   padding-top: 1.75em;
@@ -358,19 +362,19 @@ main {
     color: #474139;
     padding-bottom: 0.375em;
     line-height: 1; }
-  @media screen and (max-width: 895px) {
-    .feature, .ftr {
-      font-size: 1.25rem; } }
+    @media screen and (max-width: 895px) {
+      .feature h2, .ftr h2 {
+        font-size: 1.25rem; } }
   .feature p, .ftr p {
     font-size: 1.3125rem;
     font-weight: 400;
     color: #474139;
     line-height: 1.5;
     padding-bottom: 1.5em; }
-  @media screen and (max-width: 895px) {
-    .feature, .ftr {
-      font-size: 1rem;
-      padding-right: 2em; } }
+    @media screen and (max-width: 895px) {
+      .feature p, .ftr p {
+        font-size: 1rem;
+        padding-right: 2em; } }
   .feature a, .ftr a {
     color: #EF8903;
     font-weight: 700; }
