@@ -24,8 +24,12 @@ header {
     background-color: #fff;
     z-index: 9999991;
 
-    @media screen and (max-width: 1024px) {
+    @media screen and (max-width: 895px) {
         height: 8em; 
+    }
+
+    @media screen and (max-width: 600px) {
+        height: 6em; 
     }
 }
 
@@ -41,10 +45,6 @@ header {
     margin-bottom: 0;
     padding-bottom: 0;
     padding-bottom: 1em;
-
-     @media screen and (max-width: 1024px) {
-        height: 8em; 
-    }
 }
 
 .logo {
@@ -99,6 +99,10 @@ main {
 
     @media screen and (max-width: 895px) {
         margin-top: 8em; 
+    }
+
+    @media screen and (max-width: 500px) {
+        margin-top: 6em; 
     }
 }
 
@@ -174,7 +178,7 @@ main {
     padding-bottom: 2em;
 
     @media screen and (max-width: 895px) {
-        font-size: 1rem;
+        font-size: 1.125rem;
     }
   }
 }
@@ -222,23 +226,24 @@ main {
         color: #474139;
         padding-bottom: 0.375em;
         line-height: 1;
-        }
 
         @media screen and (max-width: 895px) {
             font-size: 1.25rem;
+            }
         }
 
     p {
         font-size: 1.3125rem;
+        // font-size: 1rem;
         font-weight: 400;
         color: #474139;
         line-height: 1.5;
         padding-bottom: 1.5em;
-        }
 
         @media screen and (max-width: 895px) {
             font-size: 1rem;
             padding-right: 2em;
+            }
         }
 
     a {
