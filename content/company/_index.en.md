@@ -35,7 +35,7 @@ team:
   text: "“At Y.digital, we start by hearing your business challenges and then customize/create
     our solutions based on your needs/wishes. I find the entire journey of end-to-end
     business implementation extremely exciting and rewarding!”"
-  name: Lily Fu
+  name: Alexandra Redmann
   job: Data Scientist
 - photo: "/img/upload/lea-baudner.jpg"
   text: "“As a recent graduate, I was looking for that one company that offers me
