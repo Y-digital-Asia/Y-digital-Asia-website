@@ -38,7 +38,7 @@ team:
     om vervolgens onze oplossingen aan te passen en te creëren op basis van jouw wensen
     en behoeften. Ik vind de hele reis van end-to-end bedrijfsimplementatie erg spannend
     en lonend!"'
-  name: Lily Fu
+  name: Alexandra Redmann
   job: Data Scientist
 - photo: "/img/upload/lea-baudner.jpg"
   text: '"Als onlangs afgestudeerde was ik op zoek naar dat ene bedrijf dat me een
