@@ -33,7 +33,7 @@ feature:
 
     Ons team bestaat uit hoogopgeleide experts in verschillende disciplines: strategie, bedrijfstransformatie en AI-technologie. Zij vertalen fundamentele wetenschappelijke kennis van AI-concepten naar dagelijkse AI-oplossingen. Samen hebben we een gedeelde passie: organisaties helpen om concrete waarde te leveren met AI-oplossingen die mensen empoweren. Het team telt 7 nationaliteiten, met gemengde culturele achtergronden en is gevestigd in Nederland (hoofdkantoor) en Vietnam.
 team:
-- photo: "/img/upload/ek0c9062.JPG"
+- photo: "/img/upload/alexandra.png"
   text: '"Bij Y.digital beginnen we met het leren kennen van jouw zakelijke uitdagingen
     om vervolgens onze oplossingen aan te passen en te creëren op basis van jouw wensen
     en behoeften. Ik vind de hele reis van end-to-end bedrijfsimplementatie erg spannend
