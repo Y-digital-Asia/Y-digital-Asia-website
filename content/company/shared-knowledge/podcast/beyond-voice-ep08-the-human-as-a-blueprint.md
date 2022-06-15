@@ -4,11 +4,11 @@ description = "Beyond Voice EP07: Voice & Deepfake met Przemek Lenkiewicz en Eri
 draft = true
 featured_image = "/img/upload/deepfake-robot-768x512.jpg"
 layout = "podcast"
-summary = "In deze aflevering van de Beyond Voice Podcast gaan Przemek & Erik in op Voice & Deepfakes."
+summary = "In deze aflevering van de Beyond Voice Podcast gaan Ian & Erik dieper in op de techniek achter conversational AI."
 title = "Beyond Voice EP08: The human as a blueprint"
 [spotify]
 enable = true
-spotify_code = "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/5HzYkOeCmpIZLZLjjArrzL?utm_source=generator\" width=\"100%\" height=\"232\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\"></iframe>"
+spotify_code = "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/72EPfflPseApMb9WOq0yut?utm_source=generator\" width=\"100%\" height=\"232\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\"></iframe>"
 
 +++
-In deze [aflevering](https://beyondvoice.fm/podcast/beyond-voice-ep07-voice-deepfake-met-przemek-lenkiewicz-en-erik-orbons/) van de Beyond Voice Podcast schuiven twee nieuwe gasten aan! Erik Orbons van Speakup en Przemek Lenkiewicz van Y.digital spreken samen met Florian en Carla over de ontwikkelingen van Deepfake in Artificial Voice.
+In deze aflevering van de Beyond Voice Podcast gaan we dieper in op de techniek achter conversational AI. Naast Erik Orbons van Speakup hebben we nog een speciale gast die deze keer aanschuift, namelijk Ian FitzPatrick, CTO en Managing Director van Y.digital. Meer informatie over Phonemic Restauration: [https://en.wikipedia.org/wiki/Phonemic_restoration_effect](https://en.wikipedia.org/wiki/Phonemic_restoration_effect "https://en.wikipedia.org/wiki/Phonemic_restoration_effect") Bekijk het Phonemic Restauration fragment via Youtube [https://www.youtube.com/watch?v=k74KCfSDCn8](https://www.youtube.com/watch?v=k74KCfSDCn8 "https://www.youtube.com/watch?v=k74KCfSDCn8")
