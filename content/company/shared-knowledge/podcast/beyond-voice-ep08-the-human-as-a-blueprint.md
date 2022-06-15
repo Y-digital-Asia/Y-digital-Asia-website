@@ -1,7 +1,6 @@
 +++
 date = 2022-05-15T22:00:00Z
 description = "Beyond Voice EP08: The human as a blueprint met Ian FitzPatrick en Erik Orbons"
-draft = true
 featured_image = "/img/upload/430840466.jpeg"
 layout = "podcast"
 summary = "In deze aflevering van de Beyond Voice Podcast gaan Ian & Erik dieper in op de techniek achter conversational AI."
