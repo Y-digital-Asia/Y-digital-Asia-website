@@ -1,5 +1,5 @@
 +++
-date = 2022-06-15T22:00:00Z
+date = 2022-06-14T22:00:00Z
 description = "Beyond Voice EP08: The human as a blueprint met Ian FitzPatrick en Erik Orbons"
 featured_image = "/img/upload/430840466.jpeg"
 layout = "podcast"
