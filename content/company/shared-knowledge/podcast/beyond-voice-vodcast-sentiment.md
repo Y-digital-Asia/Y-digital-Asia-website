@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2022-06-21T08:00:00Z
 description = "In de eerste Beyond Voice Vodcast duiken we in de sentiment technologie. "
 featured_image = "/img/upload/ep01.jpg"
 layout = ""
@@ -10,6 +10,5 @@ enable = true
 spotify_code = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/beN1YIdM7do\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
-[beyond_voice_-_sentiment_-_versie_2-1080p.mp4](/img/upload/beyond_voice_-_sentiment_-_versie_2-1080p.mp4 "beyond_voice_-_sentiment_-_versie_2-1080p.mp4")
 
 ![](/img/upload/alex-knight-2ejcsulrwc8-unsplash.jpg)
