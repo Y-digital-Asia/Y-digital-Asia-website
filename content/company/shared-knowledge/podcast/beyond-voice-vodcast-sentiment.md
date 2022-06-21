@@ -2,7 +2,7 @@
 date = 2022-06-21T08:00:00Z
 description = "In de eerste Beyond Voice Vodcast duiken we in de sentiment technologie. "
 featured_image = "/img/upload/ep01.jpg"
-layout = ""
+layout = "podcast"
 summary = "In de eerste Beyond Voice Vodcast duiken we in de sentiment technologie. "
 title = "Beyond Voice Vodcast: Sentiment"
 [spotify]
