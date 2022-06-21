@@ -1,5 +1,5 @@
 +++
-date = 2022-06-21T20:00:00Z
+date = 2022-06-21T08:00:00Z
 description = "In de eerste Beyond Voice Vodcast duiken we in de sentiment technologie. "
 featured_image = "/img/upload/ep01.jpg"
 layout = ""
