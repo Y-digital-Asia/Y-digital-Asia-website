@@ -2,7 +2,6 @@
 author = ""
 date = 2022-06-21T08:03:01Z
 description = ""
-draft = true
 featured_image = ""
 layout = "blog"
 summary = ""
