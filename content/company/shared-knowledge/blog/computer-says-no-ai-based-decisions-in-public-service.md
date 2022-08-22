@@ -4,7 +4,7 @@ date = 2022-08-19T09:29:35Z
 description = "'Computer says no’: AI-based decisions in public service"
 featured_image = "/img/upload/istock-1011793090.jpg"
 layout = "blog"
-summary = "The court case surrounding SyRI (System Risk Indication) recently caused a lot of media attention regarding the use of AI by the Dutch government. SyRI was an AI system intended to detect welfare fraud, looking at combined databases of various agencies, such as municipalities, the immigration agency (IND) and the Tax Administration. The use of SyRI was banned by the court, ruling it as stigmatizing and discriminatory, as it was to be applied mainly in 'problematic neighbourhoods'. It is clear that this implementation is not successful yet, but such legal rulings can be used to learn: how should we do it?"
+summary = "The court case surrounding SyRI (System Risk Indication) recently caused a lot of media attention regarding the use of AI by the Dutch government. It is clear that this implementation is not successful yet, but such legal rulings can be used to learn: how should we do it?"
 title = "'Computer says no’: AI-based decisions in public service"
 
 +++
