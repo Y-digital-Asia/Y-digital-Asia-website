@@ -21,18 +21,42 @@ vacancy:
     ## The Role
 
     As a conversation designer you will work directly for high-profile organisations across different sectors (government, financial, utilities, health). Sometimes you will be seconded to work with teams of our clients. But you will also work on projects with the internal team of Y.
-  profile: "## Your Profile\n\nWe want to offer the best professionals in the field
-    of (conversational) AI in the market.  \n· You represent Y.digital, our unique
-    vision, customer driven approach and AI-platform Y.Ally.\n\n· You make sure we
-    work customer centric by facilitating design labs, design customer journeys, persona’s,
-    conversation flows and user tests in close cooperation with customers and our
-    internal team.\n\n· You analyse user data and optimize the AI-solution working
-    in multi-disciplinary teams.\n\n· You further develop our Y.academy for conversation
-    designers and provide training for colleagues and customers.\n\n· You will work
-    closely with our highly-skilled AI experts: a strong and international peer group
-    of experienced machine learning engineers and data scientists.\n\nWithin this
-    role, as we are expanding and growing rapidly, there is ample room to develop,
-    grow and achieve your personal goals and ambitions."
+
+    · You represent Y.digital, our unique vision, customer driven approach and AI-platform Y.Ally.
+
+    · You make sure we work customer centric by facilitating design labs, design customer journeys, persona’s, conversation flows and user tests in close cooperation with customers and our internal team.
+
+    · You analyse user data and optimize the AI-solution working in multi-disciplinary teams.
+
+    · You further develop our Y.academy for conversation designers and provide training for colleagues and customers.
+
+    · You will work closely with our highly-skilled AI experts: a strong and international peer group of experienced machine learning engineers and data scientists.
+
+    Within this role, as we are expanding and growing rapidly, there is ample room to develop, grow and achieve your personal goals and ambitions.
+  profile: |-
+    ## Your Profile
+
+    We want to offer the best professionals in the field of (conversational) AI in the market. For this role the next skills and knowledge is necessary:
+
+    · Strong skills as it comes to conversation design, building, analysing and optimizing conversational flows in an AI-driven platform for chat and/or voice.
+
+    · Experience with user testing and facilitating workshops – you have good consultancy skills.
+
+    · You love cocreating with groups of people, providing inspiration, generating ideas, designing the desired way of working.
+
+    · A minimal of 2 years of experience (medior) is required.
+
+    · Native Dutch speaking.
+
+    · Experience with the agile way of working (e.g. SAFe, SCRUM) is an advantage.
+
+    · Social skills: enthusiastic, hands-on, structured, flexible, result-driven, strong presentation and communication capabilities.
+
+    · Driven to follow market developments in the field of conversation design and implement them within the organisation, inquisitive.
+
+    · Basic knowledge of Python, NLP and intent-architecture would be nice but is certainly not a ‘must have’.
+
+    · A completed master degree in a relevant discipline (e.g. Communications, Human Centered Design).
   skills_heading: Skills and Knowledge
   skills: |-
     For this role the next skills and knowledge is necessary:
