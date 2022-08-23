@@ -62,6 +62,8 @@ vacancy:
     For this role the next skills and knowledge is necessary:
 
     * Strong skills as it comes to conversation design, building, analysing and optimizing conversational flows in an AI-driven platform for chat and/or voice.
+
+
     * Experience with user testing and facilitating workshops – you have good consultancy skills.
     * You love cocreating with groups of people, providing inspiration, generating ideas, designing the desired way of working.
     * A minimal of 2 years of experience (medior) is required.
@@ -73,8 +75,7 @@ vacancy:
     * A completed master degree in a relevant discipline (e.g. Communications, Human Centered Design).
   what_we_offer_heading: 'What we offer:'
   what_we_offer: |-
-    The Y.clubhouse: our brand new office in Zeist, near Station Driebergen-Zeist
-
+    * The Y.clubhouse: our brand new office in Zeist, near Station Driebergen-Zeist
     * A friendly, open, non-hierarchical, and collaborative working environment
     * Innovative projects at high-profile organisations across different sectors
     * Hybrid working, in the office, at the customer or from home
