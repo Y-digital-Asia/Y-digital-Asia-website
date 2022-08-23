@@ -90,6 +90,5 @@ other = "{{ .Count }} words"
 [pageTitle]
 other = "{{ .Name }} page"
 
-
-
-
+[voorwaardenLink]
+other = "/img/upload/nldigital-terms-en.pdf"
