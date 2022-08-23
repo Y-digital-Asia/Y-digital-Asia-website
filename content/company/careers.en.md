@@ -12,21 +12,27 @@ page_title: Y.careers
 vacancy:
 - title: Lead Conversation Designer
   role: |-
+    ## About Us:
+
+    Y.digital is an experienced and specialised A.I. company with offices in Zeist, The Netherlands, and Da Nang, Vietnam. We design, build, and deliver intelligent AI solutions that empower humans. We use our own unique approach and cutting-edge AI platform Ally to create conversational AI solutions that help customers to engage with companies in a more pleasant and intelligent way. And design and deliver intelligent document processing solutions to support employees in making knowledge-intensive processes more consistent, scalable, and efficient.
+
+    Our diverse and international team has considerable expertise in the design and execution of AI powered customer journeys, using natural language processing, computer vision, and graph technology. Our ambition is to establish ourselves as the leading firm in this area in the Netherlands and beyond. We’re growing fast and have a vacancy for a passionate **medior level Lead Conversation Designer** to join our team.
+
     ## The Role
 
     As a conversation designer you will work directly for high-profile organisations across different sectors (government, financial, utilities, health). Sometimes you will be seconded to work with teams of our clients. But you will also work on projects with the internal team of Y.
-
-    Within this role, as we are expanding and growing rapidly, there is ample room to develop, grow and achieve your personal goals and ambitions.
-  profile: |-
-    ## Your Profile
-
-    We want to offer the best professionals in the field of (conversational) AI in the market.
-
-    * You represent Y.digital, our unique vision, customer driven approach and AI-platform Y.Ally.
-    * You make sure we work customer centric by facilitating design labs, design customer journeys, persona’s, conversation flows and user tests in close cooperation with customers and our internal team.
-    * You analyse user data and optimize the AI-solution working in multi-disciplinary teams.
-    * You further develop our Y.academy for conversation designers and provide training for colleagues and customers.
-    * You will work closely with our highly-skilled AI experts: a strong and international peer group of experienced machine learning engineers and data scientists.
+  profile: "## Your Profile\n\nWe want to offer the best professionals in the field
+    of (conversational) AI in the market.  \n· You represent Y.digital, our unique
+    vision, customer driven approach and AI-platform Y.Ally.\n\n· You make sure we
+    work customer centric by facilitating design labs, design customer journeys, persona’s,
+    conversation flows and user tests in close cooperation with customers and our
+    internal team.\n\n· You analyse user data and optimize the AI-solution working
+    in multi-disciplinary teams.\n\n· You further develop our Y.academy for conversation
+    designers and provide training for colleagues and customers.\n\n· You will work
+    closely with our highly-skilled AI experts: a strong and international peer group
+    of experienced machine learning engineers and data scientists.\n\nWithin this
+    role, as we are expanding and growing rapidly, there is ample room to develop,
+    grow and achieve your personal goals and ambitions."
   skills_heading: Skills and Knowledge
   skills: |-
     For this role the next skills and knowledge is necessary:
