@@ -37,26 +37,6 @@ vacancy:
     ## Your Profile
 
     We want to offer the best professionals in the field of (conversational) AI in the market. For this role the next skills and knowledge is necessary:
-
-    · Strong skills as it comes to conversation design, building, analysing and optimizing conversational flows in an AI-driven platform for chat and/or voice.
-
-    · Experience with user testing and facilitating workshops – you have good consultancy skills.
-
-    · You love cocreating with groups of people, providing inspiration, generating ideas, designing the desired way of working.
-
-    · A minimal of 2 years of experience (medior) is required.
-
-    · Native Dutch speaking.
-
-    · Experience with the agile way of working (e.g. SAFe, SCRUM) is an advantage.
-
-    · Social skills: enthusiastic, hands-on, structured, flexible, result-driven, strong presentation and communication capabilities.
-
-    · Driven to follow market developments in the field of conversation design and implement them within the organisation, inquisitive.
-
-    · Basic knowledge of Python, NLP and intent-architecture would be nice but is certainly not a ‘must have’.
-
-    · A completed master degree in a relevant discipline (e.g. Communications, Human Centered Design).
   skills_heading: Skills and Knowledge
   skills: |-
     For this role the next skills and knowledge is necessary:
