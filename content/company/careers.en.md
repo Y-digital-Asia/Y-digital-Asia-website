@@ -16,15 +16,17 @@ vacancy:
 
     As a conversation designer you will work directly for high-profile organisations across different sectors (government, financial, utilities, health). Sometimes you will be seconded to work with teams of our clients. But you will also work on projects with the internal team of Y.
 
+    Within this role, as we are expanding and growing rapidly, there is ample room to develop, grow and achieve your personal goals and ambitions.
+  profile: |-
+    ## Your Profile
+
+    We want to offer the best professionals in the field of (conversational) AI in the market.
+
     * You represent Y.digital, our unique vision, customer driven approach and AI-platform Y.Ally.
     * You make sure we work customer centric by facilitating design labs, design customer journeys, persona’s, conversation flows and user tests in close cooperation with customers and our internal team.
     * You analyse user data and optimize the AI-solution working in multi-disciplinary teams.
     * You further develop our Y.academy for conversation designers and provide training for colleagues and customers.
     * You will work closely with our highly-skilled AI experts: a strong and international peer group of experienced machine learning engineers and data scientists.
-
-    Within this role, as we are expanding and growing rapidly, there is ample room to develop, grow and achieve your personal goals and ambitions.
-  profile: "## Your Profile\n\nWe want to offer the best professionals in the field
-    of (conversational) AI in the market. "
   skills_heading: Skills and Knowledge
   skills: |-
     For this role the next skills and knowledge is necessary:
