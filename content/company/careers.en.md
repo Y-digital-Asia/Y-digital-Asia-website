@@ -10,6 +10,50 @@ intro_text: Talent drives our team and our capacity to deliver the best solution
   people who are passionate about digital, learning and working together.
 page_title: Y.careers
 vacancy:
+- title: Lead Conversation Designer
+  role: |-
+    ## The Role
+
+    As a conversation designer you will work directly for high-profile organisations across different sectors (government, financial, utilities, health). Sometimes you will be seconded to work with teams of our clients. But you will also work on projects with the internal team of Y.
+
+    * You represent Y.digital, our unique vision, customer driven approach and AI-platform Y.Ally.
+    * You make sure we work customer centric by facilitating design labs, design customer journeys, persona’s, conversation flows and user tests in close cooperation with customers and our internal team.
+    * You analyse user data and optimize the AI-solution working in multi-disciplinary teams.
+    * You further develop our Y.academy for conversation designers and provide training for colleagues and customers.
+    * You will work closely with our highly-skilled AI experts: a strong and international peer group of experienced machine learning engineers and data scientists.
+
+    Within this role, as we are expanding and growing rapidly, there is ample room to develop, grow and achieve your personal goals and ambitions.
+  profile: "## Your Profile\n\nWe want to offer the best professionals in the field
+    of (conversational) AI in the market. "
+  skills_heading: Skills and Knowledge
+  skills: |-
+    For this role the next skills and knowledge is necessary:
+
+    * Strong skills as it comes to conversation design, building, analysing and optimizing conversational flows in an AI-driven platform for chat and/or voice.
+    * Experience with user testing and facilitating workshops – you have good consultancy skills.
+    * You love cocreating with groups of people, providing inspiration, generating ideas, designing the desired way of working.
+    * A minimal of 2 years of experience (medior) is required.
+    * Native Dutch speaking.
+    * Experience with the agile way of working (e.g. SAFe, SCRUM) is an advantage.
+    * Social skills: enthusiastic, hands-on, structured, flexible, result-driven, strong presentation and communication capabilities.
+    * Driven to follow market developments in the field of conversation design and implement them within the organisation, inquisitive.
+    * Basic knowledge of Python, NLP and intent-architecture would be nice but is certainly not a ‘must have’.
+    * A completed master degree in a relevant discipline (e.g. Communications, Human Centered Design).
+  what_we_offer_heading: 'What we offer:'
+  what_we_offer: |-
+    The Y.clubhouse: our brand new office in Zeist, near Station Driebergen-Zeist
+
+    * A friendly, open, non-hierarchical, and collaborative working environment
+    * Innovative projects at high-profile organisations across different sectors
+    * Hybrid working, in the office, at the customer or from home
+    * Mobility package
+    * An inspirational, diverse and international team of colleagues
+    * A learning path tailored to your needs and ambitions
+    * Benefits including: a comprehensive pension scheme and bonus scheme
+  send_cv: |-
+    ## Sounds like you?
+
+    Call Carla Verwijmeren for more information (06-31 99 13 85) or send an email with a link to your LinkedIn profile to [carla@y.digital](mailto:carla@y.digital).
 - title: junior/medior Digital Transformation Consultants
   role: |-
     ## The Role
