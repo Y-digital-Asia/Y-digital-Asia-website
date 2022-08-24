@@ -136,7 +136,7 @@ vacancy:
     ## Sounds like you?
 
     Call Carla Verwijmeren for more information (06-31 99 13 85) or send an email with a link to your LinkedIn profile to [carla@y.digital](mailto:carla@y.digital).
-- title: junior/medior Digital Transformation Consultants
+- title: Junior/Medior Digital Transformation Consultants
   role: |-
     ## About Us:
 
