@@ -1,7 +1,7 @@
 +++
 date = 2022-09-07T22:00:00Z
 description = "Beyond Voice EP09: Oprichting Spraakcoalitie"
-featured_image = "/img/upload/430840466.jpeg"
+featured_image = "/img/upload/bradley-pisney-kap8iazb5si-unsplash.jpg"
 layout = ""
 summary = "In deze aflevering van de Beyond Voice Podcast gaan Florian, Carla en Egon in op de oprichting van Stichting de Nederlandstalige Spraakcoalitie."
 title = "Beyond Voice EP09: Oprichting Spraakcoalitie"
