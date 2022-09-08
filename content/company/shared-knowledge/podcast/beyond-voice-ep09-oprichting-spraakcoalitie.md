@@ -11,5 +11,3 @@ spotify_code = "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.
 
 +++
 In deze aflevering van de Beyond Voice Podcast gaan Florian, Carla en Egon in op de oprichting van Stichting de Nederlandstalige Spraakcoalitie. Egon Verharen is de gast van vandaag. Hij is innovatiemanager bij de Nederlandse Publieke Omroep en een van de initiatiefnemers van de Spraakcoalitie. De Stichting zet zich in voor een gezonde publiek-private samenwerking: open, vertrouwd, inclusief en soeverein. In deze uitzending spreken we specifiek over de beschikbaarheid van een open en betere Nederlandstalige taalmodellen. Meer informatie over de Spraakcoalitie en het lidmaatschap: [https://www.spraakcoalitie.nl/](https://www.spraakcoalitie.nl/ "https://www.spraakcoalitie.nl/")
-
-test
