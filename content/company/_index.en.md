@@ -8,7 +8,7 @@ hero_image: "/img/upload/design-ohne-titelfe.png"
 page_title: Putting the Y. into AI
 intro_text: We believe great products and services can only thrive if you understand
   what drives users and meets their expectations. Our focus is to deliver AI solutions
-  that creates long-lasting business value. Unlocking the potential of knowledge and
+  that create long-lasting business value. Unlocking the potential of knowledge and
   using our fundamental AI knowledge and experience, we focus on added value to empower
   humans. Our reason **whY**.
 features:
