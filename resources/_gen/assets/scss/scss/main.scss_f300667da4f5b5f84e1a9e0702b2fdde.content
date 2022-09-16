@@ -1391,6 +1391,127 @@ dl.faq button[aria-expanded="true"] {
     font-weight: 700;
     margin-bottom: 2rem; }
 
+/********** Smart Call Assistance **********/
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 8.25em;
+  scroll-snap-stop: 8.25em; }
+
+.sca-feature-section {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+  margin-top: 4.6rem; }
+
+.time-line {
+  margin: 5rem 0;
+  position: relative;
+  font-weight: 700; }
+
+.time-line .link {
+  position: absolute;
+  text-align: center; }
+
+.link-01 {
+  bottom: -3rem;
+  left: 5rem; }
+
+.link-02 {
+  top: -3rem;
+  left: 15rem; }
+
+.link-03 {
+  bottom: -3rem;
+  left: 24rem; }
+
+.link-04 {
+  top: -3rem;
+  right: 14rem; }
+
+.link-05 {
+  bottom: -3rem;
+  right: 5rem; }
+
+.wide.wide-left {
+  align-items: flex-end; }
+
+h2.title {
+  margin-bottom: 1.25rem; }
+
+.wide.wide-right {
+  align-items: flex-start; }
+
+#sca01, #sca03, #sca05 {
+  border-right: 7px solid #F08B00;
+  text-align: right; }
+
+#sca02, #sca04 {
+  border-left: 7px solid #F08B00;
+  text-align: left; }
+
+#sca05 {
+  margin-bottom: 4rem; }
+
+.sca-image {
+  width: 35%;
+  border-radius: 1rem;
+  min-height: 10rem; }
+
+.sca-image.left {
+  margin-right: 2rem; }
+
+.sca-image.right {
+  margin-left: 2rem; }
+
+.download-container {
+  margin: 5rem 0;
+  display: flex;
+  justify-content: center;
+  width: 100%; }
+
+.download-button {
+  cursor: pointer;
+  height: 4rem;
+  width: 60%;
+  background: #4AACC4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 800; }
+
+@media screen and (max-width: 895px) {
+  #sca01, #sca02, #sca03, #sca04, #sca05 {
+    border: none; }
+  .sca-feature-section {
+    flex-direction: column; }
+  .sca-image {
+    width: 100%; }
+  .sca-image.left {
+    margin-right: 0; }
+  .sca-image.right {
+    margin-left: 0; }
+  .download-button {
+    width: 80%; }
+  .time-line {
+    margin: 2.5rem 0;
+    width: 80%; }
+  .link-01 {
+    bottom: -3rem;
+    left: 0; }
+  .link-02 {
+    top: -3rem;
+    left: 5rem; }
+  .link-03 {
+    bottom: -3rem;
+    left: 8rem; }
+  .link-04 {
+    top: -3rem;
+    right: 4rem; }
+  .link-05 {
+    bottom: -3rem;
+    right: 1rem; } }
+
 /********** Circles **********/
 .circles {
   display: flex !important;
