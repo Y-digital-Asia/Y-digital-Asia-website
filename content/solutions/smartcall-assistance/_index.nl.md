@@ -37,7 +37,7 @@ numbered_features:
     with Ally in a natural way. Call Handling thus reduces call volume and allows
     agents in contact centres to stop spending time on simple, repetitive questions,
     and focus on more complex issues.
-  image: "/img/hero-SCA.jpeg"
+  image: "/img/upload/hero-conversational-ai-new.jpg"
 - title: Call Routing
   text: Based on the customer’s input, Ally connects the customer to the best agent
     for their unique issue. This can be based on variables such as waiting times,
