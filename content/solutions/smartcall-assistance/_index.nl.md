@@ -29,7 +29,7 @@ numbered_features:
     their phone number and personal details such as date of birth, postal code, etc.
     Once the identity and intent of the caller are clear, the assistant can proceed
     to either fulfil or route the call.
-  image: "/img/upload/hero-careers"
+  image: "/img/upload/hero-careers.jpg"
 - title: Call Handling
   text: Call Handling offers clients the ability to self-service, giving them the
     opportunity to solve problems on-demand; also outside office hours. By starting
