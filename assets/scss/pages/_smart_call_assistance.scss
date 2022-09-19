@@ -5,7 +5,8 @@ html { scroll-behavior: smooth; scroll-padding-top: 8.25em; scroll-snap-stop:  8
   display: flex;
   flex-direction: row;
   padding: 1rem;
-  margin-top: 4.6rem
+  margin-top: 4.6rem;
+  align-items: center;
 }
 
 .time-line {
@@ -39,6 +40,14 @@ html { scroll-behavior: smooth; scroll-padding-top: 8.25em; scroll-snap-stop:  8
   bottom: -3rem;
   right: 5rem;
 }
+.wide-right h1, .wide-left h1 {
+  font-size: 1.5rem;
+}
+
+.wide-right p, .wide-left p {
+  line-height: 1.65rem;
+}
+
 .wide.wide-left {
   align-items: flex-end;
 }
@@ -68,6 +77,7 @@ h2.title {
   width: 35%;
   border-radius: 1rem;
   min-height: 10rem;
+  max-height: 100%;
 }
 
 .sca-image.left {
@@ -87,7 +97,8 @@ h2.title {
 .download-button {
     cursor: pointer;
     height: 4rem;
-    width: 60%;
+    width: 50%;
+    max-width: 520px;
     background: #4AACC4;
     // text-align: center;
     display: flex;
