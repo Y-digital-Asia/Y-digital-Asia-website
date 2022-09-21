@@ -9,10 +9,10 @@ hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
 page_title: Conversational IVR
-intro_text: Verbeter de klantervaring en verlaag tegelijkertijd uw servicekosten.
-  Smart Call Assistance - een vorm van Conversational IVR - kan zowel uw klanten als
-  medewerkers in het KCC ondersteunen. Met behulp van Smart Call Assistance kunt u
-  intakes uitvoeren, inkomende gesprekken routeren en gesprekken daadwerkelijk afhandelen
+intro_text: Verbeter de klantervaring en verlaag tegelijkertijd uw servicekosten met
+  Smart Call Assistance, gebaseerd op het Conversational AI-platform Ally. Ally ondersteunt
+  zowel klanten als medewerkers in het KCC. Met behulp van Smart Call Assistance kunt
+  u intakes uitvoeren, inkomende gesprekken routeren en gesprekken daadwerkelijk afhandelen
   en administreren. Bovendien helpt een gebruiksvriendelijke 'whispering' functie
   uw medewerkers bij hun dagelijkse werk.
 action_text: Hoe werkt het?
