@@ -34,12 +34,14 @@ numbered_features:
     beller duidelijk zijn, kan de assistent het gesprek afhandelen of doorverbinden.
   image: "/img/upload/hero-careers.jpg"
 - title: Call Handling
-  text: Call Handling offers clients the ability to self-service, giving them the
-    opportunity to solve problems on-demand; also outside office hours. By starting
-    the conversation with the open question ‘How can I help you?’, clients can converse
-    with Ally in a natural way. Call Handling thus reduces call volume and allows
-    agents in contact centres to stop spending time on simple, repetitive questions,
-    and focus on more complex issues.
+  text: 'Smart Call Assistance kan de beller op basis van de vraag doorverbinden met
+    de juiste afdeling. Of desgewenst met de meest passende medewerker voor zijn of
+    haar unieke vraag. Hiervoor gebruiken we variabelen zoals wachttijden, een voorkeur
+    om te spreken met de persoon die ze eerder hebben gesproken of specifieke vakinhoudelijke
+    kennis van de medewerker. De gegevens en vraag van de klant worden uiteraard via
+    een warme overdracht meegegeven aan de medewerker.
+
+    '
   image: "/img/upload/hero-conversational-ai-new.jpg"
 - title: Call Routing
   text: Based on the customer’s input, Ally connects the customer to the best agent
