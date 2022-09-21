@@ -30,7 +30,7 @@ numbered_features:
     tijd zonder dat dit ten koste gaat van de klanttevredenheid. Ally kan de identiteit
     van een beller verifiëren via uw CRM-systeem. Aan de hand van bijvoorbeeld het
     telefoonnummer en persoonlijke gegevens, zoals BSN-nummer, geboortedatum of postcode. '
-  image: "/img/upload/hero-careers.jpg"
+  image: "/img/upload/sm_498233134-1.jpg"
 - title: Call Routing
   text: Smart Call Assistance kan de beller op basis van de vraag doorverbinden met
     de juiste afdeling. Of desgewenst met de meest passende medewerker voor zijn of
