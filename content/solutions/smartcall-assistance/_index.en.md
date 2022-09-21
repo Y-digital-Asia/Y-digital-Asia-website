@@ -55,7 +55,7 @@ numbered_features:
     description and the resolution. Real-time summarisation solves the issue where
     a customer needs to repeat their query and other information when transferred
     from a voice assistant to an agent.
-  image: "/img/hero-SCA.jpeg"
+  image: "/img/upload/sm_phone.jpg"
 - title: Agent Assist
   text: When Ally is ‘listening in’ on the call and summarising in real time, it can
     also suggest possible answers to the agent; even linking back to relevant parts
