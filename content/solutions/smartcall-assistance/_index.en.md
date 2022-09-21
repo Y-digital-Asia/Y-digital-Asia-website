@@ -50,11 +50,11 @@ numbered_features:
   image: "/img/hero-SCA.jpeg"
 - title: Registration
   text: The conversation registration feature summarizes a transcript of an ongoing
-    discussion using an AI natural language model and registers all information in
-    your CRM system. Hereby, Ally determines the issue description and all resolutions
-    tried that have been performed previously. Real-time summarisation solves the
-    issue where a customer needs to repeat their query and other information when
-    transferred from a voice assistant to an agent.
+    discussion using an AI natural language model and in co-creation with the agent
+    registers all information in your CRM system. Hereby, Ally determines the issue
+    description and the resolution. Real-time summarisation solves the issue where
+    a customer needs to repeat their query and other information when transferred
+    from a voice assistant to an agent.
   image: "/img/hero-SCA.jpeg"
 - title: Agent Assist
   text: When Smart Call Assistance is ‘listening in’ on the call and summarising in
