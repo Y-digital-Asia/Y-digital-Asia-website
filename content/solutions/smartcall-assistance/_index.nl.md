@@ -24,14 +24,14 @@ two_round_buttons:
   right_button_link: "/contact/"
 numbered_features:
 - title: Klant identificatie
-  text: Klantidentificatie is het proces van het vaststellen van de identiteit van
-    de klant en controle van de autorisatie van deze klant. In het contactcenter kan
-    Smart Call Assistance voorbereidend werk doen voor de medewerker of de klant op
-    basis van autorisatie toegang geven tot conversational self-service. Ally kan
-    de identiteit van een beller verifiëren via het CRM-systeem, aan de hand van het
-    telefoonnummer en persoonlijke gegevens zoals geboortedatum, postcode en huisnummer.
-    Zodra de identiteit en de intentie van de beller duidelijk zijn, kan de assistent
-    het gesprek zelfstandig afhandelen of doorverbinden.
+  text: Klantidentificatie is het proces van verificatie van de identiteit van de
+    persoon die uw KCC belt. Door de autorisatie via Conversational AI te controleren,
+    kan de assistent het gesprek voorbereiden voor de medewerker of de klant autoriseren
+    voor selfservice. Dit bespaart veel tijd zonder dat dit ten koste gaat van de
+    klanttevredenheid. Ally kan de identiteit van een beller verifiëren via uw CRM-systeem.
+    Aan de hand van bijvoorbeeld het telefoonnummer en persoonlijke gegevens, zoals
+    geboortedatum of postcode. Zodra de identiteit, autorisatie en intentie van de
+    beller duidelijk zijn, kan de assistent het gesprek afhandelen of doorverbinden.
   image: "/img/upload/hero-careers.jpg"
 - title: Call Handling
   text: Call Handling offers clients the ability to self-service, giving them the
