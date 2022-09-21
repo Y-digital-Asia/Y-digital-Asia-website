@@ -1,6 +1,6 @@
 ---
-title: Smart Call Assistance
-description: smart call assistance
+title: Conversational IVR
+description: Conversational IVR
 layout: smart-call-assistance
 lang: nl
 translationKey: smartcall-assistance
@@ -8,7 +8,7 @@ hero_image: "/img/hero-SCA.jpeg"
 hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
-page_title: Smart Call Assistance
+page_title: Conversational IVR
 intro_text: Reduce your cost to serve and at the same time improve customer experience.
   AI-powered voice assistants that support the agents in your call centre. By performing
   intakes, routing incoming calls and actually handling calls. And an easy-to-use
