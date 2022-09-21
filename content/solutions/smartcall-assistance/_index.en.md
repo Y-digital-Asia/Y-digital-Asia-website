@@ -39,7 +39,7 @@ numbered_features:
     spoke to, or specific subject matter knowledge of the agent. No matter who the
     call is routed to, Ally is the ideal colleague and will always hand over the call
     with all information ready to go.
-  image: "/img/upload/sm_phone.jpg"
+  image: "/img/upload/sm_office.jpg"
 - title: Call Handling
   text: Call Handling offers clients the ability to self-service, giving them the
     opportunity to solve problems on-demand; also outside office hours. By starting
