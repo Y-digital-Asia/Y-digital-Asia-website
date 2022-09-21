@@ -37,8 +37,8 @@ numbered_features:
     opportunity to solve problems on-demand; also outside office hours. By starting
     the conversation with the open question ‘How can I help you?’, clients can converse
     with Ally in a natural way. Call Handling thus reduces call volume and allows
-    agents in contact centres to stop spending time on simple, repetitive questions,
-    and focus on more complex issues.
+    agents in contact centres to stop spending time on simple, repetitive questions.
+    They can focus on more complex issues.
   image: "/img/hero-SCA.jpeg"
 - title: Call Routing
   text: Based on the customer’s input, Ally connects the customer to the best agent
