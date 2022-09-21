@@ -134,4 +134,5 @@ fields:
   label: Vacancy
 pages:
 - content/company/careers.en.md
+- content/company/careers.en.md
 - content/company/careers.nl.md
