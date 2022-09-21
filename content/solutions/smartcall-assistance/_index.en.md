@@ -32,6 +32,14 @@ numbered_features:
     Once the identity and intent of the caller are clear, the assistant can proceed
     to either fulfil or route the call.
   image: "/img/hero-SCA.jpeg"
+- title: Call Routing
+  text: Based on the customer’s input, Ally connects the customer to the right department
+    and even best agent for their unique question. This can be based on variables
+    such as waiting times, a preference to talk to the same person they previously
+    spoke to, or specific subject matter knowledge of the agent. No matter who the
+    call is routed to, Ally is the ideal colleague and will always hand over the call
+    with all information ready to go.
+  image: "/img/hero-SCA.jpeg"
 - title: Call Handling
   text: Call Handling offers clients the ability to self-service, giving them the
     opportunity to solve problems on-demand; also outside office hours. By starting
@@ -39,14 +47,6 @@ numbered_features:
     with Ally in a natural way. Call Handling thus reduces call volume and allows
     agents in contact centres to stop spending time on simple, repetitive questions.
     They can focus on more complex issues.
-  image: "/img/hero-SCA.jpeg"
-- title: Call Routing
-  text: Based on the customer’s input, Ally connects the customer to the best agent
-    for their unique issue. This can be based on variables such as waiting times,
-    a preference to talk to the same person they previously spoke to, or specific
-    subject matter knowledge of the agent. No matter who the call is routed to, Ally
-    is the ideal colleague and will always hand over the call with all information
-    ready to go.
   image: "/img/hero-SCA.jpeg"
 - title: Registration
   text: The conversation registration feature summarizes a transcript of an ongoing
