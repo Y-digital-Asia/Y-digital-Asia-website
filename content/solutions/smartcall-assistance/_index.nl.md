@@ -9,11 +9,12 @@ hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
 page_title: Conversational IVR
-intro_text: Verlaag uw servicekosten en verbeter tegelijkertijd de klantervaring.
-  AI-powered spraakassistenten die de agenten in uw callcenter ondersteunen. Door
-  intakes uit te voeren, inkomende gesprekken te routeren en gesprekken daadwerkelijk
-  af te handelen. En een gebruiksvriendelijke fluisterfunctie om de agenten te helpen
-  bij hun dagelijkse werk.
+intro_text: Verbeter de klantervaring en verlaag tegelijkertijd uw servicekosten.
+  AI-gestuurde spraakassistenten kunnen zowel uw klanten als de agenten in uw KCC
+  ondersteunen. Met behulp van Smart Call Assistance kunt u intakes uitvoeren, inkomende
+  gesprekken routeren en gesprekken daadwerkelijk afhandelen en administreren. Bovendien
+  helpt een gebruiksvriendelijke 'whispering' functie uw medewerkers bij hun dagelijkse
+  werk.
 action_text: Hoe werkt het?
 download_text: Download de whitepaper
 two_round_buttons:
