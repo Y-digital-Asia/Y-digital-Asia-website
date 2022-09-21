@@ -30,6 +30,14 @@ weight = 20
 	url = "/solutions/intelligent-document-processing/"
 	pageRef = "/solutions/intelligent-document-processing"
 	weight = 24
+	[[main]]
+	identifier = "smartcall-assistance"
+	parent = "solutions"
+	name = "smart call assistance"
+	title = "smart call assistance"
+	url = "/solutions/smartcall-assistance/"
+	pageRef = "/solutions/smartcall-assistance"
+	weight = 26
 [[main]]
 identifier = "services"
 name = "services"
@@ -112,6 +120,13 @@ weight = 20
 	url = "/solutions/intelligent-document-processing/"
 	pageRef = "/solutions/intelligent-document-processing"
 	weight = 24
+	[[footer]]
+	parent = "solutions"
+	identifier = "smartcall-assistance1"
+	name = "Smart Call Assistance"
+	url = "/solutions/smartcall-assistance/"
+	pageRef = "/solutions/smartcall-assistance"
+	weight = 26
 [[footer]]
 identifier = "services"
 name = "Services"

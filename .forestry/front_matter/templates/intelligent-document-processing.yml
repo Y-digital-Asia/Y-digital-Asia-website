@@ -123,6 +123,4 @@ fields:
     label: right_button_link
 pages:
 - content/solutions/intelligent-document-processing/_index.en.md
-- content/solutions/intelligent-document-processing/_index.en.md
-- content/solutions/intelligent-document-processing/_index.nl.md
 - content/solutions/intelligent-document-processing/_index.nl.md

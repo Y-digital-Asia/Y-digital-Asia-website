@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+{{ partial "hero.html" . }}
+
+<section class="wide light-gray">
+
+  {{ partial "hero-circles.html" . }}
+
+  <section class="intro">
+    <h1 class="sub-circles">{{ .Params.page_title }}</h1>
+    <p>{{ markdownify .Params.intro_text }}</p>
+  </section>
+</section>
+<section class="wide second">
+
+  <h1 class="orange-text">{{ .Params.action_text }}</h1>
+  <div class="time-line">
+    <img src="/img/time-line.jpeg" />
+    {{ if .Params.numbered_features }}
+    {{ $counter := 1 }}
+    {{ range .Params.numbered_features }}
+    {{$title := .title}}
+    <a class="link link-0{{ $counter }}" href="#sca0{{ $counter }}">
+      {{$title = replace .title " " "<br>"}}
+      {{ $title | safeHTML}}
+    </a>
+    {{ $counter = add $counter 1 }}
+    {{ end }}
+    {{ end }}
+  </div>
+  <div class="download-container">
+    {{/* <button type="button" onclick="alert('test')" class="download-button">{{ .Params.download_text }}</button> */}}
+    <a class="download-button" href="/img/upload/nldigital-terms-en.pdf" download>{{ .Params.download_text }}</a>
+  </div>
+  {{ if .Params.numbered_features }}
+  {{ $counter := 0 }}
+  {{ $mod := 0 }}
+  {{ range .Params.numbered_features }}
+  {{ $counter = add $counter 1 }}
+  <div id="sca0{{ $counter }}" class="sca-feature-section">
+    {{$mod = mod $counter 2}}
+    {{if eq 0 $mod }}
+    <div class="wide wide-right">
+      <h1 class="title">{{ .title }}</h1>
+      <p>{{ markdownify .text }}</p>
+    </div>
+
+    <img class="sca-image right" src="{{ .image }}" alt="">
+
+
+    {{else}}
+    <img class="sca-image left" src="{{ .image }}" alt="">
+    <div class="wide wide-left">
+      <h1 class="title">{{ .title }}</h1>
+      <p>{{ markdownify .text }}</p>
+    </div>
+    {{end}}
+  </div>
+  {{ end }}
+  {{ end }}
+
+  {{ partial "two-round-buttons.html" . }}
+
+</section>
+
+{{ end }}
