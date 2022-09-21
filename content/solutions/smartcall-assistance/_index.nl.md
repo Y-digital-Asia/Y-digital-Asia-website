@@ -23,7 +23,7 @@ two_round_buttons:
   left_button_link: "/contact/"
   right_button_link: "/contact/"
 numbered_features:
-- title: Customer Identification
+- title: Klant identificatie
   text: Klantidentificatie is het proces van het vaststellen van de identiteit van
     de klant en controle van de autorisatie van deze klant. In het contactcenter kan
     Smart Call Assistance voorbereidend werk doen voor de medewerker of de klant op
