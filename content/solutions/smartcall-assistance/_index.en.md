@@ -1,6 +1,6 @@
 ---
 title: Conversational IVR
-description: smart call assistance
+description: Conversational IVR
 layout: smart-call-assistance
 lang: en
 translationKey: smartcall-assistance
@@ -8,11 +8,12 @@ hero_image: "/img/hero-SCA.jpeg"
 hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
-page_title: Smart Call Assistance
-intro_text: Reduce your cost to serve and at the same time improve customer experience.
-  AI-powered voice assistants that support the agents in your call centre. By performing
-  intakes, routing incoming calls and actually handling calls. And an easy-to-use
-  whispering function to help our agents in their daily work.
+page_title: Conversational IVR
+intro_text: Improve your customer experience and at the same time reduce your cost
+  to serve. AI-powered voice assistants  can support your customers as well as the
+  agents in your contact centre. By performing intakes, routing incoming calls and
+  actually handling and administrating calls. And an easy to use whispering function
+  that helps your agents in their daily work.
 action_text: How does it work?
 download_text: Download White Paper
 two_round_buttons:
@@ -22,11 +23,12 @@ two_round_buttons:
   right_button_link: "/contact/"
 numbered_features:
 - title: Customer Identification
-  text: Customer identification is the process of verifying the identity of persons
-    and checking the authorisation via the phone channel in order to prepare the human
-    agent for further interaction with the customer or authorize the customer for
-    self-service. Ally can verify a caller's identity through your CRM system using
-    their phone number and personal details such as date of birth, postal code, etc.
+  text: Customer identification is the process of verifying the identity of the person
+    calling your contact centre. By checking the authorisation via Conversational
+    AI, the assistant can prepare the call for the human agent. Or authorize the customer
+    for self-service. This will save a huge amount of time without sacrifising customer
+    satisfaction. Ally can verify a caller's identity through your CRM system using
+    their phone number and personal details such as date of birth or postal code.
     Once the identity and intent of the caller are clear, the assistant can proceed
     to either fulfil or route the call.
   image: "/img/hero-SCA.jpeg"
