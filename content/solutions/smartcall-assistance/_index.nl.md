@@ -23,7 +23,7 @@ two_round_buttons:
   left_button_link: "/contact/"
   right_button_link: "/contact/"
 numbered_features:
-- title: Klant identificatie
+- title: Klant Identificatie
   text: Klantidentificatie is het proces van verificatie van de identiteit van de
     persoon die uw KCC belt. Door de autorisatie via Conversational AI te controleren,
     kan de assistent het gesprek voorbereiden voor de medewerker of de klant autoriseren
