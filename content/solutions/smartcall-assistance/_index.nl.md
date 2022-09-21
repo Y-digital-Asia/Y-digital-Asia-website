@@ -60,12 +60,13 @@ numbered_features:
     naar een agent. Ook handig!
   image: "/img/hero-SCA.jpeg"
 - title: Agent Assist
-  text: When Smart Call Assistance is ‘listening in’ on the call and summarising in
-    real-time, it can also suggest possible answers to the agent; even linking back
-    to relevant parts of an instruction manual. Customers and human agents both benefit
-    from whisper agents. For new employees, this reduces the need to learn lengthy
-    company handbooks by heart – or frantically searching for the correct information
-    while on the call. The consumer receives prompt, precise responses to their queries.
+  text: Wanneer Ally meeluistert met het gesprek en het real time samenvat, doen we
+    ook suggesties aan de medewerker voor mogelijke antwoorden. Deze suggesties extraheren
+    we met behulp van AI uit diverse bronnen, zoals een kennisbank of website. Zowel
+    klanten als medewerkers profiteren van deze 'whispering-functie'. Voor nieuwe
+    medewerkers vermindert dit de noodzaak om alle kennis uit het hoofd te leren -
+    of tijdens het gesprek gehaast te zoeken naar de juiste informatie. De consument
+    krijgt snel en nauwkeurig antwoord op zijn vragen.
   image: "/img/hero-SCA.jpeg"
 
 ---
