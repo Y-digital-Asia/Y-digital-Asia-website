@@ -47,7 +47,7 @@ numbered_features:
     with Ally in a natural way. Call Handling thus reduces call volume and allows
     agents in contact centres to stop spending time on simple, repetitive questions.
     They can focus on more complex issues.
-  image: "/img/hero-SCA.jpeg"
+  image: "/img/upload/sm_office.jpg"
 - title: Registration
   text: The conversation registration feature summarizes a transcript of an ongoing
     discussion using an AI natural language model and in co-creation with the agent
