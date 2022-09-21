@@ -33,16 +33,6 @@ numbered_features:
     geboortedatum of postcode. Zodra de identiteit, autorisatie en intentie van de
     beller duidelijk zijn, kan de assistent het gesprek afhandelen of doorverbinden.
   image: "/img/upload/hero-careers.jpg"
-- title: Call Handling
-  text: 'Smart Call Assistance kan de beller op basis van de vraag doorverbinden met
-    de juiste afdeling. Of desgewenst met de meest passende medewerker voor zijn of
-    haar unieke vraag. Hiervoor gebruiken we variabelen zoals wachttijden, een voorkeur
-    om te spreken met de persoon die ze eerder hebben gesproken of specifieke vakinhoudelijke
-    kennis van de medewerker. De gegevens en vraag van de klant worden uiteraard via
-    een warme overdracht meegegeven aan de medewerker.
-
-    '
-  image: "/img/upload/hero-conversational-ai-new.jpg"
 - title: Call Routing
   text: Smart Call Assistance kan de beller op basis van de vraag doorverbinden met
     de juiste afdeling. Of desgewenst met de meest passende medewerker voor zijn of
@@ -51,6 +41,16 @@ numbered_features:
     kennis van de medewerker. De gegevens en vraag van de klant worden uiteraard via
     een warme overdracht meegegeven aan de medewerker.
   image: "/img/hero-SCA.jpeg"
+- title: Call Handling
+  text: 'Call Handling biedt klanten de mogelijkheid tot selfservice, zo kunnen zij
+    on-demand problemen oplossen. Ook buiten kantooruren. Door het gesprek te beginnen
+    met de open vraag "Hoe kan ik u helpen?" kunnen klanten op een natuurlijke manier
+    met Ally praten. Call Handling vermindert zo het aantal ''live'' gesprekken en
+    neemt eenvoudig, repetitief werk uit handen. Zo kunnen medewerkers zich richten
+    op mee uitdagend werk, wat een positief effect heeft op de medewerkerstevredenheid.
+
+    '
+  image: "/img/upload/hero-conversational-ai-new.jpg"
 - title: Registration
   text: The conversation registration feature summarizes a transcript of an ongoing
     discussion using an AI natural language model and registers all information in
