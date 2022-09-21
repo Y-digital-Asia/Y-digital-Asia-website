@@ -64,6 +64,6 @@ numbered_features:
     the need to learn lengthy company handbooks by heart – or frantically searching
     for the correct information while on the call. The consumer receives prompt, precise
     responses to their queries.
-  image: "/img/hero-SCA.jpeg"
+  image: "/img/upload/sm_phone.jpg"
 
 ---
