@@ -24,13 +24,14 @@ two_round_buttons:
   right_button_link: "/contact/"
 numbered_features:
 - title: Customer Identification
-  text: Customer identification is the process of verifying the identity of persons
-    and checking the authorisation via the phone channel in order to prepare the human
-    agent for further interaction with the customer or authorize the customer for
-    self-service. Ally can verify a caller's identity through your CRM system using
-    their phone number and personal details such as date of birth, postal code, etc.
-    Once the identity and intent of the caller are clear, the assistant can proceed
-    to either fulfil or route the call.
+  text: Klantidentificatie is het proces van het vaststellen van de identiteit van
+    de klant en controle van de autorisatie van deze klant. In het contactcenter kan
+    Smart Call Assistance voorbereidend werk doen voor de medewerker of de klant op
+    basis van autorisatie toegang geven tot conversational self-service. Ally kan
+    de identiteit van een beller verifiëren via het CRM-systeem, aan de hand van het
+    telefoonnummer en persoonlijke gegevens zoals geboortedatum, postcode en huisnummer.
+    Zodra de identiteit en de intentie van de beller duidelijk zijn, kan de assistent
+    het gesprek zelfstandig afhandelen of doorverbinden.
   image: "/img/upload/hero-careers.jpg"
 - title: Call Handling
   text: Call Handling offers clients the ability to self-service, giving them the
