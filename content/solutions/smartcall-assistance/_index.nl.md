@@ -44,12 +44,12 @@ numbered_features:
     '
   image: "/img/upload/hero-conversational-ai-new.jpg"
 - title: Call Routing
-  text: Based on the customer’s input, Ally connects the customer to the best agent
-    for their unique issue. This can be based on variables such as waiting times,
-    a preference to talk to the same person they previously spoke to, or specific
-    subject matter knowledge of the agent. No matter who the call is routed to, Ally
-    is the ideal colleague and will always hand over the call with all information
-    ready to go.
+  text: Smart Call Assistance kan de beller op basis van de vraag doorverbinden met
+    de juiste afdeling. Of desgewenst met de meest passende medewerker voor zijn of
+    haar unieke vraag. Hiervoor gebruiken we variabelen zoals wachttijden, een voorkeur
+    om te spreken met de persoon die ze eerder hebben gesproken of specifieke vakinhoudelijke
+    kennis van de medewerker. De gegevens en vraag van de klant worden uiteraard via
+    een warme overdracht meegegeven aan de medewerker.
   image: "/img/hero-SCA.jpeg"
 - title: Registration
   text: The conversation registration feature summarizes a transcript of an ongoing
