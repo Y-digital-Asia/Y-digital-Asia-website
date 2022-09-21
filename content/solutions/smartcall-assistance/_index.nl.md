@@ -38,7 +38,7 @@ numbered_features:
     om te spreken met de persoon die ze eerder hebben gesproken of specifieke vakinhoudelijke
     kennis van de medewerker. De gegevens en vraag van de klant worden uiteraard via
     een warme overdracht meegegeven aan de medewerker.
-  image: "/img/hero-SCA.jpeg"
+  image: "/img/upload/sm_office.jpg"
 - title: Call Handling
   text: 'Call Handling biedt klanten de mogelijkheid tot selfservice, zo kunnen zij
     on-demand problemen oplossen. Ook buiten kantooruren. Door het gesprek te beginnen
@@ -48,7 +48,7 @@ numbered_features:
     op mee uitdagend werk, wat een positief effect heeft op de medewerkerstevredenheid.
 
     '
-  image: "/img/upload/hero-conversational-ai-new.jpg"
+  image: "/img/upload/sm_office2.jpg"
 - title: Registratie
   text: Met Smart Call Assistance kunt u eenvoudig gesprekken transcriberen en samenvatten.
     De medewerker kan zo eenvoudig de verslaglegging voor het CRM-systeem doen. Hierbij
@@ -56,7 +56,7 @@ numbered_features:
     het gesprek lost bovendien het probleem op waarbij een klant zijn vraag en andere
     informatie moet herhalen wanneer deze wordt overgedragen van een spraakassistent
     naar een agent. Ook handig!
-  image: "/img/hero-SCA.jpeg"
+  image: "/img/upload/sm_phone.jpg"
 - title: Agent Assist
   text: Wanneer Ally meeluistert met het gesprek en het real time samenvat, doen we
     ook suggesties aan de medewerker voor mogelijke antwoorden. Deze suggesties extraheren
@@ -65,6 +65,6 @@ numbered_features:
     medewerkers vermindert dit de noodzaak om alle kennis uit het hoofd te leren -
     of tijdens het gesprek gehaast te zoeken naar de juiste informatie. De consument
     krijgt snel en nauwkeurig antwoord op zijn vragen.
-  image: "/img/hero-SCA.jpeg"
+  image: "/img/upload/sm_assist.jpg"
 
 ---
