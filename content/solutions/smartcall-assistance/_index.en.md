@@ -57,13 +57,13 @@ numbered_features:
     from a voice assistant to an agent.
   image: "/img/upload/sm_phone.jpg"
 - title: Agent Assist
-  text: When Ally is ‘listening in’ on the call and summarising in real time, it can
-    also suggest possible answers to the agent; even linking back to relevant parts
-    of an instruction manual or knowledge base in your backend. Customers and human
-    agents both benefit from this 'whisper' feature. For new employees, this reduces
-    the need to learn lengthy company handbooks by heart – or frantically searching
-    for the correct information while on the call. The consumer receives prompt, precise
-    responses to their queries.
+  text: 'When Ally is ‘listening in’ on the call and summarising in real time, it
+    can also suggest possible answers to the agent; even linking back to relevant
+    parts of an instruction manual or knowledge base in your backend. Customers and
+    human agents both benefit from this ''whisper'' feature. For new employees, this
+    reduces the need to learn lengthy company handbooks by heart – or frantically
+    searching for the correct information while on the call. The consumer receives
+    prompt, precise responses to their queries. '
   image: "/img/upload/sm_assist.jpg"
 
 ---
