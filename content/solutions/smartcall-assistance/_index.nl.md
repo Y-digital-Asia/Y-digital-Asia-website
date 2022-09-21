@@ -9,12 +9,13 @@ hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
 page_title: Conversational IVR
-intro_text: Reduce your cost to serve and at the same time improve customer experience.
-  AI-powered voice assistants that support the agents in your call centre. By performing
-  intakes, routing incoming calls and actually handling calls. And an easy-to-use
-  whispering function to help our agents in their daily work.
-action_text: How does it work?
-download_text: Download White Paper
+intro_text: Verlaag uw servicekosten en verbeter tegelijkertijd de klantervaring.
+  AI-powered spraakassistenten die de agenten in uw callcenter ondersteunen. Door
+  intakes uit te voeren, inkomende gesprekken te routeren en gesprekken daadwerkelijk
+  af te handelen. En een gebruiksvriendelijke fluisterfunctie om de agenten te helpen
+  bij hun dagelijkse werk.
+action_text: Hoe werkt het?
+download_text: Download de whitepaper
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
