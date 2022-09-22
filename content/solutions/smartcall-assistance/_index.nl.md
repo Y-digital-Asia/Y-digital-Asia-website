@@ -18,7 +18,14 @@ intro_text: Verbeter de klantervaring en verlaag tegelijkertijd uw servicekosten
 action_text: Hoe werkt het?
 download_text: Download de whitepaper
 form_download_text: Gratis download
-consent_text: Ik wil graag meer informatie
+consent_text: Ik ga akkoord dat mijn gegevens voor deze doeleinden worden gebruikt.
+consent_info: Y.digital respecteert van je privacy. We nemen je op in de Y.digital database 
+  om je op de hoogte te houden van actuele ontwikkelingen. Je kunt je hiervoor op ieder 
+  gewenst moment afmelden. Voor meer informatie over hoe je jezelf kunt afmelden, onze 
+  privacypraktijken, en hoe wij ons inzetten om jouw privacy te beschermen en te respecteren, 
+  kun je ons Privacybeleid bekijken. Door hieronder op Download te klikken, stem je ermee 
+  in dat Y.digital de hierboven verstrekte persoonlijke informatie opslaat en verwerkt om de 
+  gevraagde inhoud te leveren. 
 blue_button:
   dark_text: Download de whitepaper
   link: "/img/upload/y-digital_whitepaper-nl.pdf"

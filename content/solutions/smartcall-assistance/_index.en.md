@@ -21,7 +21,7 @@ consent_info: Y.digital respects your privacy. We will include you in the Y.digi
   database to keep you informed of current developments. You can unsubscribe from this 
   at any time. For more information about how to unsubscribe, our privacy practices, 
   and how we are committed to protecting and respecting your privacy, please view our 
-  Privacy Policy. By clicking submit below, you consent to Y.digital storing and 
+  Privacy Policy. By clicking Download below, you consent to Y.digital storing and 
   processing the personal information provided above to deliver the requested content.
 consent_text: I agree that my data will be used for these purposes.
 blue_button:
