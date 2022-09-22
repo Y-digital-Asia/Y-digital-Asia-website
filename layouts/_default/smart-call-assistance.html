@@ -97,7 +97,7 @@
             <div class="form__group">
               <input type="text" class="form__input" placeholder='{{T "companyName"}}' id="company" name="company" />
             </div>
-            <p class="obligated" style="color: wheat;margin-top: 1rem">blablabla</p>
+            <p class="obligated" style="color: wheat;margin-top: 1rem">{{.Params.consent_info}}</p>
             <div>
               <input required style="all:revert" checked type="checkbox" id="y-digital-consent" name="ydigital" />
               <label for="ydigital">{{.Params.consent_text}}*</label>
