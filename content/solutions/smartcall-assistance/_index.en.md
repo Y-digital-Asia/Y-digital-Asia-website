@@ -16,6 +16,11 @@ intro_text: Improve your customer experience and at the same time reduce your co
   that helps your agents in their daily work.
 action_text: How does it work?
 download_text: Download White Paper (in Dutch)
+form_download_text: Free download
+consent_text: I would like more information
+blue_button:
+  dark_text: Download White Paper (in Dutch)
+  link: "/img/upload/y-digital_whitepaper-nl.pdf"
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
