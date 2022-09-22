@@ -8,11 +8,18 @@
 
   <section class="intro">
     <h1 class="sub-circles">{{ .Params.page_title }}</h1>
-    <p>{{ markdownify .Params.intro_text }}</p>
+    <p style="padding-bottom: 2.5em;">{{ markdownify .Params.intro_text }}</p>
   </section>
 </section>
 <section class="wide second">
-
+  {{ with .Params.blue_button }}
+  <button style="cursor: pointer;" id="sca-download">
+    <div class="circle download small">
+      <p>{{ .dark_text }}</p>
+      <img class="arrow-small" src="/img/arrow-white.svg">
+    </div>
+  </button>
+  {{ end }}
   <h1 class="orange-text">{{ .Params.action_text }}</h1>
   <div class="time-line">
     <img src="/img/time-line.jpeg" />
@@ -28,10 +35,9 @@
     {{ end }}
     {{ end }}
   </div>
-  <div class="download-container">
-    {{/* <button type="button" onclick="alert('test')" class="download-button">{{ .Params.download_text }}</button> */}}
+  {{/* <div class="download-container">
     <a class="download-button" href="/img/upload/y-digital_whitepaper-nl.pdf" download>{{ .Params.download_text }}</a>
-  </div>
+  </div> */}}
   {{ if .Params.numbered_features }}
   {{ $counter := 0 }}
   {{ $mod := 0 }}
@@ -62,5 +68,49 @@
   {{ partial "two-round-buttons.html" . }}
 
 </section>
+<div id="sca-download-form" class="modal">
+  <!-- Modal content -->
+  <div class="sca-modal-content">
+    <div class="modal-body">
+      <img id="sca-close" class="close sca-close" src="/img/crotch.svg" alt="">
+      <section class="section section__form">
+        <div class="row">
+          <h3 class="heading-tertiary mb-lg">
+            {{ .Params.form_download_text}} <span class="heading-tertiary--sub"></span>
+          </h3>
 
+          <!--Form-->
+          <form method="post" class="form" id="sca-form">
+            <div class="form__group">
+              <input type="text" class="form__input" placeholder='{{T "firstName"}}*' id="first_name" name="first_name"
+                required />
+            </div>
+          
+            <div class="form__group">
+              <input type="text" class="form__input" placeholder='{{T "lastName"}}*' id="last_name" name="last_name" required />
+            </div>
+            
+            <div class="form__group">
+              <input type="email" class="form__input" placeholder='{{T "email"}}*' id="email" name="email" required />
+            </div>
+            
+            <div class="form__group">
+              <input type="text" class="form__input" placeholder='{{T "companyName"}}' id="company" name="company" />
+            </div>
+            
+            <div>
+              <input required style="all:revert" checked type="checkbox" id="y-digital-consent" name="ydigital" />
+              <label for="ydigital">{{.Params.consent_text}}*</label>
+            </div>
+            <p class="obligated" style="color: wheat;margin-top: 1rem">{{ T "requiredField"}}</p>
+            <div class="form__group">
+              <button class="btn btn--primary" type="submit">{{.Params.download_text}}</button>
+            </div>
+            </form>
+            </div>
+            </section>
+            </div>
+            </div>
+            </div>
+            <script type="text/javascript" src="/js/sca.js"></script>
 {{ end }}

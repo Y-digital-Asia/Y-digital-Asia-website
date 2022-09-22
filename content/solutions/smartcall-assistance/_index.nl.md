@@ -17,6 +17,11 @@ intro_text: Verbeter de klantervaring en verlaag tegelijkertijd uw servicekosten
   uw medewerkers bij hun dagelijkse werk.
 action_text: Hoe werkt het?
 download_text: Download de whitepaper
+form_download_text: Gratis download
+consent_text: Ik wil graag meer informatie
+blue_button:
+  dark_text: Download de whitepaper
+  link: "/img/upload/y-digital_whitepaper-nl.pdf"
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
