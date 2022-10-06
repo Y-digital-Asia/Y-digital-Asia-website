@@ -37,13 +37,12 @@ team:
     business implementation extremely exciting and rewarding!”"
   name: Alexandra Redmann
   job: Data Scientist
-- photo: "/img/upload/lea-baudner.jpg"
-  text: "“As a recent graduate, I was looking for that one company that offers me
-    a chance to prove my knowledge – with Y.digital, I found it. While solving complex
-    business solutions with a diverse team, I have the opportunity to develop my skillset
-    and keep advancing.”"
-  name: Lea Baudner
-  job: Digital Business Lead
+- photo: "/img/upload/sep-photo.jpg"
+  text: "“Graduating from Utrecht University on Artificial Intelligence in 2021. Working
+    at y.digital where I enjoy using my A.I. skills while learning a lot from the
+    endless technological innovations around me.”"
+  name: Sep Keuchenius
+  job: Data scientist
 - photo: "/img/upload/przemek-lenkiewicz.jpg"
   text: "“I joined Y.digital as one of the first employees, and am very enthusiastic
     about the ideas this company was built on. I love the informal work environment
