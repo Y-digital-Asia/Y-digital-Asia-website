@@ -42,7 +42,7 @@ team:
   job: Data Scientist
 - photo: "/img/upload/sep-photo.jpg"
   text: '"Afgestudeerd aan de Universiteit Utrecht op Kunstmatige Intelligentie in
-    2021. Werkend bij y.digital waar ik mijn K.I. vaardigheden met veel plezier kwijt
+    2021. Werkend bij Y.digital waar ik mijn K.I. vaardigheden met veel plezier kwijt
     kan en tegelijkertijd veel leer van de oneindige technologische innovaties om
     mij heen."'
   name: Sep Keuchenius
