@@ -39,7 +39,7 @@ team:
   job: Data Scientist
 - photo: "/img/upload/sep-photo.jpg"
   text: "“Graduating from Utrecht University on Artificial Intelligence in 2021. Working
-    at y.digital where I enjoy using my A.I. skills while learning a lot from the
+    at Y.digital where I enjoy using my A.I. skills while learning a lot from the
     endless technological innovations around me.”"
   name: Sep Keuchenius
   job: Data scientist
