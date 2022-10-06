@@ -40,13 +40,13 @@ team:
     en lonend!"'
   name: Alexandra Redmann
   job: Data Scientist
-- photo: "/img/upload/lea-baudner.jpg"
-  text: '"Als onlangs afgestudeerde was ik op zoek naar dat ene bedrijf dat me een
-    kans biedt om mijn kennis te bewijzen - bij Y.digital heb ik die gevonden. Terwijl
-    ik complexe bedrijfsoplossingen oplos met een divers team, krijg ik de kans om
-    mijn skillset te ontwikkelen en vooruit te blijven gaan."'
-  name: Lea Baudner
-  job: Digital Business Lead
+- photo: "/img/upload/sep-photo.jpg"
+  text: '"Afgestudeerd aan de Universiteit Utrecht op Kunstmatige Intelligentie in
+    2021. Werkend bij y.digital waar ik mijn K.I. vaardigheden met veel plezier kwijt
+    kan en tegelijkertijd veel leer van de oneindige technologische innovaties om
+    mij heen."'
+  name: Sep Keuchenius
+  job: Data scientist
 - photo: "/img/upload/przemek-lenkiewicz.jpg"
   text: '"Ik ben bij Y.digital gekomen als een van de eerste medewerkers, erg enthousiast
     over de ideeën waar dit bedrijf op gebouwd is. Ik hou van de informele werkomgeving
