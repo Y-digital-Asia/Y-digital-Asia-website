@@ -38,9 +38,11 @@ team:
   name: Alexandra Redmann
   job: Data Scientist
 - photo: "/img/upload/sep-photo.jpg"
-  text: "“Graduating from Utrecht University on Artificial Intelligence in 2021. Working
-    at Y.digital where I enjoy using my A.I. skills while learning a lot from the
-    endless technological innovations around me.”"
+  text: "“What I love about A.I. is that there is no such thing as done. Endless innovations
+    are always ahead of us, as we strive to build solutions that can, time and again,
+    surpass limits we thought we would never reach. I chose working @Y because I believe
+    they truly challenge themselves to come up with new ideas to solve problems that
+    have never been solved before.”"
   name: Sep Keuchenius
   job: Data scientist
 - photo: "/img/upload/przemek-lenkiewicz.jpg"
