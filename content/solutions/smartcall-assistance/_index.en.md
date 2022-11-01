@@ -9,11 +9,11 @@ hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
 page_title: Conversational IVR
-intro_text: Improve your customer experience and at the same time reduce your cost
+intro_text: 'Improve your customer experience and at the same time reduce your cost
   to serve. AI-powered voice assistants  can support your customers as well as the
   agents in your contact centre. By performing intakes, routing incoming calls and
   actually handling and administrating calls. And an easy to use whispering function
-  that helps your agents in their daily work.
+  that helps your agents in their daily work. '
 action_text: How does it work?
 download_text: Download White Paper
 form_download_text: Free download
