@@ -25,8 +25,8 @@ consent_info: Y.digital respects your privacy. We will include you in the Y.digi
   processing the personal information provided above to deliver the requested content.
 consent_text: I agree that my data will be used for these purposes.
 blue_button:
-  dark_text: Download White Paper (in Dutch)
-  link: "/img/upload/y-digital_whitepaper-nl.pdf"
+  dark_text: Download White Paper
+  link: "/img/upload/y-digital_whitepaper-en.pdf"
 two_round_buttons:
   left_button: Stop reading
   right_button: Start connecting
