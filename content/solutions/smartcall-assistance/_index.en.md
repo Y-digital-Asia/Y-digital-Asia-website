@@ -15,14 +15,15 @@ intro_text: Improve your customer experience and at the same time reduce your co
   actually handling and administrating calls. And an easy to use whispering function
   that helps your agents in their daily work.
 action_text: How does it work?
-download_text: Download White Paper (in Dutch)
+download_text: Download White Paper
 form_download_text: Free download
-consent_info: Y.digital respects your privacy. We will include you in the Y.digital 
-  database to keep you informed of current developments. You can unsubscribe from this 
-  at any time. For more information about how to unsubscribe, our privacy practices, 
-  and how we are committed to protecting and respecting your privacy, please view our 
-  Privacy Policy. By clicking Download below, you consent to Y.digital storing and 
-  processing the personal information provided above to deliver the requested content.
+consent_info: Y.digital respects your privacy. We will include you in the Y.digital
+  database to keep you informed of current developments. You can unsubscribe from
+  this at any time. For more information about how to unsubscribe, our privacy practices,
+  and how we are committed to protecting and respecting your privacy, please view
+  our Privacy Policy. By clicking Download below, you consent to Y.digital storing
+  and processing the personal information provided above to deliver the requested
+  content.
 consent_text: I agree that my data will be used for these purposes.
 blue_button:
   dark_text: Download White Paper (in Dutch)
