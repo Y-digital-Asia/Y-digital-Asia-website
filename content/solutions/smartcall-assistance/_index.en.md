@@ -9,20 +9,21 @@ hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
 page_title: Conversational IVR
-intro_text: Improve your customer experience and at the same time reduce your cost
+intro_text: 'Improve your customer experience and at the same time reduce your cost
   to serve. AI-powered voice assistants  can support your customers as well as the
   agents in your contact centre. By performing intakes, routing incoming calls and
   actually handling and administrating calls. And an easy to use whispering function
-  that helps your agents in their daily work.
+  that helps your agents in their daily work. '
 action_text: How does it work?
-download_text: Download White Paper (in Dutch)
+download_text: Download White Paper
 form_download_text: Free download
-consent_info: Y.digital respects your privacy. We will include you in the Y.digital 
-  database to keep you informed of current developments. You can unsubscribe from this 
-  at any time. For more information about how to unsubscribe, our privacy practices, 
-  and how we are committed to protecting and respecting your privacy, please view our 
-  Privacy Policy. By clicking Download below, you consent to Y.digital storing and 
-  processing the personal information provided above to deliver the requested content.
+consent_info: Y.digital respects your privacy. We will include you in the Y.digital
+  database to keep you informed of current developments. You can unsubscribe from
+  this at any time. For more information about how to unsubscribe, our privacy practices,
+  and how we are committed to protecting and respecting your privacy, please view
+  our Privacy Policy. By clicking Download below, you consent to Y.digital storing
+  and processing the personal information provided above to deliver the requested
+  content.
 consent_text: I agree that my data will be used for these purposes.
 blue_button:
   dark_text: Download White Paper
