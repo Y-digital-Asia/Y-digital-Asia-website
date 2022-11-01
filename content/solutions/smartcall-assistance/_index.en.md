@@ -15,7 +15,7 @@ intro_text: 'Improve your customer experience and at the same time reduce your c
   actually handling and administrating calls. And an easy to use whispering function
   that helps your agents in their daily work. '
 action_text: How does it work?
-download_text: Download White Paper
+download_text: Download White Paperes
 form_download_text: Free download
 consent_info: Y.digital respects your privacy. We will include you in the Y.digital
   database to keep you informed of current developments. You can unsubscribe from
