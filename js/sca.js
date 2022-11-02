@@ -27,7 +27,11 @@ window.onclick = function (event) {
   }
 };
 
-function postData(url = "", data = {}) {
+function postData(
+  url = "",
+  data = {},
+  downloadUrl = `${window.location.origin}/img/upload/y-digital_whitepaper-nl.pdf`
+) {
   // send data to server
   fetch(url, {
     method: "POST",
@@ -47,11 +51,11 @@ function postData(url = "", data = {}) {
       }
 
       // download file
-      var url = `${window.location.origin}/img/upload/y-digital_whitepaper-nl.pdf`; // URL to download
+      var url = downloadUrl; // URL to download
       console.log(url);
       anchor = document.createElement("a");
-      anchor.href = url;
-      anchor.download = "y-digital_whitepaper-nl"; // saved as file name
+      anchor.href = downloadUrl;
+      anchor.download = "y-digital_whitepaper";
       anchor.click();
 
       // clean up
@@ -78,6 +82,10 @@ form.addEventListener("submit", function (e) {
   const company = document.getElementById("company")?.value || "test";
   const email = document.getElementById("email")?.value;
   const phone = "test";
+  const downloadUrl = document
+    .getElementById("submit-button")
+    ?.getAttribute("data-url");
+  console.log({ downloadUrl });
   const ydigital = document.getElementById("y-digital-consent").checked;
   const data = {
     first_name,
@@ -90,5 +98,5 @@ form.addEventListener("submit", function (e) {
     ydigital: ydigital ? 1 : 0,
   };
   // modal.style.display = "none";
-  postData(API_ENDPOINT, data);
+  postData(API_ENDPOINT, data, downloadUrl);
 });
