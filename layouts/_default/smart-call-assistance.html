@@ -104,7 +104,8 @@
             </div>
             <p class="obligated" style="color: wheat;margin-top: 1rem">{{ T "requiredField"}}</p>
             <div class="form__group">
-              <button class="btn btn--primary" type="submit">{{.Params.download_text}}</button>
+              <button id="submit-button" data-url="{{ .Params.blue_button.link }}" class="btn btn--primary"
+                type="submit">{{.Params.download_text}}</button>
             </div>
             </form>
             </div>
