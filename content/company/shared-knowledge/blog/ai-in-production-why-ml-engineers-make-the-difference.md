@@ -4,7 +4,7 @@ date = 2022-05-23T10:59:37Z
 description = "In this blog we did a deep-dive in the world of a ML Engineer. "
 featured_image = "/img/upload/pexels-thisisengineering-3861958.jpg"
 layout = "blog"
-summary = "In this blog we did a deep-dive in the world of a ML Engineer. "
+summary = "In this blog we did a deep-dive in the world of a ML Engineer. \n\n\n"
 title = "AI in production: why ML Engineers make the difference"
 
 +++
