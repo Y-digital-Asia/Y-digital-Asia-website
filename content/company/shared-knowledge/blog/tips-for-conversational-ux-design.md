@@ -4,7 +4,7 @@ date = 2022-11-22T08:14:26Z
 description = ""
 featured_image = "/img/upload/483933081.jpeg"
 layout = "blog"
-summary = "The importance of conversational user experience design (CxD) has been discussed so often in recent years as it can lead to an exceptional customer experience. However, understanding that conversation design entails more than merely producing text in a conversational style is crucial. "
+summary = "Understanding that conversation design entails more than merely producing text in a conversational style is crucial. "
 title = "Tips for conversational UX design"
 
 +++
