@@ -4,7 +4,7 @@ date = 2022-11-22T07:55:31Z
 description = ""
 featured_image = "/img/upload/img_0359-copy.jpg"
 layout = "blog"
-summary = "Op donderdag 3 november opende Y.digital de deuren van haar nieuwe kantoor in Zeist. De feestelijke openingshandeling werd verricht door Wethouder Walter van Dijk en Managing Director Ian FitzPatrick. Een mooie mijlpaal voor het snelgroeiende bedrijf dat zich specialiseert in artificial intelligence voor geautomatiseerde taalverwerking. “We vinden het belangrijk om een ‘clubhuis’ te hebben waar onze medewerkers, klanten en partners zich welkom voelen”, aldus Managing Director Ian FitzPatrick. \n\n\n"
+summary = "Op donderdag 3 november opende Y.digital de deuren van haar nieuwe kantoor in Zeist. De feestelijke openingshandeling werd verricht door Wethouder Walter van Dijk en Managing Director Ian FitzPatrick.\n\n\n"
 title = "Wethouder Van Dijk opent nieuw kantoor Y.digital in Zeist"
 
 +++
