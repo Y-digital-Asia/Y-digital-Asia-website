@@ -1,5 +1,4 @@
 baseURL = "https://enabledemo.com/"
-publishdir = "https://github.com/Y-digital-Asia/Y-digital-Asia-website"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 # theme = "ydigital"
