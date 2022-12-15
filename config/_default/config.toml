@@ -1,6 +1,6 @@
-baseURL = "https://enabledemo.com/"
+baseURL = "http://enabledemo.com/"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 # theme = "ydigital"
-title = "Y.digital test"
+title = "Y.digital Asia"
 metaDataFormat = "yaml"
