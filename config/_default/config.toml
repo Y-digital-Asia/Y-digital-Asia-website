@@ -1,4 +1,4 @@
-baseURL = "https://y-digital-asia.github.io/Y-digital-Asia-website"
+baseurl = "https://y-digital-asia.github.io/Y-digital-Asia-website"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 # theme = "ydigital"
