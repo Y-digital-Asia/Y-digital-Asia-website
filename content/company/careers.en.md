@@ -4,7 +4,7 @@ description: careers
 layout: careers
 lang: en
 translationKey: careers
-hero_image: "/img/upload/man-2-telefoon-21resized.png"
+hero_image: "/img/upload/man-2-telefoon-21.jpg"
 intro_text: Talent drives our team and our capacity to deliver the best solutions
   and services for our customers. Join us on this exciting journey and our team of
   people who are passionate about digital, learning and working together.

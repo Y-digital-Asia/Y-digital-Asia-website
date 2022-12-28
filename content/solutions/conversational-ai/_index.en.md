@@ -4,7 +4,7 @@ description: conversational ai
 layout: conversational-ai
 lang: en
 translationKey: conversational-ai
-hero_image: "/img/upload/man-2-telefoon-16resized.png"
+hero_image: "/img/upload/man-2-telefoon-16.jpg"
 hero_circles:
   left_circle: Stop inefficiency
   right_circle: Start scaling
