@@ -4,7 +4,7 @@ description: solutions
 layout: solutions
 lang: en
 translationKey: solutions
-hero_image: "/img/hero-solutions.jpg"
+hero_image: "/img/upload/frame-3resized.png"
 hero_circles:
   left_circle: Stop wasting time
   right_circle: Start empowering
