@@ -53,10 +53,10 @@ hero_slide:
   slide_image: "/img/upload/creative-agency-smart-glasses-asian-male-formal-cloth-conversation-with-smartphone-freelance-working-with-laptop-coworking-area-office-space-with-freshness-with-blur-office-background.jpg"
 - slide_left_circle: Stop standardizing
   slide_right_circle: Start personalizing
-  slide_image: "/img/hero-solutions.jpg"
+  slide_image: "/img/upload/futuristic-digital-presentation-by-businesswoman-white.jpg"
 - slide_left_circle: Stop robotizing
   slide_right_circle: Start humanizing
-  slide_image: "/img/hero-home.jpg"
+  slide_image: "/img/upload/mimi-thian-jxuuxxuffp4-unsplash.jpg"
 media:
   first_item: listen to podcast
   first_item_link: "/company/shared-knowledge/podcast/"
