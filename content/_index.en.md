@@ -1,7 +1,7 @@
 ---
 title: Home
 description: Home
-hero_image: "/img/upload/man-2-telefoon-17resized.png"
+hero_image: "/img/upload/man-2-telefoon-17.jpg"
 lang: en
 translationKey: home
 hero_circles:
@@ -50,7 +50,7 @@ cards: []
 hero_slide:
 - slide_left_circle: Stop time wasting
   slide_right_circle: Start scaling
-  slide_image: "/img/upload/man-2-telefoon-22resized.png"
+  slide_image: "/img/upload/man-2-telefoon-22.jpg"
 - slide_left_circle: Stop standardizing
   slide_right_circle: Start personalizing
   slide_image: "/img/upload/man-2-telefoon-12resized.png"
