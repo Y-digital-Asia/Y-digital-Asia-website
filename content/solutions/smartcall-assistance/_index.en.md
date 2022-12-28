@@ -4,7 +4,7 @@ description: Conversational IVR
 layout: smart-call-assistance
 lang: en
 translationKey: smartcall-assistance
-hero_image: "/img/upload/man-2-telefoon-23resized.png"
+hero_image: "/img/upload/man-2-telefoon-23.jpg"
 hero_circles:
   left_circle: Stop demanding
   right_circle: Start supporting
@@ -77,5 +77,6 @@ numbered_features:
     searching for the correct information while on the call. The consumer receives
     prompt, precise responses to their queries. '
   image: "/img/upload/sm_assist.jpg"
+draft: true
 
 ---
