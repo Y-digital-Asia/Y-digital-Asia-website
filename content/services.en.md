@@ -4,7 +4,7 @@ description: services
 layout: services
 lang: en
 translationKey: services
-hero_image: "/img/upload/man-2-telefoon-14resized.png"
+hero_image: "/img/upload/man-2-telefoon-14.jpg"
 intro_text: 'Adding AI to your strategy means preparing your organization to adopt
   different ways of working and learn new skills. Our experts can help you. We have
   built an international team of experienced, motivated, highly-skilled experts (PhD,
@@ -50,5 +50,6 @@ cards:
 round_button:
   button_text: Get in touch
   button_link: "/contact/"
+draft: true
 
 ---
