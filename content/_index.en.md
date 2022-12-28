@@ -64,5 +64,6 @@ media:
   second_item_link: https://www.nationalevoicemonitor.nl/
   third_item: sign up newsletter
   third_item_link: "#footer-newsletter-form"
+draft: true
 
 ---
