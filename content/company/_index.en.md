@@ -4,7 +4,7 @@ description: company
 layout: company
 lang: en
 translationKey: company
-hero_image: "/img/upload/man-2-telefoon-20resized.png"
+hero_image: "/img/upload/man-2-telefoon-20.jpg"
 page_title: Putting the Y. into AI
 intro_text: We believe great products and services can only thrive if you understand
   what drives users and meets their expectations. Our focus is to deliver AI solutions
@@ -72,5 +72,6 @@ round_button:
   button_text: Careers
   button_link: "/company/careers/"
 ally_platform: ''
+draft: true
 
 ---
