@@ -50,7 +50,7 @@ cards: []
 hero_slide:
 - slide_left_circle: Stop time wasting
   slide_right_circle: Start scaling
-  slide_image: "/img/upload/creative-agency-smart-glasses-asian-male-formal-cloth-conversation-with-smartphone-freelance-working-with-laptop-coworking-area-office-space-with-freshness-with-blur-office-background.jpg"
+  slide_image: "/img/upload/hero-solutions.jpg"
 - slide_left_circle: Stop standardizing
   slide_right_circle: Start personalizing
   slide_image: "/img/upload/futuristic-digital-presentation-by-businesswoman-white.jpg"
