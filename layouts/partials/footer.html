@@ -31,19 +31,6 @@
 	        {{ end }}
 	        </ul>
 		</section>
-		{{ range site.Params.address_netherlands }}
-		<section id="address01" class="address horizontal">
-				<h3 class="division">Y.digital {{ T "netherlands" }}</h3><br>
-			<address>
-				Arnhemse Bovenweg 140<br>
-				3708 AH Zeist<br>
-				The Netherlands<br>
-				KvK nr: 77103599<br><br>
-				<a href="tel:{{ .phone_clickable }}">{{ .phone_display }}</a><br>
-				<a href="mailto:{{ .email }}">{{ .email }}</a>
-			</address>
-		</section>
-		{{ end }}
 		
 		{{ range site.Params.address_asia }}
 		<section id="address02" class="address horizontal">
@@ -58,7 +45,19 @@
 			</address>
 		</section>
 		{{ end }}
-
+		{{ range site.Params.address_netherlands }}
+		<section id="address01" class="address horizontal">
+				<h3 class="division">Y.digital {{ T "netherlands" }}</h3><br>
+			<address>
+				Arnhemse Bovenweg 140<br>
+				3708 AH Zeist<br>
+				The Netherlands<br>
+				KvK nr: 77103599<br><br>
+				<a href="tel:{{ .phone_clickable }}">{{ .phone_display }}</a><br>
+				<a href="mailto:{{ .email }}">{{ .email }}</a>
+			</address>
+		</section>
+		{{ end }}			
 		<section class="social-copyright">
 			<ul class="social">
 
