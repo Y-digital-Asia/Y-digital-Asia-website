@@ -1,7 +1,7 @@
 ---
 title: Home
 description: Home
-hero_image: "/img/hero-home.jpg"
+hero_image: "/img/upload/millennial-group-young-asia-businessman-businesswoman-small-modern-urban-office-japanese-male-boss-supervisor-teaching-intern-new-employee-korean-girl-helping-with-difficult-assignment.jpg"
 lang: en
 translationKey: home
 hero_circles:
@@ -50,7 +50,7 @@ cards: []
 hero_slide:
 - slide_left_circle: Stop time wasting
   slide_right_circle: Start scaling
-  slide_image: "/img/hero-approach.jpg"
+  slide_image: "/img/upload/creative-agency-smart-glasses-asian-male-formal-cloth-conversation-with-smartphone-freelance-working-with-laptop-coworking-area-office-space-with-freshness-with-blur-office-background.jpg"
 - slide_left_circle: Stop standardizing
   slide_right_circle: Start personalizing
   slide_image: "/img/hero-solutions.jpg"
