@@ -43,7 +43,7 @@ numbered_features:
     their phone number and personal details such as date of birth or postal code.
     Once the identity and intent of the caller are clear, the assistant can proceed
     to either fulfil or route the call.
-  image: "/img/upload/sm_498233134-1.jpg"
+  image: "/img/upload/man-2-telefoon-19.jpg"
 - title: Call Routing
   text: Based on the customer’s input, Ally connects the customer to the right department
     and even best agent for their unique question. This can be based on variables
@@ -77,5 +77,6 @@ numbered_features:
     searching for the correct information while on the call. The consumer receives
     prompt, precise responses to their queries. '
   image: "/img/upload/sm_assist.jpg"
+draft: true
 
 ---
