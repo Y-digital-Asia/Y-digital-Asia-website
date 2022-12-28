@@ -32,9 +32,9 @@ quote_slide:
 - quote_text: "A common frustration with virtual assistants is that they do not understand
     enough or lead you through dialogues that are irrelevant. Now new technology is
     available to not only be scalable but also customer friendly.\n "
-  author: Nhat Dang
-  from: Y.digital Asia
-  photo: "/img/upload/nhat.jpeg"
+  author: Ian FitzPatrick
+  from: Y.digital
+  photo: "/img/upload/ian.jpeg"
 round_button:
   button_text: Go to solutions
   button_link: "/solutions/"
