@@ -56,7 +56,7 @@ hero_slide:
   slide_image: "/img/upload/man-2-telefoon-12resized.png"
 - slide_left_circle: Stop robotizing
   slide_right_circle: Start humanizing
-  slide_image: "/img/upload/10.jpg"
+  slide_image: "/img/upload/man-2-telefoon-17resized.png"
 media:
   first_item: listen to podcast
   first_item_link: "/company/shared-knowledge/podcast/"
