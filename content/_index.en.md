@@ -53,7 +53,7 @@ hero_slide:
   slide_image: "/img/upload/hero-solutions.jpg"
 - slide_left_circle: Stop standardizing
   slide_right_circle: Start personalizing
-  slide_image: "/img/upload/futuristic-digital-presentation-by-businesswoman-white.jpg"
+  slide_image: "/img/upload/hero-approach.jpg"
 - slide_left_circle: Stop robotizing
   slide_right_circle: Start humanizing
   slide_image: "/img/upload/mimi-thian-jxuuxxuffp4-unsplash.jpg"
