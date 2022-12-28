@@ -191,6 +191,5 @@ vacancy:
     ## Sounds like you?
 
     Call Art Ligthart for more information (06-50 23 10 19) or send an email with a link to your LinkedIn profile to [art@y.digital](mailto:art@y.digital)
-draft: true
 
 ---
