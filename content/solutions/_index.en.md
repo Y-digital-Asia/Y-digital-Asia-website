@@ -4,7 +4,7 @@ description: solutions
 layout: solutions
 lang: en
 translationKey: solutions
-hero_image: "/img/upload/frame-3resized.png"
+hero_image: "/img/upload/frame-3.jpg"
 hero_circles:
   left_circle: Stop wasting time
   right_circle: Start empowering
@@ -44,5 +44,6 @@ intelligent_document_processing:
 h2heading: Start humanizing
 h3heading: Off-the-shelf
 ally_platform: Our open standard AI-platform
+draft: true
 
 ---
