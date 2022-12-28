@@ -4,7 +4,7 @@ description: solutions
 layout: solutions
 lang: en
 translationKey: solutions
-hero_image: "/img/upload/frame-3.jpg"
+hero_image: "/img/upload/man-2-telefoon-17.jpg"
 hero_circles:
   left_circle: Stop wasting time
   right_circle: Start empowering
