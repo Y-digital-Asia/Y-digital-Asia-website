@@ -44,6 +44,5 @@ intelligent_document_processing:
 h2heading: Start humanizing
 h3heading: Off-the-shelf
 ally_platform: Our open standard AI-platform
-draft: true
 
 ---
