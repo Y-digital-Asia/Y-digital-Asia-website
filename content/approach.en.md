@@ -4,7 +4,7 @@ description: approach
 layout: approach
 lang: en
 translationKey: approach
-hero_image: "/img/upload/man-2-telefoon-22resized.png"
+hero_image: "/img/upload/frame-3.jpg"
 hero_circles:
   left_circle: Stop doubting
   right_circle: Start maximizing
