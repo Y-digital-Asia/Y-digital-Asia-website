@@ -76,7 +76,6 @@ numbered_features:
     reduces the need to learn lengthy company handbooks by heart – or frantically
     searching for the correct information while on the call. The consumer receives
     prompt, precise responses to their queries. '
-  image: "/img/upload/sm_assist.jpg"
-draft: true
+  image: "/img/upload/498233134-5sm.jpg"
 
 ---
