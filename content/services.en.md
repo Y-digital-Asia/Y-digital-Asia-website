@@ -50,6 +50,5 @@ cards:
 round_button:
   button_text: Get in touch
   button_link: "/contact/"
-draft: true
 
 ---
