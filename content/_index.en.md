@@ -34,7 +34,7 @@ quote_slide:
     available to not only be scalable but also customer friendly.\n "
   author: Nhat Dang
   from: Y.digital Asia
-  photo: "/img/upload/nhat.png"
+  photo: "/img/upload/nhat.jpeg"
 round_button:
   button_text: Go to solutions
   button_link: "/solutions/"
