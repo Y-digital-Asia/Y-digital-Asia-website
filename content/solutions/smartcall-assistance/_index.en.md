@@ -51,7 +51,7 @@ numbered_features:
     spoke to, or specific subject matter knowledge of the agent. No matter who the
     call is routed to, Ally is the ideal colleague and will always hand over the call
     with all information ready to go.
-  image: "/img/upload/man-2-telefoon-23.jpg"
+  image: "/img/upload/498233134-2sm.jpg"
 - title: Call Handling
   text: Call Handling offers clients the ability to self-service, giving them the
     opportunity to solve problems on-demand; also outside office hours. By starting
@@ -59,7 +59,7 @@ numbered_features:
     with Ally in a natural way. Call Handling thus reduces call volume and allows
     agents in contact centres to stop spending time on simple, repetitive questions.
     They can focus on more complex issues.
-  image: "/img/upload/man-2-telefoon-24.jpg"
+  image: "/img/upload/498233134-3sm.jpg"
 - title: Registration
   text: The conversation registration feature summarizes a transcript of an ongoing
     discussion using an AI natural language model and in co-creation with the agent
