@@ -56,7 +56,7 @@ hero_slide:
   slide_image: "/img/upload/7.jpg"
 - slide_left_circle: Stop robotizing
   slide_right_circle: Start humanizing
-  slide_image: "/img/upload/hero-home.jpg"
+  slide_image: "/img/upload/3.jpg"
 media:
   first_item: listen to podcast
   first_item_link: "/company/shared-knowledge/podcast/"
