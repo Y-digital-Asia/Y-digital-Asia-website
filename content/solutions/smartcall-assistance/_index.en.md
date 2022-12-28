@@ -43,7 +43,7 @@ numbered_features:
     their phone number and personal details such as date of birth or postal code.
     Once the identity and intent of the caller are clear, the assistant can proceed
     to either fulfil or route the call.
-  image: "/img/upload/man-2-telefoon-19.jpg"
+  image: "/img/upload/498233134-1sm.jpg"
 - title: Call Routing
   text: Based on the customer’s input, Ally connects the customer to the right department
     and even best agent for their unique question. This can be based on variables
@@ -59,7 +59,7 @@ numbered_features:
     with Ally in a natural way. Call Handling thus reduces call volume and allows
     agents in contact centres to stop spending time on simple, repetitive questions.
     They can focus on more complex issues.
-  image: "/img/upload/sm_office2.jpg"
+  image: "/img/upload/man-2-telefoon-24.jpg"
 - title: Registration
   text: The conversation registration feature summarizes a transcript of an ongoing
     discussion using an AI natural language model and in co-creation with the agent
