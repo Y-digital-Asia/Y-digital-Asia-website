@@ -1,7 +1,7 @@
 ---
 title: Home
 description: Home
-hero_image: "/img/upload/millennial-group-young-asia-businessman-businesswoman-small-modern-urban-office-japanese-male-boss-supervisor-teaching-intern-new-employee-korean-girl-helping-with-difficult-assignment.jpg"
+hero_image: "/img/upload/hero-home.jpg"
 lang: en
 translationKey: home
 hero_circles:
