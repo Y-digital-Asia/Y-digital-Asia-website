@@ -72,6 +72,5 @@ round_button:
   button_text: Careers
   button_link: "/company/careers/"
 ally_platform: ''
-draft: true
 
 ---
