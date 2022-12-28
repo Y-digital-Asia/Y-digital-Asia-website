@@ -4,7 +4,7 @@ description: conversational ai
 layout: conversational-ai
 lang: nl
 translationKey: conversational-ai
-hero_image: "/img/upload/hero-conversational-ai-new.jpg"
+hero_image: "/img/upload/man-2-telefoon-16resized.png"
 hero_circles:
   left_circle: Stop inefficiency
   right_circle: Start scaling
@@ -64,5 +64,6 @@ introtext: Users can communicate with a chatbot or voice-assistant in different 
   have to overcome the through of disillusion. Too often users are not properly understood
   or can only answer a question without supporting a following transactions.
 page_heading_2: Y. oplossingen
+draft: true
 
 ---
