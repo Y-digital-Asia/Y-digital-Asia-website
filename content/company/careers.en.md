@@ -70,14 +70,12 @@ vacancy:
     * A friendly, open, non-hierarchical, and collaborative working environment
     * Innovative projects at high-profile organisations across different sectors
     * Hybrid working, in the office, at the customer or from home
-    * Mobility package
     * An inspirational, diverse and international team of colleagues
     * A learning path tailored to your needs and ambitions
     * Benefits including: a comprehensive pension scheme and bonus scheme
   send_cv: |-
     ## Sounds like you?
 
-    Call Nhat Dang for more information (0904-338 147) or send an email with a link to your LinkedIn profile to [nhat@y.digital](mailto:ian@y.digital)
-draft: true
+    Call Nhat Dang for more information (0904 338 147) or send an email with a link to your LinkedIn profile to [nhat@y.digital](mailto:ian@y.digital).
 
 ---
