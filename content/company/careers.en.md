@@ -65,7 +65,6 @@ vacancy:
     * Semantic Web technologies (e.g., RDF, SPARQL)
   what_we_offer_heading: 'What we offer:'
   what_we_offer: |-
-    * The Y.clubhouse: our brand new office in Zeist, near Station Driebergen-Zeist
     * Weekly peer-programming and brown-bag meetings to promote knowledge exchange, including the Y.academy with support & learning materials to aid you.
     * A cutting-edge technology stack
     * A friendly, open, non-hierarchical, and collaborative working environment
@@ -78,7 +77,7 @@ vacancy:
   send_cv: |-
     ## Sounds like you?
 
-    Call Ian FitzPatrick for more information (06-50 23 10 19) or send an email with a link to your LinkedIn profile to [ian@y.digital](mailto:ian@y.digital)
+    Call Nhat Dang for more information (0904-338 147) or send an email with a link to your LinkedIn profile to [nhat@y.digital](mailto:ian@y.digital)
 - title: Lead Conversation Designer
   role: |-
     ## About Us:
@@ -191,5 +190,6 @@ vacancy:
     ## Sounds like you?
 
     Call Art Ligthart for more information (06-50 23 10 19) or send an email with a link to your LinkedIn profile to [art@y.digital](mailto:art@y.digital)
+draft: true
 
 ---
